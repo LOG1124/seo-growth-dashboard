@@ -2691,6 +2691,38 @@ html>body{padding:0}</style>
     #seo-growth-dashboard-v2 [data-seo-panel="keywords"] .seo-data-row.header > :nth-child(n+2):nth-child(-n+5),
     #seo-growth-dashboard-v2 [data-seo-panel="seo-pages"] .seo-data-row.header > :nth-child(n+2):nth-child(-n+5) { font-family:inherit; }
   </style>
+  <style>
+    /* Mobile: turn dense acquisition rows into labelled metric groups and keep market bars readable. */
+    @media (max-width:620px) {
+      #seo-growth-dashboard-v2 .wide-analysis-grid > [data-panel="channels"],
+      #seo-growth-dashboard-v2 .wide-analysis-grid > [data-panel="markets"] { padding:16px 14px; }
+      #seo-growth-dashboard-v2 .traffic-total { display:flex; flex-wrap:wrap; gap:4px 7px; align-items:baseline; font-size:12px; }
+      #seo-growth-dashboard-v2 .traffic-total span { display:none; }
+      #seo-growth-dashboard-v2 .traffic-head { display:none; }
+      #seo-growth-dashboard-v2 .traffic-row { grid-template-columns:repeat(3,minmax(0,1fr)); gap:8px; padding:12px 0; }
+      #seo-growth-dashboard-v2 .traffic-row > :first-child { grid-column:1/-1; color:var(--foreground); font-weight:500; text-align:left; }
+      #seo-growth-dashboard-v2 .traffic-row > :not(:first-child) { display:flex; flex-direction:column; align-items:center; gap:3px; min-width:0; color:var(--foreground); font-size:14px; text-align:center !important; }
+      #seo-growth-dashboard-v2 .traffic-row > :not(:first-child)::before { color:var(--muted-foreground); font-family:var(--font-sans); font-size:10px; font-weight:500; line-height:1.2; }
+      #seo-growth-dashboard-v2 .traffic-row > :nth-child(2)::before { content:"GA4 会话数"; }
+      #seo-growth-dashboard-v2 .traffic-row > :nth-child(3)::before { content:"平均互动时长"; }
+      #seo-growth-dashboard-v2 .traffic-row > :nth-child(4)::before { content:"关键事件"; }
+      #seo-growth-dashboard-v2 .traffic-note { margin-top:10px; font-size:11px; line-height:1.5; }
+      #seo-growth-dashboard-v2 [data-panel="markets"] .section-head { align-items:flex-start; flex-direction:column; gap:4px; }
+      #seo-growth-dashboard-v2 [data-panel="markets"] .hmetric-head,
+      #seo-growth-dashboard-v2 [data-panel="markets"] .hrow { grid-template-columns:54px minmax(64px,1fr) 54px 38px; gap:6px; }
+      #seo-growth-dashboard-v2 [data-panel="markets"] .hmetric-head { padding:0 0 7px; font-size:10px; }
+      #seo-growth-dashboard-v2 [data-panel="markets"] .hmetric-head > :nth-child(1)::after { content:"市场"; }
+      #seo-growth-dashboard-v2 [data-panel="markets"] .hmetric-head > :nth-child(2)::after { content:"趋势"; }
+      #seo-growth-dashboard-v2 [data-panel="markets"] .hmetric-head > :nth-child(1),
+      #seo-growth-dashboard-v2 [data-panel="markets"] .hmetric-head > :nth-child(2) { text-align:left; }
+      #seo-growth-dashboard-v2 [data-panel="markets"] .hrow { min-height:34px; padding:5px 0; }
+      #seo-growth-dashboard-v2 [data-panel="markets"] .hlabel { overflow:hidden; font-size:13px; text-overflow:ellipsis; white-space:nowrap; }
+      #seo-growth-dashboard-v2 [data-panel="markets"] .htrack { min-width:0; height:12px; }
+      #seo-growth-dashboard-v2 [data-panel="markets"] .hvalue,
+      #seo-growth-dashboard-v2 [data-panel="markets"] .hclicks { font-size:13px; }
+      #seo-growth-dashboard-v2 [data-panel="markets"] .chart-caption { margin-top:10px; font-size:11px; line-height:1.5; }
+    }
+  </style>
 </div>
 
 <script src="https://unpkg.com/@floating-ui/core@1.7.3/dist/floating-ui.core.umd.min.js"></script>
