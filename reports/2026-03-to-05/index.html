@@ -2694,8 +2694,11 @@ html>body{padding:0}</style>
   <style>
     /* Mobile: turn dense acquisition rows into labelled metric groups and keep market bars readable. */
     @media (max-width:620px) {
+      #seo-growth-dashboard-v2 .wide-analysis-grid { grid-template-columns:minmax(0,1fr) !important; width:100%; }
       #seo-growth-dashboard-v2 .wide-analysis-grid > [data-panel="channels"],
-      #seo-growth-dashboard-v2 .wide-analysis-grid > [data-panel="markets"] { padding:16px 14px; }
+      #seo-growth-dashboard-v2 .wide-analysis-grid > [data-panel="markets"] { grid-column:1 !important; grid-row:auto !important; width:100%; min-width:0; padding:16px 14px; }
+      #seo-growth-dashboard-v2 [data-panel="channels"] .section-head,
+      #seo-growth-dashboard-v2 [data-panel="markets"] .section-head { align-items:flex-start; flex-direction:column; gap:4px; }
       #seo-growth-dashboard-v2 .traffic-total { display:flex; flex-wrap:wrap; gap:4px 7px; align-items:baseline; font-size:12px; }
       #seo-growth-dashboard-v2 .traffic-total span { display:none; }
       #seo-growth-dashboard-v2 .traffic-head { display:none; }
@@ -2707,7 +2710,6 @@ html>body{padding:0}</style>
       #seo-growth-dashboard-v2 .traffic-row > :nth-child(3)::before { content:"平均互动时长"; }
       #seo-growth-dashboard-v2 .traffic-row > :nth-child(4)::before { content:"关键事件"; }
       #seo-growth-dashboard-v2 .traffic-note { margin-top:10px; font-size:11px; line-height:1.5; }
-      #seo-growth-dashboard-v2 [data-panel="markets"] .section-head { align-items:flex-start; flex-direction:column; gap:4px; }
       #seo-growth-dashboard-v2 [data-panel="markets"] .hmetric-head,
       #seo-growth-dashboard-v2 [data-panel="markets"] .hrow { grid-template-columns:54px minmax(64px,1fr) 54px 38px; gap:6px; }
       #seo-growth-dashboard-v2 [data-panel="markets"] .hmetric-head { padding:0 0 7px; font-size:10px; }
