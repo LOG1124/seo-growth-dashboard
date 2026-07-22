@@ -790,7 +790,10 @@
         const points=layout.map(item=>`${item.x.toFixed(1)},${item.lineY.toFixed(1)}`);
         const bars=layout.map(item=>{
           const showLabel=item.index%labelStride===0;
-          return `<rect x="${(item.x-barWidth/2).toFixed(1)}" y="${item.barTop.toFixed(1)}" width="${barWidth.toFixed(1)}" height="${item.height.toFixed(1)}" rx="8" fill="var(--viz-series-1)" opacity=".86"/>${showLabel ? `<text x="${item.x}" y="${Math.max(top+12,item.barTop-10).toFixed(1)}" text-anchor="middle" class="trend-value">${number(item.month.metrics.impressions)}</text>` : ''}<text x="${item.x}" y="${base+28}" text-anchor="middle" class="trend-axis">${escapeHtml(item.month.label.slice(5))}月</text>`;
+          // Move the exposure label farther above the bar when the click
+          // marker is near the bar top, so neither annotation obscures data.
+          const exposureLabelY=Math.max(top+12,item.barTop-(Math.abs(item.lineY-(item.barTop-10))<26 ? 30 : 10));
+          return `<rect x="${(item.x-barWidth/2).toFixed(1)}" y="${item.barTop.toFixed(1)}" width="${barWidth.toFixed(1)}" height="${item.height.toFixed(1)}" rx="8" fill="var(--viz-series-1)" opacity=".86"/>${showLabel ? `<text x="${item.x}" y="${exposureLabelY.toFixed(1)}" text-anchor="middle" class="trend-value">${number(item.month.metrics.impressions)}</text>` : ''}<text x="${item.x}" y="${base+28}" text-anchor="middle" class="trend-axis">${escapeHtml(item.month.label.slice(5))}月</text>`;
         }).join('');
         const dots=layout.map(item=>{
           const barLabelY=Math.max(top+12,item.barTop-10);
