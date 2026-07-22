@@ -794,9 +794,11 @@
         }).join('');
         const dots=layout.map(item=>{
           const barLabelY=Math.max(top+12,item.barTop-10);
-          let labelY=item.lineY-15;
-          if (Math.abs(labelY-barLabelY)<28) labelY=item.lineY+25;
-          labelY=Math.max(top+14,Math.min(base-12,labelY));
+          // Keep the click label inside its own bar. This separates it from
+          // the exposure label above the bar and avoids label collisions when
+          // the click point is near the bar top.
+          const safeBarOffset=Math.max(26,Math.min(38,item.height-14));
+          const labelY=Math.max(item.barTop+16,Math.min(base-12,item.barTop+safeBarOffset));
           const showLabel=item.index%labelStride===0;
           const label=`${number(item.month.metrics.clicks)} 点击`;
           const labelWidth=Math.max(54,label.length*13);
