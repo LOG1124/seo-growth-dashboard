@@ -1,0 +1,3576 @@
+{
+  "source": "Google Search Console + Google Analytics 4",
+  "months": [
+    {
+      "label": "2026-01",
+      "period": [
+        "2026-01-01",
+        "2026-01-31"
+      ],
+      "metrics": {
+        "clicks": 2,
+        "impressions": 115,
+        "ctr": 1.74,
+        "averagePosition": 6.79,
+        "totalUsers": 376,
+        "pageViews": 863,
+        "sessions": 473,
+        "averageSessionDuration": 163.1,
+        "averageEngagementTimePerSession": 25.08,
+        "bounceRate": 56.24,
+        "keyEvents": 8,
+        "indexedPages": 0,
+        "inspectedPages": 0
+      },
+      "keywords": [
+        {
+          "clicks": 0,
+          "impressions": 3,
+          "ctr": 0.0,
+          "position": 52.0,
+          "query": "sedex members ethical trade audit",
+          "positionChange": null
+        },
+        {
+          "clicks": 0,
+          "impressions": 1,
+          "ctr": 0.0,
+          "position": 1.0,
+          "query": "what is their official website",
+          "positionChange": null
+        }
+      ],
+      "channels": [
+        {
+          "sessionDefaultChannelGroup": "Paid Search",
+          "sessions": 324,
+          "engagedSessions": 123,
+          "totalUsers": 315,
+          "screenPageViews": 365,
+          "averageSessionDuration": 42.444157,
+          "userEngagementDuration": 3553,
+          "bounceRate": 0.62037,
+          "keyEvents": 1,
+          "averageEngagementTimePerSession": 10.97
+        },
+        {
+          "sessionDefaultChannelGroup": "Direct",
+          "sessions": 107,
+          "engagedSessions": 61,
+          "totalUsers": 40,
+          "screenPageViews": 402,
+          "averageSessionDuration": 482.320359,
+          "userEngagementDuration": 5894,
+          "bounceRate": 0.429907,
+          "keyEvents": 7,
+          "averageEngagementTimePerSession": 55.08
+        },
+        {
+          "sessionDefaultChannelGroup": "Referral",
+          "sessions": 20,
+          "engagedSessions": 13,
+          "totalUsers": 2,
+          "screenPageViews": 54,
+          "averageSessionDuration": 386.865507,
+          "userEngagementDuration": 995,
+          "bounceRate": 0.35,
+          "keyEvents": 0,
+          "averageEngagementTimePerSession": 49.75
+        },
+        {
+          "sessionDefaultChannelGroup": "Organic Search",
+          "sessions": 11,
+          "engagedSessions": 4,
+          "totalUsers": 10,
+          "screenPageViews": 25,
+          "averageSessionDuration": 303.878454,
+          "userEngagementDuration": 1206,
+          "bounceRate": 0.636364,
+          "keyEvents": 0,
+          "averageEngagementTimePerSession": 109.64
+        },
+        {
+          "sessionDefaultChannelGroup": "Cross-network",
+          "sessions": 5,
+          "engagedSessions": 4,
+          "totalUsers": 5,
+          "screenPageViews": 10,
+          "averageSessionDuration": 115.255766,
+          "userEngagementDuration": 87,
+          "bounceRate": 0.2,
+          "keyEvents": 0,
+          "averageEngagementTimePerSession": 17.4
+        },
+        {
+          "sessionDefaultChannelGroup": "Organic Social",
+          "sessions": 4,
+          "engagedSessions": 2,
+          "totalUsers": 4,
+          "screenPageViews": 4,
+          "averageSessionDuration": 9.294851,
+          "userEngagementDuration": 5,
+          "bounceRate": 0.5,
+          "keyEvents": 0,
+          "averageEngagementTimePerSession": 1.25
+        },
+        {
+          "sessionDefaultChannelGroup": "Unassigned",
+          "sessions": 2,
+          "engagedSessions": 0,
+          "totalUsers": 2,
+          "screenPageViews": 3,
+          "averageSessionDuration": 46.203424,
+          "userEngagementDuration": 121,
+          "bounceRate": 1,
+          "keyEvents": 0,
+          "averageEngagementTimePerSession": 60.5
+        }
+      ],
+      "sources": [
+        {
+          "sessionSource": "google",
+          "sessions": 333,
+          "engagedSessions": 126,
+          "totalUsers": 324,
+          "screenPageViews": 374,
+          "averageSessionDuration": 41.618695,
+          "userEngagementDuration": 3571,
+          "bounceRate": 0.621622,
+          "keyEvents": 1,
+          "averageEngagementTimePerSession": 10.72
+        },
+        {
+          "sessionSource": "(direct)",
+          "sessions": 107,
+          "engagedSessions": 61,
+          "totalUsers": 40,
+          "screenPageViews": 402,
+          "averageSessionDuration": 482.320359,
+          "userEngagementDuration": 5894,
+          "bounceRate": 0.429907,
+          "keyEvents": 7,
+          "averageEngagementTimePerSession": 55.08
+        },
+        {
+          "sessionSource": "tagassistant.google.com",
+          "sessions": 14,
+          "engagedSessions": 7,
+          "totalUsers": 1,
+          "screenPageViews": 19,
+          "averageSessionDuration": 261.20204,
+          "userEngagementDuration": 579,
+          "bounceRate": 0.5,
+          "keyEvents": 0,
+          "averageEngagementTimePerSession": 41.36
+        },
+        {
+          "sessionSource": "kdocs.cn",
+          "sessions": 6,
+          "engagedSessions": 6,
+          "totalUsers": 1,
+          "screenPageViews": 35,
+          "averageSessionDuration": 680.080264,
+          "userEngagementDuration": 416,
+          "bounceRate": 0,
+          "keyEvents": 0,
+          "averageEngagementTimePerSession": 69.33
+        },
+        {
+          "sessionSource": "(data not available)",
+          "sessions": 5,
+          "engagedSessions": 4,
+          "totalUsers": 5,
+          "screenPageViews": 10,
+          "averageSessionDuration": 115.255766,
+          "userEngagementDuration": 87,
+          "bounceRate": 0.2,
+          "keyEvents": 0,
+          "averageEngagementTimePerSession": 17.4
+        },
+        {
+          "sessionSource": "facebook.com",
+          "sessions": 4,
+          "engagedSessions": 2,
+          "totalUsers": 4,
+          "screenPageViews": 4,
+          "averageSessionDuration": 9.294851,
+          "userEngagementDuration": 5,
+          "bounceRate": 0.5,
+          "keyEvents": 0,
+          "averageEngagementTimePerSession": 1.25
+        },
+        {
+          "sessionSource": "(not set)",
+          "sessions": 2,
+          "engagedSessions": 0,
+          "totalUsers": 2,
+          "screenPageViews": 3,
+          "averageSessionDuration": 46.203424,
+          "userEngagementDuration": 121,
+          "bounceRate": 1,
+          "keyEvents": 0,
+          "averageEngagementTimePerSession": 60.5
+        },
+        {
+          "sessionSource": "bing",
+          "sessions": 2,
+          "engagedSessions": 1,
+          "totalUsers": 1,
+          "screenPageViews": 16,
+          "averageSessionDuration": 1617.77234,
+          "userEngagementDuration": 1188,
+          "bounceRate": 0.5,
+          "keyEvents": 0,
+          "averageEngagementTimePerSession": 594.0
+        }
+      ],
+      "ga4Countries": [
+        {
+          "country": "United States",
+          "sessions": 64,
+          "totalUsers": 29,
+          "engagedSessions": 28,
+          "averageEngagementTimePerSession": 0.0
+        },
+        {
+          "country": "Greece",
+          "sessions": 51,
+          "totalUsers": 49,
+          "engagedSessions": 21,
+          "averageEngagementTimePerSession": 0.0
+        },
+        {
+          "country": "Hong Kong",
+          "sessions": 51,
+          "totalUsers": 16,
+          "engagedSessions": 34,
+          "averageEngagementTimePerSession": 0.0
+        },
+        {
+          "country": "Poland",
+          "sessions": 37,
+          "totalUsers": 36,
+          "engagedSessions": 12,
+          "averageEngagementTimePerSession": 0.0
+        },
+        {
+          "country": "India",
+          "sessions": 26,
+          "totalUsers": 25,
+          "engagedSessions": 15,
+          "averageEngagementTimePerSession": 0.0
+        },
+        {
+          "country": "Hungary",
+          "sessions": 23,
+          "totalUsers": 23,
+          "engagedSessions": 8,
+          "averageEngagementTimePerSession": 0.0
+        },
+        {
+          "country": "United Kingdom",
+          "sessions": 16,
+          "totalUsers": 16,
+          "engagedSessions": 6,
+          "averageEngagementTimePerSession": 0.0
+        },
+        {
+          "country": "China",
+          "sessions": 14,
+          "totalUsers": 10,
+          "engagedSessions": 10,
+          "averageEngagementTimePerSession": 0.0
+        },
+        {
+          "country": "Portugal",
+          "sessions": 14,
+          "totalUsers": 14,
+          "engagedSessions": 8,
+          "averageEngagementTimePerSession": 0.0
+        },
+        {
+          "country": "(not set)",
+          "sessions": 13,
+          "totalUsers": 13,
+          "engagedSessions": 0,
+          "averageEngagementTimePerSession": 0.0
+        },
+        {
+          "country": "France",
+          "sessions": 13,
+          "totalUsers": 13,
+          "engagedSessions": 6,
+          "averageEngagementTimePerSession": 0.0
+        },
+        {
+          "country": "Italy",
+          "sessions": 13,
+          "totalUsers": 12,
+          "engagedSessions": 3,
+          "averageEngagementTimePerSession": 0.0
+        },
+        {
+          "country": "Serbia",
+          "sessions": 12,
+          "totalUsers": 12,
+          "engagedSessions": 3,
+          "averageEngagementTimePerSession": 0.0
+        },
+        {
+          "country": "Canada",
+          "sessions": 11,
+          "totalUsers": 11,
+          "engagedSessions": 4,
+          "averageEngagementTimePerSession": 0.0
+        },
+        {
+          "country": "Pakistan",
+          "sessions": 10,
+          "totalUsers": 4,
+          "engagedSessions": 8,
+          "averageEngagementTimePerSession": 0.0
+        },
+        {
+          "country": "Spain",
+          "sessions": 8,
+          "totalUsers": 8,
+          "engagedSessions": 3,
+          "averageEngagementTimePerSession": 0.0
+        },
+        {
+          "country": "Australia",
+          "sessions": 7,
+          "totalUsers": 7,
+          "engagedSessions": 4,
+          "averageEngagementTimePerSession": 0.0
+        },
+        {
+          "country": "Czechia",
+          "sessions": 7,
+          "totalUsers": 7,
+          "engagedSessions": 3,
+          "averageEngagementTimePerSession": 0.0
+        },
+        {
+          "country": "Germany",
+          "sessions": 6,
+          "totalUsers": 6,
+          "engagedSessions": 3,
+          "averageEngagementTimePerSession": 0.0
+        },
+        {
+          "country": "Sweden",
+          "sessions": 6,
+          "totalUsers": 6,
+          "engagedSessions": 3,
+          "averageEngagementTimePerSession": 0.0
+        },
+        {
+          "country": "Taiwan",
+          "sessions": 6,
+          "totalUsers": 1,
+          "engagedSessions": 3,
+          "averageEngagementTimePerSession": 0.0
+        },
+        {
+          "country": "Finland",
+          "sessions": 5,
+          "totalUsers": 5,
+          "engagedSessions": 0,
+          "averageEngagementTimePerSession": 0.0
+        },
+        {
+          "country": "Netherlands",
+          "sessions": 5,
+          "totalUsers": 5,
+          "engagedSessions": 3,
+          "averageEngagementTimePerSession": 0.0
+        },
+        {
+          "country": "New Zealand",
+          "sessions": 5,
+          "totalUsers": 5,
+          "engagedSessions": 4,
+          "averageEngagementTimePerSession": 0.0
+        },
+        {
+          "country": "Türkiye",
+          "sessions": 5,
+          "totalUsers": 5,
+          "engagedSessions": 1,
+          "averageEngagementTimePerSession": 0.0
+        },
+        {
+          "country": "Austria",
+          "sessions": 4,
+          "totalUsers": 4,
+          "engagedSessions": 0,
+          "averageEngagementTimePerSession": 0.0
+        },
+        {
+          "country": "Ireland",
+          "sessions": 4,
+          "totalUsers": 4,
+          "engagedSessions": 1,
+          "averageEngagementTimePerSession": 0.0
+        },
+        {
+          "country": "Norway",
+          "sessions": 4,
+          "totalUsers": 4,
+          "engagedSessions": 3,
+          "averageEngagementTimePerSession": 0.0
+        },
+        {
+          "country": "North Macedonia",
+          "sessions": 3,
+          "totalUsers": 3,
+          "engagedSessions": 2,
+          "averageEngagementTimePerSession": 0.0
+        },
+        {
+          "country": "Slovakia",
+          "sessions": 3,
+          "totalUsers": 3,
+          "engagedSessions": 0,
+          "averageEngagementTimePerSession": 0.0
+        },
+        {
+          "country": "Croatia",
+          "sessions": 2,
+          "totalUsers": 2,
+          "engagedSessions": 0,
+          "averageEngagementTimePerSession": 0.0
+        },
+        {
+          "country": "Indonesia",
+          "sessions": 2,
+          "totalUsers": 2,
+          "engagedSessions": 0,
+          "averageEngagementTimePerSession": 0.0
+        },
+        {
+          "country": "Japan",
+          "sessions": 2,
+          "totalUsers": 1,
+          "engagedSessions": 1,
+          "averageEngagementTimePerSession": 0.0
+        },
+        {
+          "country": "Malaysia",
+          "sessions": 2,
+          "totalUsers": 1,
+          "engagedSessions": 1,
+          "averageEngagementTimePerSession": 0.0
+        },
+        {
+          "country": "Romania",
+          "sessions": 2,
+          "totalUsers": 2,
+          "engagedSessions": 1,
+          "averageEngagementTimePerSession": 0.0
+        },
+        {
+          "country": "Argentina",
+          "sessions": 1,
+          "totalUsers": 1,
+          "engagedSessions": 1,
+          "averageEngagementTimePerSession": 0.0
+        },
+        {
+          "country": "Bangladesh",
+          "sessions": 1,
+          "totalUsers": 1,
+          "engagedSessions": 0,
+          "averageEngagementTimePerSession": 0.0
+        },
+        {
+          "country": "Belarus",
+          "sessions": 1,
+          "totalUsers": 1,
+          "engagedSessions": 0,
+          "averageEngagementTimePerSession": 0.0
+        },
+        {
+          "country": "Belgium",
+          "sessions": 1,
+          "totalUsers": 1,
+          "engagedSessions": 1,
+          "averageEngagementTimePerSession": 0.0
+        },
+        {
+          "country": "Bosnia & Herzegovina",
+          "sessions": 1,
+          "totalUsers": 1,
+          "engagedSessions": 0,
+          "averageEngagementTimePerSession": 0.0
+        },
+        {
+          "country": "Brazil",
+          "sessions": 1,
+          "totalUsers": 1,
+          "engagedSessions": 0,
+          "averageEngagementTimePerSession": 0.0
+        },
+        {
+          "country": "Cyprus",
+          "sessions": 1,
+          "totalUsers": 1,
+          "engagedSessions": 1,
+          "averageEngagementTimePerSession": 0.0
+        },
+        {
+          "country": "Ecuador",
+          "sessions": 1,
+          "totalUsers": 1,
+          "engagedSessions": 1,
+          "averageEngagementTimePerSession": 0.0
+        },
+        {
+          "country": "Fiji",
+          "sessions": 1,
+          "totalUsers": 1,
+          "engagedSessions": 0,
+          "averageEngagementTimePerSession": 0.0
+        },
+        {
+          "country": "Georgia",
+          "sessions": 1,
+          "totalUsers": 1,
+          "engagedSessions": 1,
+          "averageEngagementTimePerSession": 0.0
+        },
+        {
+          "country": "Latvia",
+          "sessions": 1,
+          "totalUsers": 1,
+          "engagedSessions": 1,
+          "averageEngagementTimePerSession": 0.0
+        },
+        {
+          "country": "Mexico",
+          "sessions": 1,
+          "totalUsers": 1,
+          "engagedSessions": 0,
+          "averageEngagementTimePerSession": 0.0
+        },
+        {
+          "country": "Morocco",
+          "sessions": 1,
+          "totalUsers": 1,
+          "engagedSessions": 0,
+          "averageEngagementTimePerSession": 0.0
+        },
+        {
+          "country": "Nepal",
+          "sessions": 1,
+          "totalUsers": 1,
+          "engagedSessions": 1,
+          "averageEngagementTimePerSession": 0.0
+        },
+        {
+          "country": "Nigeria",
+          "sessions": 1,
+          "totalUsers": 1,
+          "engagedSessions": 0,
+          "averageEngagementTimePerSession": 0.0
+        },
+        {
+          "country": "Philippines",
+          "sessions": 1,
+          "totalUsers": 1,
+          "engagedSessions": 0,
+          "averageEngagementTimePerSession": 0.0
+        },
+        {
+          "country": "Rwanda",
+          "sessions": 1,
+          "totalUsers": 1,
+          "engagedSessions": 0,
+          "averageEngagementTimePerSession": 0.0
+        },
+        {
+          "country": "Singapore",
+          "sessions": 1,
+          "totalUsers": 1,
+          "engagedSessions": 1,
+          "averageEngagementTimePerSession": 0.0
+        },
+        {
+          "country": "Slovenia",
+          "sessions": 1,
+          "totalUsers": 1,
+          "engagedSessions": 0,
+          "averageEngagementTimePerSession": 0.0
+        },
+        {
+          "country": "South Korea",
+          "sessions": 1,
+          "totalUsers": 1,
+          "engagedSessions": 1,
+          "averageEngagementTimePerSession": 0.0
+        },
+        {
+          "country": "Ukraine",
+          "sessions": 1,
+          "totalUsers": 1,
+          "engagedSessions": 0,
+          "averageEngagementTimePerSession": 0.0
+        }
+      ],
+      "countries": [
+        {
+          "clicks": 1,
+          "impressions": 10,
+          "ctr": 10.0,
+          "position": 6.1,
+          "country": "can"
+        },
+        {
+          "clicks": 1,
+          "impressions": 5,
+          "ctr": 20.0,
+          "position": 10.0,
+          "country": "dnk"
+        },
+        {
+          "clicks": 0,
+          "impressions": 1,
+          "ctr": 0.0,
+          "position": 2.0,
+          "country": "aus"
+        },
+        {
+          "clicks": 0,
+          "impressions": 2,
+          "ctr": 0.0,
+          "position": 23.0,
+          "country": "bgd"
+        },
+        {
+          "clicks": 0,
+          "impressions": 1,
+          "ctr": 0.0,
+          "position": 3.0,
+          "country": "chn"
+        },
+        {
+          "clicks": 0,
+          "impressions": 1,
+          "ctr": 0.0,
+          "position": 4.0,
+          "country": "cuw"
+        },
+        {
+          "clicks": 0,
+          "impressions": 5,
+          "ctr": 0.0,
+          "position": 3.6,
+          "country": "gbr"
+        },
+        {
+          "clicks": 0,
+          "impressions": 9,
+          "ctr": 0.0,
+          "position": 2.2222,
+          "country": "hkg"
+        },
+        {
+          "clicks": 0,
+          "impressions": 4,
+          "ctr": 0.0,
+          "position": 2.75,
+          "country": "ind"
+        },
+        {
+          "clicks": 0,
+          "impressions": 1,
+          "ctr": 0.0,
+          "position": 8.0,
+          "country": "irn"
+        },
+        {
+          "clicks": 0,
+          "impressions": 1,
+          "ctr": 0.0,
+          "position": 12.0,
+          "country": "jpn"
+        },
+        {
+          "clicks": 0,
+          "impressions": 1,
+          "ctr": 0.0,
+          "position": 12.0,
+          "country": "mex"
+        },
+        {
+          "clicks": 0,
+          "impressions": 1,
+          "ctr": 0.0,
+          "position": 1.0,
+          "country": "mus"
+        },
+        {
+          "clicks": 0,
+          "impressions": 3,
+          "ctr": 0.0,
+          "position": 10.0,
+          "country": "mys"
+        },
+        {
+          "clicks": 0,
+          "impressions": 2,
+          "ctr": 0.0,
+          "position": 56.0,
+          "country": "nld"
+        },
+        {
+          "clicks": 0,
+          "impressions": 2,
+          "ctr": 0.0,
+          "position": 5.5,
+          "country": "pak"
+        },
+        {
+          "clicks": 0,
+          "impressions": 1,
+          "ctr": 0.0,
+          "position": 38.0,
+          "country": "phl"
+        },
+        {
+          "clicks": 0,
+          "impressions": 2,
+          "ctr": 0.0,
+          "position": 2.0,
+          "country": "rus"
+        },
+        {
+          "clicks": 0,
+          "impressions": 3,
+          "ctr": 0.0,
+          "position": 15.0,
+          "country": "sau"
+        },
+        {
+          "clicks": 0,
+          "impressions": 3,
+          "ctr": 0.0,
+          "position": 4.0,
+          "country": "sgp"
+        },
+        {
+          "clicks": 0,
+          "impressions": 3,
+          "ctr": 0.0,
+          "position": 1.6667,
+          "country": "tha"
+        },
+        {
+          "clicks": 0,
+          "impressions": 1,
+          "ctr": 0.0,
+          "position": 5.0,
+          "country": "tun"
+        },
+        {
+          "clicks": 0,
+          "impressions": 1,
+          "ctr": 0.0,
+          "position": 2.0,
+          "country": "tur"
+        },
+        {
+          "clicks": 0,
+          "impressions": 7,
+          "ctr": 0.0,
+          "position": 7.1429,
+          "country": "twn"
+        },
+        {
+          "clicks": 0,
+          "impressions": 39,
+          "ctr": 0.0,
+          "position": 5.2308,
+          "country": "usa"
+        },
+        {
+          "clicks": 0,
+          "impressions": 1,
+          "ctr": 0.0,
+          "position": 3.0,
+          "country": "ven"
+        },
+        {
+          "clicks": 0,
+          "impressions": 2,
+          "ctr": 0.0,
+          "position": 1.5,
+          "country": "vnm"
+        },
+        {
+          "clicks": 0,
+          "impressions": 2,
+          "ctr": 0.0,
+          "position": 3.5,
+          "country": "zaf"
+        },
+        {
+          "clicks": 0,
+          "impressions": 1,
+          "ctr": 0.0,
+          "position": 2.0,
+          "country": "zzz"
+        }
+      ],
+      "gscDaily": [
+        {
+          "clicks": 0,
+          "impressions": 1,
+          "ctr": 0.0,
+          "position": 2.0,
+          "date": "2026-01-01"
+        },
+        {
+          "clicks": 0,
+          "impressions": 2,
+          "ctr": 0.0,
+          "position": 1.0,
+          "date": "2026-01-02"
+        },
+        {
+          "clicks": 0,
+          "impressions": 2,
+          "ctr": 0.0,
+          "position": 4.5,
+          "date": "2026-01-03"
+        },
+        {
+          "clicks": 0,
+          "impressions": 5,
+          "ctr": 0.0,
+          "position": 2.2,
+          "date": "2026-01-04"
+        },
+        {
+          "clicks": 0,
+          "impressions": 7,
+          "ctr": 0.0,
+          "position": 3.2857,
+          "date": "2026-01-05"
+        },
+        {
+          "clicks": 0,
+          "impressions": 2,
+          "ctr": 0.0,
+          "position": 1.5,
+          "date": "2026-01-06"
+        },
+        {
+          "clicks": 0,
+          "impressions": 6,
+          "ctr": 0.0,
+          "position": 4.6667,
+          "date": "2026-01-07"
+        },
+        {
+          "clicks": 0,
+          "impressions": 2,
+          "ctr": 0.0,
+          "position": 3.0,
+          "date": "2026-01-08"
+        },
+        {
+          "clicks": 0,
+          "impressions": 3,
+          "ctr": 0.0,
+          "position": 4.0,
+          "date": "2026-01-09"
+        },
+        {
+          "clicks": 0,
+          "impressions": 0,
+          "ctr": 0.0,
+          "position": 0.0,
+          "date": "2026-01-10"
+        },
+        {
+          "clicks": 0,
+          "impressions": 5,
+          "ctr": 0.0,
+          "position": 5.8,
+          "date": "2026-01-11"
+        },
+        {
+          "clicks": 0,
+          "impressions": 0,
+          "ctr": 0.0,
+          "position": 0.0,
+          "date": "2026-01-12"
+        },
+        {
+          "clicks": 2,
+          "impressions": 8,
+          "ctr": 25.0,
+          "position": 11.875,
+          "date": "2026-01-13"
+        },
+        {
+          "clicks": 0,
+          "impressions": 10,
+          "ctr": 0.0,
+          "position": 6.5,
+          "date": "2026-01-14"
+        },
+        {
+          "clicks": 0,
+          "impressions": 4,
+          "ctr": 0.0,
+          "position": 3.25,
+          "date": "2026-01-15"
+        },
+        {
+          "clicks": 0,
+          "impressions": 3,
+          "ctr": 0.0,
+          "position": 5.0,
+          "date": "2026-01-16"
+        },
+        {
+          "clicks": 0,
+          "impressions": 4,
+          "ctr": 0.0,
+          "position": 13.25,
+          "date": "2026-01-17"
+        },
+        {
+          "clicks": 0,
+          "impressions": 8,
+          "ctr": 0.0,
+          "position": 3.75,
+          "date": "2026-01-18"
+        },
+        {
+          "clicks": 0,
+          "impressions": 2,
+          "ctr": 0.0,
+          "position": 1.5,
+          "date": "2026-01-19"
+        },
+        {
+          "clicks": 0,
+          "impressions": 5,
+          "ctr": 0.0,
+          "position": 8.6,
+          "date": "2026-01-20"
+        },
+        {
+          "clicks": 0,
+          "impressions": 3,
+          "ctr": 0.0,
+          "position": 12.0,
+          "date": "2026-01-21"
+        },
+        {
+          "clicks": 0,
+          "impressions": 1,
+          "ctr": 0.0,
+          "position": 7.0,
+          "date": "2026-01-22"
+        },
+        {
+          "clicks": 0,
+          "impressions": 7,
+          "ctr": 0.0,
+          "position": 5.7143,
+          "date": "2026-01-23"
+        },
+        {
+          "clicks": 0,
+          "impressions": 0,
+          "ctr": 0.0,
+          "position": 0.0,
+          "date": "2026-01-24"
+        },
+        {
+          "clicks": 0,
+          "impressions": 2,
+          "ctr": 0.0,
+          "position": 22.0,
+          "date": "2026-01-25"
+        },
+        {
+          "clicks": 0,
+          "impressions": 2,
+          "ctr": 0.0,
+          "position": 7.0,
+          "date": "2026-01-26"
+        },
+        {
+          "clicks": 0,
+          "impressions": 6,
+          "ctr": 0.0,
+          "position": 17.5,
+          "date": "2026-01-27"
+        },
+        {
+          "clicks": 0,
+          "impressions": 2,
+          "ctr": 0.0,
+          "position": 19.5,
+          "date": "2026-01-28"
+        },
+        {
+          "clicks": 0,
+          "impressions": 5,
+          "ctr": 0.0,
+          "position": 5.4,
+          "date": "2026-01-29"
+        },
+        {
+          "clicks": 0,
+          "impressions": 3,
+          "ctr": 0.0,
+          "position": 4.3333,
+          "date": "2026-01-30"
+        },
+        {
+          "clicks": 0,
+          "impressions": 5,
+          "ctr": 0.0,
+          "position": 2.8,
+          "date": "2026-01-31"
+        }
+      ],
+      "ga4Daily": [
+        {
+          "date": "20260101",
+          "sessions": 1,
+          "engagedSessions": 1,
+          "totalUsers": 1,
+          "screenPageViews": 1,
+          "averageSessionDuration": 90.271181,
+          "userEngagementDuration": 18,
+          "bounceRate": 0,
+          "keyEvents": 0,
+          "averageEngagementTimePerSession": 18.0
+        },
+        {
+          "date": "20260102",
+          "sessions": 1,
+          "engagedSessions": 1,
+          "totalUsers": 1,
+          "screenPageViews": 1,
+          "averageSessionDuration": 11.199194,
+          "userEngagementDuration": 11,
+          "bounceRate": 0,
+          "keyEvents": 0,
+          "averageEngagementTimePerSession": 11.0
+        },
+        {
+          "date": "20260103",
+          "sessions": 2,
+          "engagedSessions": 1,
+          "totalUsers": 1,
+          "screenPageViews": 3,
+          "averageSessionDuration": 1216.681787,
+          "userEngagementDuration": 5,
+          "bounceRate": 0.5,
+          "keyEvents": 0,
+          "averageEngagementTimePerSession": 2.5
+        },
+        {
+          "date": "20260104",
+          "sessions": 3,
+          "engagedSessions": 3,
+          "totalUsers": 3,
+          "screenPageViews": 14,
+          "averageSessionDuration": 1826.157387,
+          "userEngagementDuration": 112,
+          "bounceRate": 0,
+          "keyEvents": 0,
+          "averageEngagementTimePerSession": 37.33
+        },
+        {
+          "date": "20260105",
+          "sessions": 5,
+          "engagedSessions": 3,
+          "totalUsers": 3,
+          "screenPageViews": 23,
+          "averageSessionDuration": 339.443977,
+          "userEngagementDuration": 345,
+          "bounceRate": 0.4,
+          "keyEvents": 0,
+          "averageEngagementTimePerSession": 69.0
+        },
+        {
+          "date": "20260106",
+          "sessions": 8,
+          "engagedSessions": 6,
+          "totalUsers": 7,
+          "screenPageViews": 29,
+          "averageSessionDuration": 314.75787,
+          "userEngagementDuration": 349,
+          "bounceRate": 0.25,
+          "keyEvents": 0,
+          "averageEngagementTimePerSession": 43.62
+        },
+        {
+          "date": "20260107",
+          "sessions": 4,
+          "engagedSessions": 3,
+          "totalUsers": 2,
+          "screenPageViews": 24,
+          "averageSessionDuration": 2117.231808,
+          "userEngagementDuration": 1662,
+          "bounceRate": 0.25,
+          "keyEvents": 0,
+          "averageEngagementTimePerSession": 415.5
+        },
+        {
+          "date": "20260108",
+          "sessions": 7,
+          "engagedSessions": 3,
+          "totalUsers": 2,
+          "screenPageViews": 21,
+          "averageSessionDuration": 102.093411,
+          "userEngagementDuration": 324,
+          "bounceRate": 0.571429,
+          "keyEvents": 0,
+          "averageEngagementTimePerSession": 46.29
+        },
+        {
+          "date": "20260109",
+          "sessions": 11,
+          "engagedSessions": 5,
+          "totalUsers": 5,
+          "screenPageViews": 14,
+          "averageSessionDuration": 128.345037,
+          "userEngagementDuration": 241,
+          "bounceRate": 0.545455,
+          "keyEvents": 0,
+          "averageEngagementTimePerSession": 21.91
+        },
+        {
+          "date": "20260112",
+          "sessions": 7,
+          "engagedSessions": 5,
+          "totalUsers": 3,
+          "screenPageViews": 18,
+          "averageSessionDuration": 442.545416,
+          "userEngagementDuration": 496,
+          "bounceRate": 0.285714,
+          "keyEvents": 0,
+          "averageEngagementTimePerSession": 70.86
+        },
+        {
+          "date": "20260113",
+          "sessions": 14,
+          "engagedSessions": 7,
+          "totalUsers": 6,
+          "screenPageViews": 100,
+          "averageSessionDuration": 1167.710977,
+          "userEngagementDuration": 1572,
+          "bounceRate": 0.5,
+          "keyEvents": 0,
+          "averageEngagementTimePerSession": 112.29
+        },
+        {
+          "date": "20260114",
+          "sessions": 5,
+          "engagedSessions": 1,
+          "totalUsers": 3,
+          "screenPageViews": 3,
+          "averageSessionDuration": 159.194045,
+          "userEngagementDuration": 20,
+          "bounceRate": 0.8,
+          "keyEvents": 0,
+          "averageEngagementTimePerSession": 4.0
+        },
+        {
+          "date": "20260115",
+          "sessions": 2,
+          "engagedSessions": 2,
+          "totalUsers": 2,
+          "screenPageViews": 9,
+          "averageSessionDuration": 47.675634,
+          "userEngagementDuration": 59,
+          "bounceRate": 0,
+          "keyEvents": 0,
+          "averageEngagementTimePerSession": 29.5
+        },
+        {
+          "date": "20260116",
+          "sessions": 10,
+          "engagedSessions": 4,
+          "totalUsers": 9,
+          "screenPageViews": 67,
+          "averageSessionDuration": 260.238672,
+          "userEngagementDuration": 462,
+          "bounceRate": 0.6,
+          "keyEvents": 0,
+          "averageEngagementTimePerSession": 46.2
+        },
+        {
+          "date": "20260119",
+          "sessions": 12,
+          "engagedSessions": 7,
+          "totalUsers": 9,
+          "screenPageViews": 73,
+          "averageSessionDuration": 603.21714,
+          "userEngagementDuration": 1029,
+          "bounceRate": 0.416667,
+          "keyEvents": 7,
+          "averageEngagementTimePerSession": 85.75
+        },
+        {
+          "date": "20260120",
+          "sessions": 26,
+          "engagedSessions": 8,
+          "totalUsers": 23,
+          "screenPageViews": 33,
+          "averageSessionDuration": 105.940163,
+          "userEngagementDuration": 379,
+          "bounceRate": 0.692308,
+          "keyEvents": 0,
+          "averageEngagementTimePerSession": 14.58
+        },
+        {
+          "date": "20260121",
+          "sessions": 27,
+          "engagedSessions": 10,
+          "totalUsers": 27,
+          "screenPageViews": 33,
+          "averageSessionDuration": 21.023002,
+          "userEngagementDuration": 246,
+          "bounceRate": 0.62963,
+          "keyEvents": 0,
+          "averageEngagementTimePerSession": 9.11
+        },
+        {
+          "date": "20260122",
+          "sessions": 30,
+          "engagedSessions": 10,
+          "totalUsers": 30,
+          "screenPageViews": 33,
+          "averageSessionDuration": 56.512528,
+          "userEngagementDuration": 190,
+          "bounceRate": 0.666667,
+          "keyEvents": 0,
+          "averageEngagementTimePerSession": 6.33
+        },
+        {
+          "date": "20260123",
+          "sessions": 44,
+          "engagedSessions": 17,
+          "totalUsers": 39,
+          "screenPageViews": 66,
+          "averageSessionDuration": 141.180448,
+          "userEngagementDuration": 1120,
+          "bounceRate": 0.613636,
+          "keyEvents": 0,
+          "averageEngagementTimePerSession": 25.45
+        },
+        {
+          "date": "20260124",
+          "sessions": 24,
+          "engagedSessions": 9,
+          "totalUsers": 24,
+          "screenPageViews": 30,
+          "averageSessionDuration": 86.008618,
+          "userEngagementDuration": 291,
+          "bounceRate": 0.625,
+          "keyEvents": 0,
+          "averageEngagementTimePerSession": 12.12
+        },
+        {
+          "date": "20260125",
+          "sessions": 32,
+          "engagedSessions": 12,
+          "totalUsers": 32,
+          "screenPageViews": 34,
+          "averageSessionDuration": 61.376915,
+          "userEngagementDuration": 378,
+          "bounceRate": 0.625,
+          "keyEvents": 0,
+          "averageEngagementTimePerSession": 11.81
+        },
+        {
+          "date": "20260126",
+          "sessions": 39,
+          "engagedSessions": 14,
+          "totalUsers": 36,
+          "screenPageViews": 46,
+          "averageSessionDuration": 34.56377,
+          "userEngagementDuration": 359,
+          "bounceRate": 0.641026,
+          "keyEvents": 0,
+          "averageEngagementTimePerSession": 9.21
+        },
+        {
+          "date": "20260127",
+          "sessions": 37,
+          "engagedSessions": 22,
+          "totalUsers": 35,
+          "screenPageViews": 42,
+          "averageSessionDuration": 76.082146,
+          "userEngagementDuration": 680,
+          "bounceRate": 0.405405,
+          "keyEvents": 1,
+          "averageEngagementTimePerSession": 18.38
+        },
+        {
+          "date": "20260128",
+          "sessions": 38,
+          "engagedSessions": 15,
+          "totalUsers": 36,
+          "screenPageViews": 44,
+          "averageSessionDuration": 34.585797,
+          "userEngagementDuration": 439,
+          "bounceRate": 0.605263,
+          "keyEvents": 0,
+          "averageEngagementTimePerSession": 11.55
+        },
+        {
+          "date": "20260129",
+          "sessions": 34,
+          "engagedSessions": 13,
+          "totalUsers": 34,
+          "screenPageViews": 37,
+          "averageSessionDuration": 16.456083,
+          "userEngagementDuration": 370,
+          "bounceRate": 0.617647,
+          "keyEvents": 0,
+          "averageEngagementTimePerSession": 10.88
+        },
+        {
+          "date": "20260130",
+          "sessions": 35,
+          "engagedSessions": 17,
+          "totalUsers": 33,
+          "screenPageViews": 47,
+          "averageSessionDuration": 56.475009,
+          "userEngagementDuration": 482,
+          "bounceRate": 0.514286,
+          "keyEvents": 0,
+          "averageEngagementTimePerSession": 13.77
+        },
+        {
+          "date": "20260131",
+          "sessions": 15,
+          "engagedSessions": 8,
+          "totalUsers": 15,
+          "screenPageViews": 18,
+          "averageSessionDuration": 58.193659,
+          "userEngagementDuration": 222,
+          "bounceRate": 0.466667,
+          "keyEvents": 0,
+          "averageEngagementTimePerSession": 14.8
+        }
+      ],
+      "pages": [
+        {
+          "page": "https://www.liangyin-aluminum.com/",
+          "path": "/",
+          "clicks": 1,
+          "impressions": 79,
+          "ctr": 1.2658,
+          "position": 3.6203,
+          "sessions": 1,
+          "users": 1,
+          "views": 2,
+          "bounceRate": 0.0,
+          "averageSessionDuration": 43.85,
+          "indexVerdict": "NOT_INSPECTED",
+          "coverageState": ""
+        },
+        {
+          "page": "https://www.liangyin-aluminum.com/wp-content/uploads/2025/11/Sedex-Members-Ethical-Trade-Audit-Report.pdf",
+          "path": "/wp-content/uploads/2025/11/Sedex-Members-Ethical-Trade-Audit-Report.pdf",
+          "clicks": 1,
+          "impressions": 42,
+          "ctr": 2.381,
+          "position": 12.1667,
+          "sessions": 0,
+          "users": 0,
+          "views": 0,
+          "bounceRate": 0.0,
+          "averageSessionDuration": 0.0,
+          "indexVerdict": "NOT_INSPECTED",
+          "coverageState": ""
+        },
+        {
+          "page": "https://www.liangyin-aluminum.com/about-liangyin/",
+          "path": "/about-liangyin",
+          "clicks": 0,
+          "impressions": 1,
+          "ctr": 0.0,
+          "position": 1.0,
+          "sessions": 2,
+          "users": 1,
+          "views": 3,
+          "bounceRate": 50.0,
+          "averageSessionDuration": 65.57,
+          "indexVerdict": "NOT_INSPECTED",
+          "coverageState": ""
+        },
+        {
+          "page": "https://www.liangyin-aluminum.com/application/",
+          "path": "/application",
+          "clicks": 0,
+          "impressions": 1,
+          "ctr": 0.0,
+          "position": 1.0,
+          "sessions": 0,
+          "users": 0,
+          "views": 0,
+          "bounceRate": 0.0,
+          "averageSessionDuration": 0.0,
+          "indexVerdict": "NOT_INSPECTED",
+          "coverageState": ""
+        },
+        {
+          "page": "https://www.liangyin-aluminum.com/cnc-machining-center/",
+          "path": "/cnc-machining-center",
+          "clicks": 0,
+          "impressions": 1,
+          "ctr": 0.0,
+          "position": 1.0,
+          "sessions": 1,
+          "users": 1,
+          "views": 1,
+          "bounceRate": 100.0,
+          "averageSessionDuration": 0.0,
+          "indexVerdict": "NOT_INSPECTED",
+          "coverageState": ""
+        },
+        {
+          "page": "https://www.liangyin-aluminum.com/the-future-development-direction-of-aluminum-profile-surface-treatment/",
+          "path": "/the-future-development-direction-of-aluminum-profile-surface-treatment",
+          "clicks": 0,
+          "impressions": 16,
+          "ctr": 0.0,
+          "position": 2.9375,
+          "sessions": 0,
+          "users": 0,
+          "views": 0,
+          "bounceRate": 0.0,
+          "averageSessionDuration": 0.0,
+          "indexVerdict": "NOT_INSPECTED",
+          "coverageState": ""
+        },
+        {
+          "page": "https://www.liangyin-aluminum.com/turnkey-management/",
+          "path": "/turnkey-management",
+          "clicks": 0,
+          "impressions": 1,
+          "ctr": 0.0,
+          "position": 1.0,
+          "sessions": 0,
+          "users": 0,
+          "views": 0,
+          "bounceRate": 0.0,
+          "averageSessionDuration": 0.0,
+          "indexVerdict": "NOT_INSPECTED",
+          "coverageState": ""
+        }
+      ],
+      "recommendations": [
+        {
+          "type": "点击率",
+          "target": "/",
+          "text": "曝光较高但点击率低，建议优化标题、描述和搜索意图匹配。"
+        },
+        {
+          "type": "体验",
+          "target": "/cnc-machining-center",
+          "text": "排名靠前但跳出率高，建议优化内容匹配度、首屏信息与内部链接。"
+        }
+      ]
+    }
+  ],
+  "quarterComparison": {
+    "current": {
+      "months": [
+        "2026-01"
+      ],
+      "metrics": {
+        "clicks": 2.0,
+        "impressions": 115.0,
+        "ctr": 1.7391,
+        "averagePosition": 6.79,
+        "sessions": 473.0,
+        "bounceRate": 56.24,
+        "averageSessionDuration": 163.1
+      }
+    },
+    "previous": {
+      "months": [
+        "2025-12"
+      ],
+      "metrics": {
+        "clicks": 3.0,
+        "impressions": 49.0,
+        "ctr": 6.1224,
+        "averagePosition": 6.0,
+        "sessions": 61.0,
+        "bounceRate": 42.62,
+        "averageSessionDuration": 526.89
+      }
+    }
+  },
+  "comparisonMonths": [
+    {
+      "label": "2025-12",
+      "period": [
+        "2025-12-01",
+        "2025-12-31"
+      ],
+      "metrics": {
+        "clicks": 3,
+        "impressions": 49,
+        "ctr": 6.12,
+        "averagePosition": 6.0,
+        "totalUsers": 28,
+        "pageViews": 403,
+        "sessions": 61,
+        "averageSessionDuration": 526.89,
+        "averageEngagementTimePerSession": 67.16,
+        "bounceRate": 42.62,
+        "keyEvents": 0,
+        "indexedPages": 0,
+        "inspectedPages": 0
+      },
+      "keywords": [
+        {
+          "clicks": 0,
+          "impressions": 10,
+          "ctr": 0.0,
+          "position": 3.1,
+          "query": "liangyin",
+          "positionChange": null
+        },
+        {
+          "clicks": 0,
+          "impressions": 3,
+          "ctr": 0.0,
+          "position": 44.3333,
+          "query": "sedex members ethical trade audit",
+          "positionChange": null
+        }
+      ],
+      "channels": [
+        {
+          "sessionDefaultChannelGroup": "Direct",
+          "sessions": 50,
+          "engagedSessions": 33,
+          "totalUsers": 23,
+          "screenPageViews": 366,
+          "averageSessionDuration": 581.572796,
+          "userEngagementDuration": 2377,
+          "bounceRate": 0.34,
+          "keyEvents": 0,
+          "averageEngagementTimePerSession": 47.54
+        },
+        {
+          "sessionDefaultChannelGroup": "Organic Search",
+          "sessions": 6,
+          "engagedSessions": 2,
+          "totalUsers": 2,
+          "screenPageViews": 32,
+          "averageSessionDuration": 510.270139,
+          "userEngagementDuration": 1720,
+          "bounceRate": 0.666667,
+          "keyEvents": 0,
+          "averageEngagementTimePerSession": 286.67
+        },
+        {
+          "sessionDefaultChannelGroup": "Organic Social",
+          "sessions": 3,
+          "engagedSessions": 0,
+          "totalUsers": 3,
+          "screenPageViews": 3,
+          "averageSessionDuration": 0,
+          "userEngagementDuration": 0,
+          "bounceRate": 1,
+          "keyEvents": 0,
+          "averageEngagementTimePerSession": 0.0
+        },
+        {
+          "sessionDefaultChannelGroup": "Unassigned",
+          "sessions": 2,
+          "engagedSessions": 0,
+          "totalUsers": 2,
+          "screenPageViews": 2,
+          "averageSessionDuration": 0,
+          "userEngagementDuration": 0,
+          "bounceRate": 1,
+          "keyEvents": 0,
+          "averageEngagementTimePerSession": 0.0
+        }
+      ],
+      "sources": [
+        {
+          "sessionSource": "(direct)",
+          "sessions": 50,
+          "engagedSessions": 33,
+          "totalUsers": 23,
+          "screenPageViews": 366,
+          "averageSessionDuration": 581.572796,
+          "userEngagementDuration": 2377,
+          "bounceRate": 0.34,
+          "keyEvents": 0,
+          "averageEngagementTimePerSession": 47.54
+        },
+        {
+          "sessionSource": "google",
+          "sessions": 6,
+          "engagedSessions": 2,
+          "totalUsers": 2,
+          "screenPageViews": 32,
+          "averageSessionDuration": 510.270139,
+          "userEngagementDuration": 1720,
+          "bounceRate": 0.666667,
+          "keyEvents": 0,
+          "averageEngagementTimePerSession": 286.67
+        },
+        {
+          "sessionSource": "facebook.com",
+          "sessions": 3,
+          "engagedSessions": 0,
+          "totalUsers": 3,
+          "screenPageViews": 3,
+          "averageSessionDuration": 0,
+          "userEngagementDuration": 0,
+          "bounceRate": 1,
+          "keyEvents": 0,
+          "averageEngagementTimePerSession": 0.0
+        },
+        {
+          "sessionSource": "(not set)",
+          "sessions": 2,
+          "engagedSessions": 0,
+          "totalUsers": 2,
+          "screenPageViews": 2,
+          "averageSessionDuration": 0,
+          "userEngagementDuration": 0,
+          "bounceRate": 1,
+          "keyEvents": 0,
+          "averageEngagementTimePerSession": 0.0
+        }
+      ],
+      "ga4Countries": [
+        {
+          "country": "Hong Kong",
+          "sessions": 40,
+          "totalUsers": 14,
+          "engagedSessions": 26,
+          "averageEngagementTimePerSession": 0.0
+        },
+        {
+          "country": "United States",
+          "sessions": 11,
+          "totalUsers": 7,
+          "engagedSessions": 3,
+          "averageEngagementTimePerSession": 0.0
+        },
+        {
+          "country": "China",
+          "sessions": 8,
+          "totalUsers": 8,
+          "engagedSessions": 6,
+          "averageEngagementTimePerSession": 0.0
+        },
+        {
+          "country": "(not set)",
+          "sessions": 2,
+          "totalUsers": 2,
+          "engagedSessions": 0,
+          "averageEngagementTimePerSession": 0.0
+        },
+        {
+          "country": "Pakistan",
+          "sessions": 1,
+          "totalUsers": 1,
+          "engagedSessions": 1,
+          "averageEngagementTimePerSession": 0.0
+        }
+      ],
+      "countries": [
+        {
+          "clicks": 2,
+          "impressions": 11,
+          "ctr": 18.1818,
+          "position": 1.2727,
+          "country": "hkg"
+        },
+        {
+          "clicks": 1,
+          "impressions": 10,
+          "ctr": 10.0,
+          "position": 3.6,
+          "country": "usa"
+        },
+        {
+          "clicks": 0,
+          "impressions": 1,
+          "ctr": 0.0,
+          "position": 3.0,
+          "country": "aus"
+        },
+        {
+          "clicks": 0,
+          "impressions": 1,
+          "ctr": 0.0,
+          "position": 2.0,
+          "country": "che"
+        },
+        {
+          "clicks": 0,
+          "impressions": 7,
+          "ctr": 0.0,
+          "position": 2.0,
+          "country": "chn"
+        },
+        {
+          "clicks": 0,
+          "impressions": 1,
+          "ctr": 0.0,
+          "position": 2.0,
+          "country": "fra"
+        },
+        {
+          "clicks": 0,
+          "impressions": 1,
+          "ctr": 0.0,
+          "position": 1.0,
+          "country": "gbr"
+        },
+        {
+          "clicks": 0,
+          "impressions": 1,
+          "ctr": 0.0,
+          "position": 4.0,
+          "country": "gha"
+        },
+        {
+          "clicks": 0,
+          "impressions": 1,
+          "ctr": 0.0,
+          "position": 9.0,
+          "country": "ind"
+        },
+        {
+          "clicks": 0,
+          "impressions": 3,
+          "ctr": 0.0,
+          "position": 3.6667,
+          "country": "jpn"
+        },
+        {
+          "clicks": 0,
+          "impressions": 1,
+          "ctr": 0.0,
+          "position": 2.0,
+          "country": "mda"
+        },
+        {
+          "clicks": 0,
+          "impressions": 1,
+          "ctr": 0.0,
+          "position": 3.0,
+          "country": "mys"
+        },
+        {
+          "clicks": 0,
+          "impressions": 2,
+          "ctr": 0.0,
+          "position": 24.5,
+          "country": "nld"
+        },
+        {
+          "clicks": 0,
+          "impressions": 1,
+          "ctr": 0.0,
+          "position": 11.0,
+          "country": "per"
+        },
+        {
+          "clicks": 0,
+          "impressions": 2,
+          "ctr": 0.0,
+          "position": 22.5,
+          "country": "rus"
+        },
+        {
+          "clicks": 0,
+          "impressions": 1,
+          "ctr": 0.0,
+          "position": 44.0,
+          "country": "tha"
+        },
+        {
+          "clicks": 0,
+          "impressions": 2,
+          "ctr": 0.0,
+          "position": 14.5,
+          "country": "tur"
+        },
+        {
+          "clicks": 0,
+          "impressions": 2,
+          "ctr": 0.0,
+          "position": 7.5,
+          "country": "vnm"
+        }
+      ],
+      "gscDaily": [
+        {
+          "clicks": 0,
+          "impressions": 8,
+          "ctr": 0.0,
+          "position": 2.625,
+          "date": "2025-12-21"
+        },
+        {
+          "clicks": 2,
+          "impressions": 11,
+          "ctr": 18.1818,
+          "position": 1.4545,
+          "date": "2025-12-22"
+        },
+        {
+          "clicks": 1,
+          "impressions": 5,
+          "ctr": 20.0,
+          "position": 4.4,
+          "date": "2025-12-23"
+        },
+        {
+          "clicks": 0,
+          "impressions": 4,
+          "ctr": 0.0,
+          "position": 3.25,
+          "date": "2025-12-24"
+        },
+        {
+          "clicks": 0,
+          "impressions": 3,
+          "ctr": 0.0,
+          "position": 26.6667,
+          "date": "2025-12-25"
+        },
+        {
+          "clicks": 0,
+          "impressions": 6,
+          "ctr": 0.0,
+          "position": 2.1667,
+          "date": "2025-12-26"
+        },
+        {
+          "clicks": 0,
+          "impressions": 1,
+          "ctr": 0.0,
+          "position": 2.0,
+          "date": "2025-12-27"
+        },
+        {
+          "clicks": 0,
+          "impressions": 2,
+          "ctr": 0.0,
+          "position": 22.5,
+          "date": "2025-12-28"
+        },
+        {
+          "clicks": 0,
+          "impressions": 2,
+          "ctr": 0.0,
+          "position": 4.0,
+          "date": "2025-12-29"
+        },
+        {
+          "clicks": 0,
+          "impressions": 7,
+          "ctr": 0.0,
+          "position": 10.5714,
+          "date": "2025-12-30"
+        },
+        {
+          "clicks": 0,
+          "impressions": 0,
+          "ctr": 0.0,
+          "position": 0.0,
+          "date": "2025-12-31"
+        }
+      ],
+      "ga4Daily": [
+        {
+          "date": "20251222",
+          "sessions": 23,
+          "engagedSessions": 11,
+          "totalUsers": 15,
+          "screenPageViews": 67,
+          "averageSessionDuration": 178.863176,
+          "userEngagementDuration": 359,
+          "bounceRate": 0.521739,
+          "keyEvents": 0,
+          "averageEngagementTimePerSession": 15.61
+        },
+        {
+          "date": "20251223",
+          "sessions": 6,
+          "engagedSessions": 3,
+          "totalUsers": 3,
+          "screenPageViews": 22,
+          "averageSessionDuration": 330.200075,
+          "userEngagementDuration": 72,
+          "bounceRate": 0.5,
+          "keyEvents": 0,
+          "averageEngagementTimePerSession": 12.0
+        },
+        {
+          "date": "20251224",
+          "sessions": 16,
+          "engagedSessions": 8,
+          "totalUsers": 5,
+          "screenPageViews": 70,
+          "averageSessionDuration": 629.026318,
+          "userEngagementDuration": 2297,
+          "bounceRate": 0.5,
+          "keyEvents": 0,
+          "averageEngagementTimePerSession": 143.56
+        },
+        {
+          "date": "20251225",
+          "sessions": 2,
+          "engagedSessions": 1,
+          "totalUsers": 1,
+          "screenPageViews": 13,
+          "averageSessionDuration": 509.900946,
+          "userEngagementDuration": 141,
+          "bounceRate": 0.5,
+          "keyEvents": 0,
+          "averageEngagementTimePerSession": 70.5
+        },
+        {
+          "date": "20251226",
+          "sessions": 8,
+          "engagedSessions": 8,
+          "totalUsers": 5,
+          "screenPageViews": 219,
+          "averageSessionDuration": 1361.883493,
+          "userEngagementDuration": 1070,
+          "bounceRate": 0,
+          "keyEvents": 0,
+          "averageEngagementTimePerSession": 133.75
+        },
+        {
+          "date": "20251227",
+          "sessions": 1,
+          "engagedSessions": 1,
+          "totalUsers": 1,
+          "screenPageViews": 3,
+          "averageSessionDuration": 1151.10369,
+          "userEngagementDuration": 26,
+          "bounceRate": 0,
+          "keyEvents": 0,
+          "averageEngagementTimePerSession": 26.0
+        },
+        {
+          "date": "20251228",
+          "sessions": 1,
+          "engagedSessions": 1,
+          "totalUsers": 1,
+          "screenPageViews": 1,
+          "averageSessionDuration": 239.163384,
+          "userEngagementDuration": 26,
+          "bounceRate": 0,
+          "keyEvents": 0,
+          "averageEngagementTimePerSession": 26.0
+        },
+        {
+          "date": "20251229",
+          "sessions": 1,
+          "engagedSessions": 0,
+          "totalUsers": 1,
+          "screenPageViews": 1,
+          "averageSessionDuration": 0,
+          "userEngagementDuration": 0,
+          "bounceRate": 1,
+          "keyEvents": 0,
+          "averageEngagementTimePerSession": 0.0
+        },
+        {
+          "date": "20251230",
+          "sessions": 3,
+          "engagedSessions": 2,
+          "totalUsers": 3,
+          "screenPageViews": 7,
+          "averageSessionDuration": 891.883041,
+          "userEngagementDuration": 106,
+          "bounceRate": 0.333333,
+          "keyEvents": 0,
+          "averageEngagementTimePerSession": 35.33
+        }
+      ],
+      "pages": [
+        {
+          "page": "https://www.liangyin-aluminum.com/",
+          "path": "/",
+          "clicks": 3,
+          "impressions": 40,
+          "ctr": 7.5,
+          "position": 2.45,
+          "sessions": 1,
+          "users": 1,
+          "views": 1,
+          "bounceRate": 100.0,
+          "averageSessionDuration": 0.0,
+          "indexVerdict": "NOT_INSPECTED",
+          "coverageState": ""
+        },
+        {
+          "page": "https://www.liangyin-aluminum.com/the-future-development-direction-of-aluminum-profile-surface-treatment/",
+          "path": "/the-future-development-direction-of-aluminum-profile-surface-treatment",
+          "clicks": 0,
+          "impressions": 7,
+          "ctr": 0.0,
+          "position": 2.5714,
+          "sessions": 0,
+          "users": 0,
+          "views": 0,
+          "bounceRate": 0.0,
+          "averageSessionDuration": 0.0,
+          "indexVerdict": "NOT_INSPECTED",
+          "coverageState": ""
+        },
+        {
+          "page": "https://www.liangyin-aluminum.com/wp-content/uploads/2025/11/Sedex-Members-Ethical-Trade-Audit-Report.pdf",
+          "path": "/wp-content/uploads/2025/11/Sedex-Members-Ethical-Trade-Audit-Report.pdf",
+          "clicks": 0,
+          "impressions": 9,
+          "ctr": 0.0,
+          "position": 21.5556,
+          "sessions": 0,
+          "users": 0,
+          "views": 0,
+          "bounceRate": 0.0,
+          "averageSessionDuration": 0.0,
+          "indexVerdict": "NOT_INSPECTED",
+          "coverageState": ""
+        }
+      ],
+      "recommendations": [
+        {
+          "type": "体验",
+          "target": "/",
+          "text": "排名靠前但跳出率高，建议优化内容匹配度、首屏信息与内部链接。"
+        }
+      ]
+    },
+    {
+      "label": "2026-01",
+      "period": [
+        "2026-01-01",
+        "2026-01-31"
+      ],
+      "metrics": {
+        "clicks": 2,
+        "impressions": 115,
+        "ctr": 1.74,
+        "averagePosition": 6.79,
+        "totalUsers": 376,
+        "pageViews": 863,
+        "sessions": 473,
+        "averageSessionDuration": 163.1,
+        "averageEngagementTimePerSession": 25.08,
+        "bounceRate": 56.24,
+        "keyEvents": 8,
+        "indexedPages": 0,
+        "inspectedPages": 0
+      },
+      "keywords": [
+        {
+          "clicks": 0,
+          "impressions": 3,
+          "ctr": 0.0,
+          "position": 52.0,
+          "query": "sedex members ethical trade audit",
+          "positionChange": null
+        },
+        {
+          "clicks": 0,
+          "impressions": 1,
+          "ctr": 0.0,
+          "position": 1.0,
+          "query": "what is their official website",
+          "positionChange": null
+        }
+      ],
+      "channels": [
+        {
+          "sessionDefaultChannelGroup": "Paid Search",
+          "sessions": 324,
+          "engagedSessions": 123,
+          "totalUsers": 315,
+          "screenPageViews": 365,
+          "averageSessionDuration": 42.444157,
+          "userEngagementDuration": 3553,
+          "bounceRate": 0.62037,
+          "keyEvents": 1,
+          "averageEngagementTimePerSession": 10.97
+        },
+        {
+          "sessionDefaultChannelGroup": "Direct",
+          "sessions": 107,
+          "engagedSessions": 61,
+          "totalUsers": 40,
+          "screenPageViews": 402,
+          "averageSessionDuration": 482.320359,
+          "userEngagementDuration": 5894,
+          "bounceRate": 0.429907,
+          "keyEvents": 7,
+          "averageEngagementTimePerSession": 55.08
+        },
+        {
+          "sessionDefaultChannelGroup": "Referral",
+          "sessions": 20,
+          "engagedSessions": 13,
+          "totalUsers": 2,
+          "screenPageViews": 54,
+          "averageSessionDuration": 386.865507,
+          "userEngagementDuration": 995,
+          "bounceRate": 0.35,
+          "keyEvents": 0,
+          "averageEngagementTimePerSession": 49.75
+        },
+        {
+          "sessionDefaultChannelGroup": "Organic Search",
+          "sessions": 11,
+          "engagedSessions": 4,
+          "totalUsers": 10,
+          "screenPageViews": 25,
+          "averageSessionDuration": 303.878454,
+          "userEngagementDuration": 1206,
+          "bounceRate": 0.636364,
+          "keyEvents": 0,
+          "averageEngagementTimePerSession": 109.64
+        },
+        {
+          "sessionDefaultChannelGroup": "Cross-network",
+          "sessions": 5,
+          "engagedSessions": 4,
+          "totalUsers": 5,
+          "screenPageViews": 10,
+          "averageSessionDuration": 115.255766,
+          "userEngagementDuration": 87,
+          "bounceRate": 0.2,
+          "keyEvents": 0,
+          "averageEngagementTimePerSession": 17.4
+        },
+        {
+          "sessionDefaultChannelGroup": "Organic Social",
+          "sessions": 4,
+          "engagedSessions": 2,
+          "totalUsers": 4,
+          "screenPageViews": 4,
+          "averageSessionDuration": 9.294851,
+          "userEngagementDuration": 5,
+          "bounceRate": 0.5,
+          "keyEvents": 0,
+          "averageEngagementTimePerSession": 1.25
+        },
+        {
+          "sessionDefaultChannelGroup": "Unassigned",
+          "sessions": 2,
+          "engagedSessions": 0,
+          "totalUsers": 2,
+          "screenPageViews": 3,
+          "averageSessionDuration": 46.203424,
+          "userEngagementDuration": 121,
+          "bounceRate": 1,
+          "keyEvents": 0,
+          "averageEngagementTimePerSession": 60.5
+        }
+      ],
+      "sources": [
+        {
+          "sessionSource": "google",
+          "sessions": 333,
+          "engagedSessions": 126,
+          "totalUsers": 324,
+          "screenPageViews": 374,
+          "averageSessionDuration": 41.618695,
+          "userEngagementDuration": 3571,
+          "bounceRate": 0.621622,
+          "keyEvents": 1,
+          "averageEngagementTimePerSession": 10.72
+        },
+        {
+          "sessionSource": "(direct)",
+          "sessions": 107,
+          "engagedSessions": 61,
+          "totalUsers": 40,
+          "screenPageViews": 402,
+          "averageSessionDuration": 482.320359,
+          "userEngagementDuration": 5894,
+          "bounceRate": 0.429907,
+          "keyEvents": 7,
+          "averageEngagementTimePerSession": 55.08
+        },
+        {
+          "sessionSource": "tagassistant.google.com",
+          "sessions": 14,
+          "engagedSessions": 7,
+          "totalUsers": 1,
+          "screenPageViews": 19,
+          "averageSessionDuration": 261.20204,
+          "userEngagementDuration": 579,
+          "bounceRate": 0.5,
+          "keyEvents": 0,
+          "averageEngagementTimePerSession": 41.36
+        },
+        {
+          "sessionSource": "kdocs.cn",
+          "sessions": 6,
+          "engagedSessions": 6,
+          "totalUsers": 1,
+          "screenPageViews": 35,
+          "averageSessionDuration": 680.080264,
+          "userEngagementDuration": 416,
+          "bounceRate": 0,
+          "keyEvents": 0,
+          "averageEngagementTimePerSession": 69.33
+        },
+        {
+          "sessionSource": "(data not available)",
+          "sessions": 5,
+          "engagedSessions": 4,
+          "totalUsers": 5,
+          "screenPageViews": 10,
+          "averageSessionDuration": 115.255766,
+          "userEngagementDuration": 87,
+          "bounceRate": 0.2,
+          "keyEvents": 0,
+          "averageEngagementTimePerSession": 17.4
+        },
+        {
+          "sessionSource": "facebook.com",
+          "sessions": 4,
+          "engagedSessions": 2,
+          "totalUsers": 4,
+          "screenPageViews": 4,
+          "averageSessionDuration": 9.294851,
+          "userEngagementDuration": 5,
+          "bounceRate": 0.5,
+          "keyEvents": 0,
+          "averageEngagementTimePerSession": 1.25
+        },
+        {
+          "sessionSource": "(not set)",
+          "sessions": 2,
+          "engagedSessions": 0,
+          "totalUsers": 2,
+          "screenPageViews": 3,
+          "averageSessionDuration": 46.203424,
+          "userEngagementDuration": 121,
+          "bounceRate": 1,
+          "keyEvents": 0,
+          "averageEngagementTimePerSession": 60.5
+        },
+        {
+          "sessionSource": "bing",
+          "sessions": 2,
+          "engagedSessions": 1,
+          "totalUsers": 1,
+          "screenPageViews": 16,
+          "averageSessionDuration": 1617.77234,
+          "userEngagementDuration": 1188,
+          "bounceRate": 0.5,
+          "keyEvents": 0,
+          "averageEngagementTimePerSession": 594.0
+        }
+      ],
+      "ga4Countries": [
+        {
+          "country": "United States",
+          "sessions": 64,
+          "totalUsers": 29,
+          "engagedSessions": 28,
+          "averageEngagementTimePerSession": 0.0
+        },
+        {
+          "country": "Greece",
+          "sessions": 51,
+          "totalUsers": 49,
+          "engagedSessions": 21,
+          "averageEngagementTimePerSession": 0.0
+        },
+        {
+          "country": "Hong Kong",
+          "sessions": 51,
+          "totalUsers": 16,
+          "engagedSessions": 34,
+          "averageEngagementTimePerSession": 0.0
+        },
+        {
+          "country": "Poland",
+          "sessions": 37,
+          "totalUsers": 36,
+          "engagedSessions": 12,
+          "averageEngagementTimePerSession": 0.0
+        },
+        {
+          "country": "India",
+          "sessions": 26,
+          "totalUsers": 25,
+          "engagedSessions": 15,
+          "averageEngagementTimePerSession": 0.0
+        },
+        {
+          "country": "Hungary",
+          "sessions": 23,
+          "totalUsers": 23,
+          "engagedSessions": 8,
+          "averageEngagementTimePerSession": 0.0
+        },
+        {
+          "country": "United Kingdom",
+          "sessions": 16,
+          "totalUsers": 16,
+          "engagedSessions": 6,
+          "averageEngagementTimePerSession": 0.0
+        },
+        {
+          "country": "China",
+          "sessions": 14,
+          "totalUsers": 10,
+          "engagedSessions": 10,
+          "averageEngagementTimePerSession": 0.0
+        },
+        {
+          "country": "Portugal",
+          "sessions": 14,
+          "totalUsers": 14,
+          "engagedSessions": 8,
+          "averageEngagementTimePerSession": 0.0
+        },
+        {
+          "country": "(not set)",
+          "sessions": 13,
+          "totalUsers": 13,
+          "engagedSessions": 0,
+          "averageEngagementTimePerSession": 0.0
+        },
+        {
+          "country": "France",
+          "sessions": 13,
+          "totalUsers": 13,
+          "engagedSessions": 6,
+          "averageEngagementTimePerSession": 0.0
+        },
+        {
+          "country": "Italy",
+          "sessions": 13,
+          "totalUsers": 12,
+          "engagedSessions": 3,
+          "averageEngagementTimePerSession": 0.0
+        },
+        {
+          "country": "Serbia",
+          "sessions": 12,
+          "totalUsers": 12,
+          "engagedSessions": 3,
+          "averageEngagementTimePerSession": 0.0
+        },
+        {
+          "country": "Canada",
+          "sessions": 11,
+          "totalUsers": 11,
+          "engagedSessions": 4,
+          "averageEngagementTimePerSession": 0.0
+        },
+        {
+          "country": "Pakistan",
+          "sessions": 10,
+          "totalUsers": 4,
+          "engagedSessions": 8,
+          "averageEngagementTimePerSession": 0.0
+        },
+        {
+          "country": "Spain",
+          "sessions": 8,
+          "totalUsers": 8,
+          "engagedSessions": 3,
+          "averageEngagementTimePerSession": 0.0
+        },
+        {
+          "country": "Australia",
+          "sessions": 7,
+          "totalUsers": 7,
+          "engagedSessions": 4,
+          "averageEngagementTimePerSession": 0.0
+        },
+        {
+          "country": "Czechia",
+          "sessions": 7,
+          "totalUsers": 7,
+          "engagedSessions": 3,
+          "averageEngagementTimePerSession": 0.0
+        },
+        {
+          "country": "Germany",
+          "sessions": 6,
+          "totalUsers": 6,
+          "engagedSessions": 3,
+          "averageEngagementTimePerSession": 0.0
+        },
+        {
+          "country": "Sweden",
+          "sessions": 6,
+          "totalUsers": 6,
+          "engagedSessions": 3,
+          "averageEngagementTimePerSession": 0.0
+        },
+        {
+          "country": "Taiwan",
+          "sessions": 6,
+          "totalUsers": 1,
+          "engagedSessions": 3,
+          "averageEngagementTimePerSession": 0.0
+        },
+        {
+          "country": "Finland",
+          "sessions": 5,
+          "totalUsers": 5,
+          "engagedSessions": 0,
+          "averageEngagementTimePerSession": 0.0
+        },
+        {
+          "country": "Netherlands",
+          "sessions": 5,
+          "totalUsers": 5,
+          "engagedSessions": 3,
+          "averageEngagementTimePerSession": 0.0
+        },
+        {
+          "country": "New Zealand",
+          "sessions": 5,
+          "totalUsers": 5,
+          "engagedSessions": 4,
+          "averageEngagementTimePerSession": 0.0
+        },
+        {
+          "country": "Türkiye",
+          "sessions": 5,
+          "totalUsers": 5,
+          "engagedSessions": 1,
+          "averageEngagementTimePerSession": 0.0
+        },
+        {
+          "country": "Austria",
+          "sessions": 4,
+          "totalUsers": 4,
+          "engagedSessions": 0,
+          "averageEngagementTimePerSession": 0.0
+        },
+        {
+          "country": "Ireland",
+          "sessions": 4,
+          "totalUsers": 4,
+          "engagedSessions": 1,
+          "averageEngagementTimePerSession": 0.0
+        },
+        {
+          "country": "Norway",
+          "sessions": 4,
+          "totalUsers": 4,
+          "engagedSessions": 3,
+          "averageEngagementTimePerSession": 0.0
+        },
+        {
+          "country": "North Macedonia",
+          "sessions": 3,
+          "totalUsers": 3,
+          "engagedSessions": 2,
+          "averageEngagementTimePerSession": 0.0
+        },
+        {
+          "country": "Slovakia",
+          "sessions": 3,
+          "totalUsers": 3,
+          "engagedSessions": 0,
+          "averageEngagementTimePerSession": 0.0
+        },
+        {
+          "country": "Croatia",
+          "sessions": 2,
+          "totalUsers": 2,
+          "engagedSessions": 0,
+          "averageEngagementTimePerSession": 0.0
+        },
+        {
+          "country": "Indonesia",
+          "sessions": 2,
+          "totalUsers": 2,
+          "engagedSessions": 0,
+          "averageEngagementTimePerSession": 0.0
+        },
+        {
+          "country": "Japan",
+          "sessions": 2,
+          "totalUsers": 1,
+          "engagedSessions": 1,
+          "averageEngagementTimePerSession": 0.0
+        },
+        {
+          "country": "Malaysia",
+          "sessions": 2,
+          "totalUsers": 1,
+          "engagedSessions": 1,
+          "averageEngagementTimePerSession": 0.0
+        },
+        {
+          "country": "Romania",
+          "sessions": 2,
+          "totalUsers": 2,
+          "engagedSessions": 1,
+          "averageEngagementTimePerSession": 0.0
+        },
+        {
+          "country": "Argentina",
+          "sessions": 1,
+          "totalUsers": 1,
+          "engagedSessions": 1,
+          "averageEngagementTimePerSession": 0.0
+        },
+        {
+          "country": "Bangladesh",
+          "sessions": 1,
+          "totalUsers": 1,
+          "engagedSessions": 0,
+          "averageEngagementTimePerSession": 0.0
+        },
+        {
+          "country": "Belarus",
+          "sessions": 1,
+          "totalUsers": 1,
+          "engagedSessions": 0,
+          "averageEngagementTimePerSession": 0.0
+        },
+        {
+          "country": "Belgium",
+          "sessions": 1,
+          "totalUsers": 1,
+          "engagedSessions": 1,
+          "averageEngagementTimePerSession": 0.0
+        },
+        {
+          "country": "Bosnia & Herzegovina",
+          "sessions": 1,
+          "totalUsers": 1,
+          "engagedSessions": 0,
+          "averageEngagementTimePerSession": 0.0
+        },
+        {
+          "country": "Brazil",
+          "sessions": 1,
+          "totalUsers": 1,
+          "engagedSessions": 0,
+          "averageEngagementTimePerSession": 0.0
+        },
+        {
+          "country": "Cyprus",
+          "sessions": 1,
+          "totalUsers": 1,
+          "engagedSessions": 1,
+          "averageEngagementTimePerSession": 0.0
+        },
+        {
+          "country": "Ecuador",
+          "sessions": 1,
+          "totalUsers": 1,
+          "engagedSessions": 1,
+          "averageEngagementTimePerSession": 0.0
+        },
+        {
+          "country": "Fiji",
+          "sessions": 1,
+          "totalUsers": 1,
+          "engagedSessions": 0,
+          "averageEngagementTimePerSession": 0.0
+        },
+        {
+          "country": "Georgia",
+          "sessions": 1,
+          "totalUsers": 1,
+          "engagedSessions": 1,
+          "averageEngagementTimePerSession": 0.0
+        },
+        {
+          "country": "Latvia",
+          "sessions": 1,
+          "totalUsers": 1,
+          "engagedSessions": 1,
+          "averageEngagementTimePerSession": 0.0
+        },
+        {
+          "country": "Mexico",
+          "sessions": 1,
+          "totalUsers": 1,
+          "engagedSessions": 0,
+          "averageEngagementTimePerSession": 0.0
+        },
+        {
+          "country": "Morocco",
+          "sessions": 1,
+          "totalUsers": 1,
+          "engagedSessions": 0,
+          "averageEngagementTimePerSession": 0.0
+        },
+        {
+          "country": "Nepal",
+          "sessions": 1,
+          "totalUsers": 1,
+          "engagedSessions": 1,
+          "averageEngagementTimePerSession": 0.0
+        },
+        {
+          "country": "Nigeria",
+          "sessions": 1,
+          "totalUsers": 1,
+          "engagedSessions": 0,
+          "averageEngagementTimePerSession": 0.0
+        },
+        {
+          "country": "Philippines",
+          "sessions": 1,
+          "totalUsers": 1,
+          "engagedSessions": 0,
+          "averageEngagementTimePerSession": 0.0
+        },
+        {
+          "country": "Rwanda",
+          "sessions": 1,
+          "totalUsers": 1,
+          "engagedSessions": 0,
+          "averageEngagementTimePerSession": 0.0
+        },
+        {
+          "country": "Singapore",
+          "sessions": 1,
+          "totalUsers": 1,
+          "engagedSessions": 1,
+          "averageEngagementTimePerSession": 0.0
+        },
+        {
+          "country": "Slovenia",
+          "sessions": 1,
+          "totalUsers": 1,
+          "engagedSessions": 0,
+          "averageEngagementTimePerSession": 0.0
+        },
+        {
+          "country": "South Korea",
+          "sessions": 1,
+          "totalUsers": 1,
+          "engagedSessions": 1,
+          "averageEngagementTimePerSession": 0.0
+        },
+        {
+          "country": "Ukraine",
+          "sessions": 1,
+          "totalUsers": 1,
+          "engagedSessions": 0,
+          "averageEngagementTimePerSession": 0.0
+        }
+      ],
+      "countries": [
+        {
+          "clicks": 1,
+          "impressions": 10,
+          "ctr": 10.0,
+          "position": 6.1,
+          "country": "can"
+        },
+        {
+          "clicks": 1,
+          "impressions": 5,
+          "ctr": 20.0,
+          "position": 10.0,
+          "country": "dnk"
+        },
+        {
+          "clicks": 0,
+          "impressions": 1,
+          "ctr": 0.0,
+          "position": 2.0,
+          "country": "aus"
+        },
+        {
+          "clicks": 0,
+          "impressions": 2,
+          "ctr": 0.0,
+          "position": 23.0,
+          "country": "bgd"
+        },
+        {
+          "clicks": 0,
+          "impressions": 1,
+          "ctr": 0.0,
+          "position": 3.0,
+          "country": "chn"
+        },
+        {
+          "clicks": 0,
+          "impressions": 1,
+          "ctr": 0.0,
+          "position": 4.0,
+          "country": "cuw"
+        },
+        {
+          "clicks": 0,
+          "impressions": 5,
+          "ctr": 0.0,
+          "position": 3.6,
+          "country": "gbr"
+        },
+        {
+          "clicks": 0,
+          "impressions": 9,
+          "ctr": 0.0,
+          "position": 2.2222,
+          "country": "hkg"
+        },
+        {
+          "clicks": 0,
+          "impressions": 4,
+          "ctr": 0.0,
+          "position": 2.75,
+          "country": "ind"
+        },
+        {
+          "clicks": 0,
+          "impressions": 1,
+          "ctr": 0.0,
+          "position": 8.0,
+          "country": "irn"
+        },
+        {
+          "clicks": 0,
+          "impressions": 1,
+          "ctr": 0.0,
+          "position": 12.0,
+          "country": "jpn"
+        },
+        {
+          "clicks": 0,
+          "impressions": 1,
+          "ctr": 0.0,
+          "position": 12.0,
+          "country": "mex"
+        },
+        {
+          "clicks": 0,
+          "impressions": 1,
+          "ctr": 0.0,
+          "position": 1.0,
+          "country": "mus"
+        },
+        {
+          "clicks": 0,
+          "impressions": 3,
+          "ctr": 0.0,
+          "position": 10.0,
+          "country": "mys"
+        },
+        {
+          "clicks": 0,
+          "impressions": 2,
+          "ctr": 0.0,
+          "position": 56.0,
+          "country": "nld"
+        },
+        {
+          "clicks": 0,
+          "impressions": 2,
+          "ctr": 0.0,
+          "position": 5.5,
+          "country": "pak"
+        },
+        {
+          "clicks": 0,
+          "impressions": 1,
+          "ctr": 0.0,
+          "position": 38.0,
+          "country": "phl"
+        },
+        {
+          "clicks": 0,
+          "impressions": 2,
+          "ctr": 0.0,
+          "position": 2.0,
+          "country": "rus"
+        },
+        {
+          "clicks": 0,
+          "impressions": 3,
+          "ctr": 0.0,
+          "position": 15.0,
+          "country": "sau"
+        },
+        {
+          "clicks": 0,
+          "impressions": 3,
+          "ctr": 0.0,
+          "position": 4.0,
+          "country": "sgp"
+        },
+        {
+          "clicks": 0,
+          "impressions": 3,
+          "ctr": 0.0,
+          "position": 1.6667,
+          "country": "tha"
+        },
+        {
+          "clicks": 0,
+          "impressions": 1,
+          "ctr": 0.0,
+          "position": 5.0,
+          "country": "tun"
+        },
+        {
+          "clicks": 0,
+          "impressions": 1,
+          "ctr": 0.0,
+          "position": 2.0,
+          "country": "tur"
+        },
+        {
+          "clicks": 0,
+          "impressions": 7,
+          "ctr": 0.0,
+          "position": 7.1429,
+          "country": "twn"
+        },
+        {
+          "clicks": 0,
+          "impressions": 39,
+          "ctr": 0.0,
+          "position": 5.2308,
+          "country": "usa"
+        },
+        {
+          "clicks": 0,
+          "impressions": 1,
+          "ctr": 0.0,
+          "position": 3.0,
+          "country": "ven"
+        },
+        {
+          "clicks": 0,
+          "impressions": 2,
+          "ctr": 0.0,
+          "position": 1.5,
+          "country": "vnm"
+        },
+        {
+          "clicks": 0,
+          "impressions": 2,
+          "ctr": 0.0,
+          "position": 3.5,
+          "country": "zaf"
+        },
+        {
+          "clicks": 0,
+          "impressions": 1,
+          "ctr": 0.0,
+          "position": 2.0,
+          "country": "zzz"
+        }
+      ],
+      "gscDaily": [
+        {
+          "clicks": 0,
+          "impressions": 1,
+          "ctr": 0.0,
+          "position": 2.0,
+          "date": "2026-01-01"
+        },
+        {
+          "clicks": 0,
+          "impressions": 2,
+          "ctr": 0.0,
+          "position": 1.0,
+          "date": "2026-01-02"
+        },
+        {
+          "clicks": 0,
+          "impressions": 2,
+          "ctr": 0.0,
+          "position": 4.5,
+          "date": "2026-01-03"
+        },
+        {
+          "clicks": 0,
+          "impressions": 5,
+          "ctr": 0.0,
+          "position": 2.2,
+          "date": "2026-01-04"
+        },
+        {
+          "clicks": 0,
+          "impressions": 7,
+          "ctr": 0.0,
+          "position": 3.2857,
+          "date": "2026-01-05"
+        },
+        {
+          "clicks": 0,
+          "impressions": 2,
+          "ctr": 0.0,
+          "position": 1.5,
+          "date": "2026-01-06"
+        },
+        {
+          "clicks": 0,
+          "impressions": 6,
+          "ctr": 0.0,
+          "position": 4.6667,
+          "date": "2026-01-07"
+        },
+        {
+          "clicks": 0,
+          "impressions": 2,
+          "ctr": 0.0,
+          "position": 3.0,
+          "date": "2026-01-08"
+        },
+        {
+          "clicks": 0,
+          "impressions": 3,
+          "ctr": 0.0,
+          "position": 4.0,
+          "date": "2026-01-09"
+        },
+        {
+          "clicks": 0,
+          "impressions": 0,
+          "ctr": 0.0,
+          "position": 0.0,
+          "date": "2026-01-10"
+        },
+        {
+          "clicks": 0,
+          "impressions": 5,
+          "ctr": 0.0,
+          "position": 5.8,
+          "date": "2026-01-11"
+        },
+        {
+          "clicks": 0,
+          "impressions": 0,
+          "ctr": 0.0,
+          "position": 0.0,
+          "date": "2026-01-12"
+        },
+        {
+          "clicks": 2,
+          "impressions": 8,
+          "ctr": 25.0,
+          "position": 11.875,
+          "date": "2026-01-13"
+        },
+        {
+          "clicks": 0,
+          "impressions": 10,
+          "ctr": 0.0,
+          "position": 6.5,
+          "date": "2026-01-14"
+        },
+        {
+          "clicks": 0,
+          "impressions": 4,
+          "ctr": 0.0,
+          "position": 3.25,
+          "date": "2026-01-15"
+        },
+        {
+          "clicks": 0,
+          "impressions": 3,
+          "ctr": 0.0,
+          "position": 5.0,
+          "date": "2026-01-16"
+        },
+        {
+          "clicks": 0,
+          "impressions": 4,
+          "ctr": 0.0,
+          "position": 13.25,
+          "date": "2026-01-17"
+        },
+        {
+          "clicks": 0,
+          "impressions": 8,
+          "ctr": 0.0,
+          "position": 3.75,
+          "date": "2026-01-18"
+        },
+        {
+          "clicks": 0,
+          "impressions": 2,
+          "ctr": 0.0,
+          "position": 1.5,
+          "date": "2026-01-19"
+        },
+        {
+          "clicks": 0,
+          "impressions": 5,
+          "ctr": 0.0,
+          "position": 8.6,
+          "date": "2026-01-20"
+        },
+        {
+          "clicks": 0,
+          "impressions": 3,
+          "ctr": 0.0,
+          "position": 12.0,
+          "date": "2026-01-21"
+        },
+        {
+          "clicks": 0,
+          "impressions": 1,
+          "ctr": 0.0,
+          "position": 7.0,
+          "date": "2026-01-22"
+        },
+        {
+          "clicks": 0,
+          "impressions": 7,
+          "ctr": 0.0,
+          "position": 5.7143,
+          "date": "2026-01-23"
+        },
+        {
+          "clicks": 0,
+          "impressions": 0,
+          "ctr": 0.0,
+          "position": 0.0,
+          "date": "2026-01-24"
+        },
+        {
+          "clicks": 0,
+          "impressions": 2,
+          "ctr": 0.0,
+          "position": 22.0,
+          "date": "2026-01-25"
+        },
+        {
+          "clicks": 0,
+          "impressions": 2,
+          "ctr": 0.0,
+          "position": 7.0,
+          "date": "2026-01-26"
+        },
+        {
+          "clicks": 0,
+          "impressions": 6,
+          "ctr": 0.0,
+          "position": 17.5,
+          "date": "2026-01-27"
+        },
+        {
+          "clicks": 0,
+          "impressions": 2,
+          "ctr": 0.0,
+          "position": 19.5,
+          "date": "2026-01-28"
+        },
+        {
+          "clicks": 0,
+          "impressions": 5,
+          "ctr": 0.0,
+          "position": 5.4,
+          "date": "2026-01-29"
+        },
+        {
+          "clicks": 0,
+          "impressions": 3,
+          "ctr": 0.0,
+          "position": 4.3333,
+          "date": "2026-01-30"
+        },
+        {
+          "clicks": 0,
+          "impressions": 5,
+          "ctr": 0.0,
+          "position": 2.8,
+          "date": "2026-01-31"
+        }
+      ],
+      "ga4Daily": [
+        {
+          "date": "20260101",
+          "sessions": 1,
+          "engagedSessions": 1,
+          "totalUsers": 1,
+          "screenPageViews": 1,
+          "averageSessionDuration": 90.271181,
+          "userEngagementDuration": 18,
+          "bounceRate": 0,
+          "keyEvents": 0,
+          "averageEngagementTimePerSession": 18.0
+        },
+        {
+          "date": "20260102",
+          "sessions": 1,
+          "engagedSessions": 1,
+          "totalUsers": 1,
+          "screenPageViews": 1,
+          "averageSessionDuration": 11.199194,
+          "userEngagementDuration": 11,
+          "bounceRate": 0,
+          "keyEvents": 0,
+          "averageEngagementTimePerSession": 11.0
+        },
+        {
+          "date": "20260103",
+          "sessions": 2,
+          "engagedSessions": 1,
+          "totalUsers": 1,
+          "screenPageViews": 3,
+          "averageSessionDuration": 1216.681787,
+          "userEngagementDuration": 5,
+          "bounceRate": 0.5,
+          "keyEvents": 0,
+          "averageEngagementTimePerSession": 2.5
+        },
+        {
+          "date": "20260104",
+          "sessions": 3,
+          "engagedSessions": 3,
+          "totalUsers": 3,
+          "screenPageViews": 14,
+          "averageSessionDuration": 1826.157387,
+          "userEngagementDuration": 112,
+          "bounceRate": 0,
+          "keyEvents": 0,
+          "averageEngagementTimePerSession": 37.33
+        },
+        {
+          "date": "20260105",
+          "sessions": 5,
+          "engagedSessions": 3,
+          "totalUsers": 3,
+          "screenPageViews": 23,
+          "averageSessionDuration": 339.443977,
+          "userEngagementDuration": 345,
+          "bounceRate": 0.4,
+          "keyEvents": 0,
+          "averageEngagementTimePerSession": 69.0
+        },
+        {
+          "date": "20260106",
+          "sessions": 8,
+          "engagedSessions": 6,
+          "totalUsers": 7,
+          "screenPageViews": 29,
+          "averageSessionDuration": 314.75787,
+          "userEngagementDuration": 349,
+          "bounceRate": 0.25,
+          "keyEvents": 0,
+          "averageEngagementTimePerSession": 43.62
+        },
+        {
+          "date": "20260107",
+          "sessions": 4,
+          "engagedSessions": 3,
+          "totalUsers": 2,
+          "screenPageViews": 24,
+          "averageSessionDuration": 2117.231808,
+          "userEngagementDuration": 1662,
+          "bounceRate": 0.25,
+          "keyEvents": 0,
+          "averageEngagementTimePerSession": 415.5
+        },
+        {
+          "date": "20260108",
+          "sessions": 7,
+          "engagedSessions": 3,
+          "totalUsers": 2,
+          "screenPageViews": 21,
+          "averageSessionDuration": 102.093411,
+          "userEngagementDuration": 324,
+          "bounceRate": 0.571429,
+          "keyEvents": 0,
+          "averageEngagementTimePerSession": 46.29
+        },
+        {
+          "date": "20260109",
+          "sessions": 11,
+          "engagedSessions": 5,
+          "totalUsers": 5,
+          "screenPageViews": 14,
+          "averageSessionDuration": 128.345037,
+          "userEngagementDuration": 241,
+          "bounceRate": 0.545455,
+          "keyEvents": 0,
+          "averageEngagementTimePerSession": 21.91
+        },
+        {
+          "date": "20260112",
+          "sessions": 7,
+          "engagedSessions": 5,
+          "totalUsers": 3,
+          "screenPageViews": 18,
+          "averageSessionDuration": 442.545416,
+          "userEngagementDuration": 496,
+          "bounceRate": 0.285714,
+          "keyEvents": 0,
+          "averageEngagementTimePerSession": 70.86
+        },
+        {
+          "date": "20260113",
+          "sessions": 14,
+          "engagedSessions": 7,
+          "totalUsers": 6,
+          "screenPageViews": 100,
+          "averageSessionDuration": 1167.710977,
+          "userEngagementDuration": 1572,
+          "bounceRate": 0.5,
+          "keyEvents": 0,
+          "averageEngagementTimePerSession": 112.29
+        },
+        {
+          "date": "20260114",
+          "sessions": 5,
+          "engagedSessions": 1,
+          "totalUsers": 3,
+          "screenPageViews": 3,
+          "averageSessionDuration": 159.194045,
+          "userEngagementDuration": 20,
+          "bounceRate": 0.8,
+          "keyEvents": 0,
+          "averageEngagementTimePerSession": 4.0
+        },
+        {
+          "date": "20260115",
+          "sessions": 2,
+          "engagedSessions": 2,
+          "totalUsers": 2,
+          "screenPageViews": 9,
+          "averageSessionDuration": 47.675634,
+          "userEngagementDuration": 59,
+          "bounceRate": 0,
+          "keyEvents": 0,
+          "averageEngagementTimePerSession": 29.5
+        },
+        {
+          "date": "20260116",
+          "sessions": 10,
+          "engagedSessions": 4,
+          "totalUsers": 9,
+          "screenPageViews": 67,
+          "averageSessionDuration": 260.238672,
+          "userEngagementDuration": 462,
+          "bounceRate": 0.6,
+          "keyEvents": 0,
+          "averageEngagementTimePerSession": 46.2
+        },
+        {
+          "date": "20260119",
+          "sessions": 12,
+          "engagedSessions": 7,
+          "totalUsers": 9,
+          "screenPageViews": 73,
+          "averageSessionDuration": 603.21714,
+          "userEngagementDuration": 1029,
+          "bounceRate": 0.416667,
+          "keyEvents": 7,
+          "averageEngagementTimePerSession": 85.75
+        },
+        {
+          "date": "20260120",
+          "sessions": 26,
+          "engagedSessions": 8,
+          "totalUsers": 23,
+          "screenPageViews": 33,
+          "averageSessionDuration": 105.940163,
+          "userEngagementDuration": 379,
+          "bounceRate": 0.692308,
+          "keyEvents": 0,
+          "averageEngagementTimePerSession": 14.58
+        },
+        {
+          "date": "20260121",
+          "sessions": 27,
+          "engagedSessions": 10,
+          "totalUsers": 27,
+          "screenPageViews": 33,
+          "averageSessionDuration": 21.023002,
+          "userEngagementDuration": 246,
+          "bounceRate": 0.62963,
+          "keyEvents": 0,
+          "averageEngagementTimePerSession": 9.11
+        },
+        {
+          "date": "20260122",
+          "sessions": 30,
+          "engagedSessions": 10,
+          "totalUsers": 30,
+          "screenPageViews": 33,
+          "averageSessionDuration": 56.512528,
+          "userEngagementDuration": 190,
+          "bounceRate": 0.666667,
+          "keyEvents": 0,
+          "averageEngagementTimePerSession": 6.33
+        },
+        {
+          "date": "20260123",
+          "sessions": 44,
+          "engagedSessions": 17,
+          "totalUsers": 39,
+          "screenPageViews": 66,
+          "averageSessionDuration": 141.180448,
+          "userEngagementDuration": 1120,
+          "bounceRate": 0.613636,
+          "keyEvents": 0,
+          "averageEngagementTimePerSession": 25.45
+        },
+        {
+          "date": "20260124",
+          "sessions": 24,
+          "engagedSessions": 9,
+          "totalUsers": 24,
+          "screenPageViews": 30,
+          "averageSessionDuration": 86.008618,
+          "userEngagementDuration": 291,
+          "bounceRate": 0.625,
+          "keyEvents": 0,
+          "averageEngagementTimePerSession": 12.12
+        },
+        {
+          "date": "20260125",
+          "sessions": 32,
+          "engagedSessions": 12,
+          "totalUsers": 32,
+          "screenPageViews": 34,
+          "averageSessionDuration": 61.376915,
+          "userEngagementDuration": 378,
+          "bounceRate": 0.625,
+          "keyEvents": 0,
+          "averageEngagementTimePerSession": 11.81
+        },
+        {
+          "date": "20260126",
+          "sessions": 39,
+          "engagedSessions": 14,
+          "totalUsers": 36,
+          "screenPageViews": 46,
+          "averageSessionDuration": 34.56377,
+          "userEngagementDuration": 359,
+          "bounceRate": 0.641026,
+          "keyEvents": 0,
+          "averageEngagementTimePerSession": 9.21
+        },
+        {
+          "date": "20260127",
+          "sessions": 37,
+          "engagedSessions": 22,
+          "totalUsers": 35,
+          "screenPageViews": 42,
+          "averageSessionDuration": 76.082146,
+          "userEngagementDuration": 680,
+          "bounceRate": 0.405405,
+          "keyEvents": 1,
+          "averageEngagementTimePerSession": 18.38
+        },
+        {
+          "date": "20260128",
+          "sessions": 38,
+          "engagedSessions": 15,
+          "totalUsers": 36,
+          "screenPageViews": 44,
+          "averageSessionDuration": 34.585797,
+          "userEngagementDuration": 439,
+          "bounceRate": 0.605263,
+          "keyEvents": 0,
+          "averageEngagementTimePerSession": 11.55
+        },
+        {
+          "date": "20260129",
+          "sessions": 34,
+          "engagedSessions": 13,
+          "totalUsers": 34,
+          "screenPageViews": 37,
+          "averageSessionDuration": 16.456083,
+          "userEngagementDuration": 370,
+          "bounceRate": 0.617647,
+          "keyEvents": 0,
+          "averageEngagementTimePerSession": 10.88
+        },
+        {
+          "date": "20260130",
+          "sessions": 35,
+          "engagedSessions": 17,
+          "totalUsers": 33,
+          "screenPageViews": 47,
+          "averageSessionDuration": 56.475009,
+          "userEngagementDuration": 482,
+          "bounceRate": 0.514286,
+          "keyEvents": 0,
+          "averageEngagementTimePerSession": 13.77
+        },
+        {
+          "date": "20260131",
+          "sessions": 15,
+          "engagedSessions": 8,
+          "totalUsers": 15,
+          "screenPageViews": 18,
+          "averageSessionDuration": 58.193659,
+          "userEngagementDuration": 222,
+          "bounceRate": 0.466667,
+          "keyEvents": 0,
+          "averageEngagementTimePerSession": 14.8
+        }
+      ],
+      "pages": [
+        {
+          "page": "https://www.liangyin-aluminum.com/",
+          "path": "/",
+          "clicks": 1,
+          "impressions": 79,
+          "ctr": 1.2658,
+          "position": 3.6203,
+          "sessions": 1,
+          "users": 1,
+          "views": 2,
+          "bounceRate": 0.0,
+          "averageSessionDuration": 43.85,
+          "indexVerdict": "NOT_INSPECTED",
+          "coverageState": ""
+        },
+        {
+          "page": "https://www.liangyin-aluminum.com/wp-content/uploads/2025/11/Sedex-Members-Ethical-Trade-Audit-Report.pdf",
+          "path": "/wp-content/uploads/2025/11/Sedex-Members-Ethical-Trade-Audit-Report.pdf",
+          "clicks": 1,
+          "impressions": 42,
+          "ctr": 2.381,
+          "position": 12.1667,
+          "sessions": 0,
+          "users": 0,
+          "views": 0,
+          "bounceRate": 0.0,
+          "averageSessionDuration": 0.0,
+          "indexVerdict": "NOT_INSPECTED",
+          "coverageState": ""
+        },
+        {
+          "page": "https://www.liangyin-aluminum.com/about-liangyin/",
+          "path": "/about-liangyin",
+          "clicks": 0,
+          "impressions": 1,
+          "ctr": 0.0,
+          "position": 1.0,
+          "sessions": 2,
+          "users": 1,
+          "views": 3,
+          "bounceRate": 50.0,
+          "averageSessionDuration": 65.57,
+          "indexVerdict": "NOT_INSPECTED",
+          "coverageState": ""
+        },
+        {
+          "page": "https://www.liangyin-aluminum.com/application/",
+          "path": "/application",
+          "clicks": 0,
+          "impressions": 1,
+          "ctr": 0.0,
+          "position": 1.0,
+          "sessions": 0,
+          "users": 0,
+          "views": 0,
+          "bounceRate": 0.0,
+          "averageSessionDuration": 0.0,
+          "indexVerdict": "NOT_INSPECTED",
+          "coverageState": ""
+        },
+        {
+          "page": "https://www.liangyin-aluminum.com/cnc-machining-center/",
+          "path": "/cnc-machining-center",
+          "clicks": 0,
+          "impressions": 1,
+          "ctr": 0.0,
+          "position": 1.0,
+          "sessions": 1,
+          "users": 1,
+          "views": 1,
+          "bounceRate": 100.0,
+          "averageSessionDuration": 0.0,
+          "indexVerdict": "NOT_INSPECTED",
+          "coverageState": ""
+        },
+        {
+          "page": "https://www.liangyin-aluminum.com/the-future-development-direction-of-aluminum-profile-surface-treatment/",
+          "path": "/the-future-development-direction-of-aluminum-profile-surface-treatment",
+          "clicks": 0,
+          "impressions": 16,
+          "ctr": 0.0,
+          "position": 2.9375,
+          "sessions": 0,
+          "users": 0,
+          "views": 0,
+          "bounceRate": 0.0,
+          "averageSessionDuration": 0.0,
+          "indexVerdict": "NOT_INSPECTED",
+          "coverageState": ""
+        },
+        {
+          "page": "https://www.liangyin-aluminum.com/turnkey-management/",
+          "path": "/turnkey-management",
+          "clicks": 0,
+          "impressions": 1,
+          "ctr": 0.0,
+          "position": 1.0,
+          "sessions": 0,
+          "users": 0,
+          "views": 0,
+          "bounceRate": 0.0,
+          "averageSessionDuration": 0.0,
+          "indexVerdict": "NOT_INSPECTED",
+          "coverageState": ""
+        }
+      ],
+      "recommendations": [
+        {
+          "type": "点击率",
+          "target": "/",
+          "text": "曝光较高但点击率低，建议优化标题、描述和搜索意图匹配。"
+        },
+        {
+          "type": "体验",
+          "target": "/cnc-machining-center",
+          "text": "排名靠前但跳出率高，建议优化内容匹配度、首屏信息与内部链接。"
+        }
+      ]
+    }
+  ],
+  "report": {
+    "type": "monthly",
+    "typeLabel": "月度报告",
+    "label": "2026-01",
+    "domain": "liangyin-aluminum.com",
+    "rangeLabel": "2026-01",
+    "selectedMonths": [
+      "2026-01"
+    ],
+    "comparison": {
+      "label": "上月（2025-12）",
+      "available": true,
+      "clickDelta": -33.33333333333333,
+      "ctrDelta": -71.59447275578205,
+      "rankDelta": -0.79
+    }
+  }
+}
