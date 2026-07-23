@@ -1,0 +1,4884 @@
+{
+  "source": "Google Search Console + Google Analytics 4",
+  "months": [
+    {
+      "label": "2026-04",
+      "period": [
+        "2026-04-01",
+        "2026-04-30"
+      ],
+      "metrics": {
+        "clicks": 2,
+        "impressions": 396,
+        "ctr": 0.51,
+        "averagePosition": 9.01,
+        "totalUsers": 65,
+        "pageViews": 149,
+        "sessions": 94,
+        "averageSessionDuration": 257.58,
+        "averageEngagementTimePerSession": 17.86,
+        "bounceRate": 43.62,
+        "keyEvents": 1,
+        "indexedPages": 0,
+        "inspectedPages": 0
+      },
+      "keywords": [
+        {
+          "clicks": 0,
+          "impressions": 4,
+          "ctr": 0.0,
+          "position": 25.75,
+          "query": "advanced aluminum cnc facility china",
+          "positionChange": null
+        },
+        {
+          "clicks": 0,
+          "impressions": 2,
+          "ctr": 0.0,
+          "position": 1.0,
+          "query": "advanced aluminum cnc machining facility china",
+          "positionChange": null
+        },
+        {
+          "clicks": 0,
+          "impressions": 1,
+          "ctr": 0.0,
+          "position": 87.0,
+          "query": "aluminum alloy cnc processing workshop china",
+          "positionChange": null
+        },
+        {
+          "clicks": 0,
+          "impressions": 25,
+          "ctr": 0.0,
+          "position": 23.2,
+          "query": "aluminum extrusions for medical devices",
+          "positionChange": null
+        },
+        {
+          "clicks": 0,
+          "impressions": 1,
+          "ctr": 0.0,
+          "position": 6.0,
+          "query": "electronics aluminum parts manufacturer",
+          "positionChange": null
+        },
+        {
+          "clicks": 0,
+          "impressions": 3,
+          "ctr": 0.0,
+          "position": 2.0,
+          "query": "liangyin",
+          "positionChange": null
+        },
+        {
+          "clicks": 0,
+          "impressions": 3,
+          "ctr": 0.0,
+          "position": 44.0,
+          "query": "sedex audit report",
+          "positionChange": null
+        },
+        {
+          "clicks": 0,
+          "impressions": 2,
+          "ctr": 0.0,
+          "position": 9.0,
+          "query": "sedex audit trash can factory china",
+          "positionChange": null
+        },
+        {
+          "clicks": 0,
+          "impressions": 4,
+          "ctr": 0.0,
+          "position": 40.0,
+          "query": "sedex members ethical trade audit",
+          "positionChange": null
+        },
+        {
+          "clicks": 0,
+          "impressions": 1,
+          "ctr": 0.0,
+          "position": 12.0,
+          "query": "smeta capr",
+          "positionChange": null
+        },
+        {
+          "clicks": 0,
+          "impressions": 2,
+          "ctr": 0.0,
+          "position": 67.5,
+          "query": "top cosmetic finishing system for aluminum components",
+          "positionChange": null
+        },
+        {
+          "clicks": 0,
+          "impressions": 8,
+          "ctr": 0.0,
+          "position": 15.5,
+          "query": "wp-sedex informati",
+          "positionChange": null
+        }
+      ],
+      "channels": [
+        {
+          "sessionDefaultChannelGroup": "Direct",
+          "sessions": 45,
+          "engagedSessions": 29,
+          "totalUsers": 24,
+          "screenPageViews": 89,
+          "averageSessionDuration": 411.256441,
+          "userEngagementDuration": 1122,
+          "bounceRate": 0.355556,
+          "keyEvents": 0,
+          "averageEngagementTimePerSession": 24.93
+        },
+        {
+          "sessionDefaultChannelGroup": "Organic Social",
+          "sessions": 30,
+          "engagedSessions": 10,
+          "totalUsers": 30,
+          "screenPageViews": 30,
+          "averageSessionDuration": 7.339026,
+          "userEngagementDuration": 121,
+          "bounceRate": 0.666667,
+          "keyEvents": 0,
+          "averageEngagementTimePerSession": 4.03
+        },
+        {
+          "sessionDefaultChannelGroup": "Referral",
+          "sessions": 17,
+          "engagedSessions": 13,
+          "totalUsers": 10,
+          "screenPageViews": 28,
+          "averageSessionDuration": 310.294402,
+          "userEngagementDuration": 424,
+          "bounceRate": 0.235294,
+          "keyEvents": 1,
+          "averageEngagementTimePerSession": 24.94
+        },
+        {
+          "sessionDefaultChannelGroup": "Organic Search",
+          "sessions": 2,
+          "engagedSessions": 1,
+          "totalUsers": 2,
+          "screenPageViews": 2,
+          "averageSessionDuration": 105.36401,
+          "userEngagementDuration": 12,
+          "bounceRate": 0.5,
+          "keyEvents": 0,
+          "averageEngagementTimePerSession": 6.0
+        }
+      ],
+      "sources": [
+        {
+          "sessionSource": "(direct)",
+          "sessions": 45,
+          "engagedSessions": 29,
+          "totalUsers": 24,
+          "screenPageViews": 89,
+          "averageSessionDuration": 411.256441,
+          "userEngagementDuration": 1122,
+          "bounceRate": 0.355556,
+          "keyEvents": 0,
+          "averageEngagementTimePerSession": 24.93
+        },
+        {
+          "sessionSource": "facebook.com",
+          "sessions": 30,
+          "engagedSessions": 10,
+          "totalUsers": 30,
+          "screenPageViews": 30,
+          "averageSessionDuration": 7.339026,
+          "userEngagementDuration": 121,
+          "bounceRate": 0.666667,
+          "keyEvents": 0,
+          "averageEngagementTimePerSession": 4.03
+        },
+        {
+          "sessionSource": "techprimex.com",
+          "sessions": 12,
+          "engagedSessions": 9,
+          "totalUsers": 9,
+          "screenPageViews": 18,
+          "averageSessionDuration": 304.073943,
+          "userEngagementDuration": 196,
+          "bounceRate": 0.25,
+          "keyEvents": 1,
+          "averageEngagementTimePerSession": 16.33
+        },
+        {
+          "sessionSource": "kdocs.cn",
+          "sessions": 5,
+          "engagedSessions": 4,
+          "totalUsers": 1,
+          "screenPageViews": 10,
+          "averageSessionDuration": 325.223503,
+          "userEngagementDuration": 228,
+          "bounceRate": 0.2,
+          "keyEvents": 0,
+          "averageEngagementTimePerSession": 45.6
+        },
+        {
+          "sessionSource": "google",
+          "sessions": 2,
+          "engagedSessions": 1,
+          "totalUsers": 2,
+          "screenPageViews": 2,
+          "averageSessionDuration": 105.36401,
+          "userEngagementDuration": 12,
+          "bounceRate": 0.5,
+          "keyEvents": 0,
+          "averageEngagementTimePerSession": 6.0
+        }
+      ],
+      "ga4Countries": [
+        {
+          "country": "United States",
+          "sessions": 46,
+          "totalUsers": 31,
+          "engagedSessions": 23,
+          "averageEngagementTimePerSession": 0.0
+        },
+        {
+          "country": "China",
+          "sessions": 14,
+          "totalUsers": 11,
+          "engagedSessions": 8,
+          "averageEngagementTimePerSession": 0.0
+        },
+        {
+          "country": "Pakistan",
+          "sessions": 12,
+          "totalUsers": 11,
+          "engagedSessions": 9,
+          "averageEngagementTimePerSession": 0.0
+        },
+        {
+          "country": "Hong Kong",
+          "sessions": 9,
+          "totalUsers": 4,
+          "engagedSessions": 5,
+          "averageEngagementTimePerSession": 0.0
+        },
+        {
+          "country": "Ireland",
+          "sessions": 5,
+          "totalUsers": 5,
+          "engagedSessions": 3,
+          "averageEngagementTimePerSession": 0.0
+        },
+        {
+          "country": "Singapore",
+          "sessions": 3,
+          "totalUsers": 1,
+          "engagedSessions": 3,
+          "averageEngagementTimePerSession": 0.0
+        },
+        {
+          "country": "Sweden",
+          "sessions": 2,
+          "totalUsers": 2,
+          "engagedSessions": 0,
+          "averageEngagementTimePerSession": 0.0
+        },
+        {
+          "country": "Germany",
+          "sessions": 1,
+          "totalUsers": 1,
+          "engagedSessions": 1,
+          "averageEngagementTimePerSession": 0.0
+        },
+        {
+          "country": "Mexico",
+          "sessions": 1,
+          "totalUsers": 1,
+          "engagedSessions": 0,
+          "averageEngagementTimePerSession": 0.0
+        },
+        {
+          "country": "Morocco",
+          "sessions": 1,
+          "totalUsers": 1,
+          "engagedSessions": 1,
+          "averageEngagementTimePerSession": 0.0
+        },
+        {
+          "country": "Spain",
+          "sessions": 1,
+          "totalUsers": 1,
+          "engagedSessions": 1,
+          "averageEngagementTimePerSession": 0.0
+        }
+      ],
+      "countries": [
+        {
+          "clicks": 2,
+          "impressions": 198,
+          "ctr": 1.0101,
+          "position": 9.6111,
+          "country": "usa"
+        },
+        {
+          "clicks": 0,
+          "impressions": 1,
+          "ctr": 0.0,
+          "position": 8.0,
+          "country": "alb"
+        },
+        {
+          "clicks": 0,
+          "impressions": 2,
+          "ctr": 0.0,
+          "position": 5.0,
+          "country": "are"
+        },
+        {
+          "clicks": 0,
+          "impressions": 1,
+          "ctr": 0.0,
+          "position": 35.0,
+          "country": "arg"
+        },
+        {
+          "clicks": 0,
+          "impressions": 6,
+          "ctr": 0.0,
+          "position": 6.1667,
+          "country": "aus"
+        },
+        {
+          "clicks": 0,
+          "impressions": 1,
+          "ctr": 0.0,
+          "position": 2.0,
+          "country": "aze"
+        },
+        {
+          "clicks": 0,
+          "impressions": 4,
+          "ctr": 0.0,
+          "position": 8.75,
+          "country": "bgd"
+        },
+        {
+          "clicks": 0,
+          "impressions": 1,
+          "ctr": 0.0,
+          "position": 4.0,
+          "country": "bih"
+        },
+        {
+          "clicks": 0,
+          "impressions": 1,
+          "ctr": 0.0,
+          "position": 3.0,
+          "country": "blr"
+        },
+        {
+          "clicks": 0,
+          "impressions": 1,
+          "ctr": 0.0,
+          "position": 1.0,
+          "country": "bol"
+        },
+        {
+          "clicks": 0,
+          "impressions": 2,
+          "ctr": 0.0,
+          "position": 1.0,
+          "country": "bra"
+        },
+        {
+          "clicks": 0,
+          "impressions": 1,
+          "ctr": 0.0,
+          "position": 15.0,
+          "country": "caf"
+        },
+        {
+          "clicks": 0,
+          "impressions": 13,
+          "ctr": 0.0,
+          "position": 6.3846,
+          "country": "can"
+        },
+        {
+          "clicks": 0,
+          "impressions": 1,
+          "ctr": 0.0,
+          "position": 2.0,
+          "country": "chl"
+        },
+        {
+          "clicks": 0,
+          "impressions": 5,
+          "ctr": 0.0,
+          "position": 14.0,
+          "country": "chn"
+        },
+        {
+          "clicks": 0,
+          "impressions": 2,
+          "ctr": 0.0,
+          "position": 4.5,
+          "country": "col"
+        },
+        {
+          "clicks": 0,
+          "impressions": 7,
+          "ctr": 0.0,
+          "position": 21.2857,
+          "country": "deu"
+        },
+        {
+          "clicks": 0,
+          "impressions": 1,
+          "ctr": 0.0,
+          "position": 1.0,
+          "country": "ecu"
+        },
+        {
+          "clicks": 0,
+          "impressions": 2,
+          "ctr": 0.0,
+          "position": 2.0,
+          "country": "esp"
+        },
+        {
+          "clicks": 0,
+          "impressions": 2,
+          "ctr": 0.0,
+          "position": 5.5,
+          "country": "eth"
+        },
+        {
+          "clicks": 0,
+          "impressions": 1,
+          "ctr": 0.0,
+          "position": 12.0,
+          "country": "fin"
+        },
+        {
+          "clicks": 0,
+          "impressions": 1,
+          "ctr": 0.0,
+          "position": 11.0,
+          "country": "fra"
+        },
+        {
+          "clicks": 0,
+          "impressions": 21,
+          "ctr": 0.0,
+          "position": 10.1429,
+          "country": "gbr"
+        },
+        {
+          "clicks": 0,
+          "impressions": 6,
+          "ctr": 0.0,
+          "position": 6.3333,
+          "country": "hkg"
+        },
+        {
+          "clicks": 0,
+          "impressions": 1,
+          "ctr": 0.0,
+          "position": 2.0,
+          "country": "hun"
+        },
+        {
+          "clicks": 0,
+          "impressions": 12,
+          "ctr": 0.0,
+          "position": 8.75,
+          "country": "idn"
+        },
+        {
+          "clicks": 0,
+          "impressions": 10,
+          "ctr": 0.0,
+          "position": 11.8,
+          "country": "ind"
+        },
+        {
+          "clicks": 0,
+          "impressions": 1,
+          "ctr": 0.0,
+          "position": 8.0,
+          "country": "irn"
+        },
+        {
+          "clicks": 0,
+          "impressions": 1,
+          "ctr": 0.0,
+          "position": 6.0,
+          "country": "irq"
+        },
+        {
+          "clicks": 0,
+          "impressions": 2,
+          "ctr": 0.0,
+          "position": 3.5,
+          "country": "isr"
+        },
+        {
+          "clicks": 0,
+          "impressions": 3,
+          "ctr": 0.0,
+          "position": 16.6667,
+          "country": "ita"
+        },
+        {
+          "clicks": 0,
+          "impressions": 3,
+          "ctr": 0.0,
+          "position": 5.3333,
+          "country": "jpn"
+        },
+        {
+          "clicks": 0,
+          "impressions": 1,
+          "ctr": 0.0,
+          "position": 2.0,
+          "country": "khm"
+        },
+        {
+          "clicks": 0,
+          "impressions": 3,
+          "ctr": 0.0,
+          "position": 5.6667,
+          "country": "kor"
+        },
+        {
+          "clicks": 0,
+          "impressions": 1,
+          "ctr": 0.0,
+          "position": 4.0,
+          "country": "ltu"
+        },
+        {
+          "clicks": 0,
+          "impressions": 1,
+          "ctr": 0.0,
+          "position": 8.0,
+          "country": "mar"
+        },
+        {
+          "clicks": 0,
+          "impressions": 2,
+          "ctr": 0.0,
+          "position": 24.0,
+          "country": "mex"
+        },
+        {
+          "clicks": 0,
+          "impressions": 1,
+          "ctr": 0.0,
+          "position": 10.0,
+          "country": "mkd"
+        },
+        {
+          "clicks": 0,
+          "impressions": 1,
+          "ctr": 0.0,
+          "position": 5.0,
+          "country": "mng"
+        },
+        {
+          "clicks": 0,
+          "impressions": 9,
+          "ctr": 0.0,
+          "position": 6.2222,
+          "country": "mys"
+        },
+        {
+          "clicks": 0,
+          "impressions": 4,
+          "ctr": 0.0,
+          "position": 23.25,
+          "country": "nld"
+        },
+        {
+          "clicks": 0,
+          "impressions": 1,
+          "ctr": 0.0,
+          "position": 2.0,
+          "country": "omn"
+        },
+        {
+          "clicks": 0,
+          "impressions": 10,
+          "ctr": 0.0,
+          "position": 5.6,
+          "country": "pak"
+        },
+        {
+          "clicks": 0,
+          "impressions": 1,
+          "ctr": 0.0,
+          "position": 1.0,
+          "country": "per"
+        },
+        {
+          "clicks": 0,
+          "impressions": 4,
+          "ctr": 0.0,
+          "position": 7.0,
+          "country": "phl"
+        },
+        {
+          "clicks": 0,
+          "impressions": 3,
+          "ctr": 0.0,
+          "position": 4.6667,
+          "country": "pol"
+        },
+        {
+          "clicks": 0,
+          "impressions": 7,
+          "ctr": 0.0,
+          "position": 7.0,
+          "country": "prt"
+        },
+        {
+          "clicks": 0,
+          "impressions": 5,
+          "ctr": 0.0,
+          "position": 3.2,
+          "country": "rus"
+        },
+        {
+          "clicks": 0,
+          "impressions": 8,
+          "ctr": 0.0,
+          "position": 7.375,
+          "country": "sgp"
+        },
+        {
+          "clicks": 0,
+          "impressions": 1,
+          "ctr": 0.0,
+          "position": 9.0,
+          "country": "srb"
+        },
+        {
+          "clicks": 0,
+          "impressions": 3,
+          "ctr": 0.0,
+          "position": 5.3333,
+          "country": "tha"
+        },
+        {
+          "clicks": 0,
+          "impressions": 8,
+          "ctr": 0.0,
+          "position": 5.25,
+          "country": "tur"
+        },
+        {
+          "clicks": 0,
+          "impressions": 4,
+          "ctr": 0.0,
+          "position": 7.0,
+          "country": "vnm"
+        },
+        {
+          "clicks": 0,
+          "impressions": 1,
+          "ctr": 0.0,
+          "position": 1.0,
+          "country": "zmb"
+        },
+        {
+          "clicks": 0,
+          "impressions": 3,
+          "ctr": 0.0,
+          "position": 11.3333,
+          "country": "zwe"
+        }
+      ],
+      "gscDaily": [
+        {
+          "clicks": 0,
+          "impressions": 16,
+          "ctr": 0.0,
+          "position": 6.1875,
+          "date": "2026-04-01"
+        },
+        {
+          "clicks": 0,
+          "impressions": 12,
+          "ctr": 0.0,
+          "position": 6.9167,
+          "date": "2026-04-02"
+        },
+        {
+          "clicks": 0,
+          "impressions": 16,
+          "ctr": 0.0,
+          "position": 8.625,
+          "date": "2026-04-03"
+        },
+        {
+          "clicks": 0,
+          "impressions": 3,
+          "ctr": 0.0,
+          "position": 15.6667,
+          "date": "2026-04-04"
+        },
+        {
+          "clicks": 0,
+          "impressions": 6,
+          "ctr": 0.0,
+          "position": 12.3333,
+          "date": "2026-04-05"
+        },
+        {
+          "clicks": 0,
+          "impressions": 10,
+          "ctr": 0.0,
+          "position": 13.4,
+          "date": "2026-04-06"
+        },
+        {
+          "clicks": 0,
+          "impressions": 13,
+          "ctr": 0.0,
+          "position": 5.2308,
+          "date": "2026-04-07"
+        },
+        {
+          "clicks": 0,
+          "impressions": 11,
+          "ctr": 0.0,
+          "position": 21.8182,
+          "date": "2026-04-08"
+        },
+        {
+          "clicks": 0,
+          "impressions": 14,
+          "ctr": 0.0,
+          "position": 4.0,
+          "date": "2026-04-09"
+        },
+        {
+          "clicks": 2,
+          "impressions": 15,
+          "ctr": 13.3333,
+          "position": 7.7333,
+          "date": "2026-04-10"
+        },
+        {
+          "clicks": 0,
+          "impressions": 11,
+          "ctr": 0.0,
+          "position": 8.0,
+          "date": "2026-04-11"
+        },
+        {
+          "clicks": 0,
+          "impressions": 8,
+          "ctr": 0.0,
+          "position": 3.75,
+          "date": "2026-04-12"
+        },
+        {
+          "clicks": 0,
+          "impressions": 18,
+          "ctr": 0.0,
+          "position": 8.1667,
+          "date": "2026-04-13"
+        },
+        {
+          "clicks": 0,
+          "impressions": 17,
+          "ctr": 0.0,
+          "position": 5.7059,
+          "date": "2026-04-14"
+        },
+        {
+          "clicks": 0,
+          "impressions": 12,
+          "ctr": 0.0,
+          "position": 8.0833,
+          "date": "2026-04-15"
+        },
+        {
+          "clicks": 0,
+          "impressions": 10,
+          "ctr": 0.0,
+          "position": 12.4,
+          "date": "2026-04-16"
+        },
+        {
+          "clicks": 0,
+          "impressions": 26,
+          "ctr": 0.0,
+          "position": 6.6923,
+          "date": "2026-04-17"
+        },
+        {
+          "clicks": 0,
+          "impressions": 13,
+          "ctr": 0.0,
+          "position": 9.0,
+          "date": "2026-04-18"
+        },
+        {
+          "clicks": 0,
+          "impressions": 11,
+          "ctr": 0.0,
+          "position": 7.6364,
+          "date": "2026-04-19"
+        },
+        {
+          "clicks": 0,
+          "impressions": 8,
+          "ctr": 0.0,
+          "position": 12.0,
+          "date": "2026-04-20"
+        },
+        {
+          "clicks": 0,
+          "impressions": 21,
+          "ctr": 0.0,
+          "position": 13.0952,
+          "date": "2026-04-21"
+        },
+        {
+          "clicks": 0,
+          "impressions": 9,
+          "ctr": 0.0,
+          "position": 14.0,
+          "date": "2026-04-22"
+        },
+        {
+          "clicks": 0,
+          "impressions": 12,
+          "ctr": 0.0,
+          "position": 6.3333,
+          "date": "2026-04-23"
+        },
+        {
+          "clicks": 0,
+          "impressions": 9,
+          "ctr": 0.0,
+          "position": 5.6667,
+          "date": "2026-04-24"
+        },
+        {
+          "clicks": 0,
+          "impressions": 19,
+          "ctr": 0.0,
+          "position": 5.2105,
+          "date": "2026-04-25"
+        },
+        {
+          "clicks": 0,
+          "impressions": 14,
+          "ctr": 0.0,
+          "position": 17.5714,
+          "date": "2026-04-26"
+        },
+        {
+          "clicks": 0,
+          "impressions": 11,
+          "ctr": 0.0,
+          "position": 10.1818,
+          "date": "2026-04-27"
+        },
+        {
+          "clicks": 0,
+          "impressions": 16,
+          "ctr": 0.0,
+          "position": 8.125,
+          "date": "2026-04-28"
+        },
+        {
+          "clicks": 0,
+          "impressions": 22,
+          "ctr": 0.0,
+          "position": 6.6364,
+          "date": "2026-04-29"
+        },
+        {
+          "clicks": 0,
+          "impressions": 13,
+          "ctr": 0.0,
+          "position": 15.2308,
+          "date": "2026-04-30"
+        }
+      ],
+      "ga4Daily": [
+        {
+          "date": "20260401",
+          "sessions": 2,
+          "engagedSessions": 1,
+          "totalUsers": 2,
+          "screenPageViews": 2,
+          "averageSessionDuration": 14.26879,
+          "userEngagementDuration": 15,
+          "bounceRate": 0.5,
+          "keyEvents": 0,
+          "averageEngagementTimePerSession": 7.5
+        },
+        {
+          "date": "20260402",
+          "sessions": 7,
+          "engagedSessions": 7,
+          "totalUsers": 5,
+          "screenPageViews": 15,
+          "averageSessionDuration": 350.186354,
+          "userEngagementDuration": 159,
+          "bounceRate": 0,
+          "keyEvents": 1,
+          "averageEngagementTimePerSession": 22.71
+        },
+        {
+          "date": "20260403",
+          "sessions": 9,
+          "engagedSessions": 6,
+          "totalUsers": 9,
+          "screenPageViews": 12,
+          "averageSessionDuration": 161.797442,
+          "userEngagementDuration": 86,
+          "bounceRate": 0.333333,
+          "keyEvents": 0,
+          "averageEngagementTimePerSession": 9.56
+        },
+        {
+          "date": "20260406",
+          "sessions": 1,
+          "engagedSessions": 1,
+          "totalUsers": 1,
+          "screenPageViews": 1,
+          "averageSessionDuration": 204.306002,
+          "userEngagementDuration": 7,
+          "bounceRate": 0,
+          "keyEvents": 0,
+          "averageEngagementTimePerSession": 7.0
+        },
+        {
+          "date": "20260407",
+          "sessions": 4,
+          "engagedSessions": 2,
+          "totalUsers": 3,
+          "screenPageViews": 6,
+          "averageSessionDuration": 211.487508,
+          "userEngagementDuration": 26,
+          "bounceRate": 0.5,
+          "keyEvents": 0,
+          "averageEngagementTimePerSession": 6.5
+        },
+        {
+          "date": "20260408",
+          "sessions": 1,
+          "engagedSessions": 1,
+          "totalUsers": 1,
+          "screenPageViews": 3,
+          "averageSessionDuration": 1090.895698,
+          "userEngagementDuration": 164,
+          "bounceRate": 0,
+          "keyEvents": 0,
+          "averageEngagementTimePerSession": 164.0
+        },
+        {
+          "date": "20260410",
+          "sessions": 5,
+          "engagedSessions": 4,
+          "totalUsers": 5,
+          "screenPageViews": 7,
+          "averageSessionDuration": 215.618094,
+          "userEngagementDuration": 75,
+          "bounceRate": 0.2,
+          "keyEvents": 0,
+          "averageEngagementTimePerSession": 15.0
+        },
+        {
+          "date": "20260411",
+          "sessions": 18,
+          "engagedSessions": 6,
+          "totalUsers": 17,
+          "screenPageViews": 21,
+          "averageSessionDuration": 17.915098,
+          "userEngagementDuration": 85,
+          "bounceRate": 0.666667,
+          "keyEvents": 0,
+          "averageEngagementTimePerSession": 4.72
+        },
+        {
+          "date": "20260412",
+          "sessions": 6,
+          "engagedSessions": 1,
+          "totalUsers": 6,
+          "screenPageViews": 6,
+          "averageSessionDuration": 7.427934,
+          "userEngagementDuration": 28,
+          "bounceRate": 0.833333,
+          "keyEvents": 0,
+          "averageEngagementTimePerSession": 4.67
+        },
+        {
+          "date": "20260413",
+          "sessions": 3,
+          "engagedSessions": 2,
+          "totalUsers": 2,
+          "screenPageViews": 4,
+          "averageSessionDuration": 588.607774,
+          "userEngagementDuration": 35,
+          "bounceRate": 0.333333,
+          "keyEvents": 0,
+          "averageEngagementTimePerSession": 11.67
+        },
+        {
+          "date": "20260414",
+          "sessions": 4,
+          "engagedSessions": 2,
+          "totalUsers": 2,
+          "screenPageViews": 5,
+          "averageSessionDuration": 431.704223,
+          "userEngagementDuration": 80,
+          "bounceRate": 0.5,
+          "keyEvents": 0,
+          "averageEngagementTimePerSession": 20.0
+        },
+        {
+          "date": "20260415",
+          "sessions": 4,
+          "engagedSessions": 1,
+          "totalUsers": 4,
+          "screenPageViews": 7,
+          "averageSessionDuration": 723.042669,
+          "userEngagementDuration": 39,
+          "bounceRate": 0.75,
+          "keyEvents": 0,
+          "averageEngagementTimePerSession": 9.75
+        },
+        {
+          "date": "20260417",
+          "sessions": 2,
+          "engagedSessions": 2,
+          "totalUsers": 2,
+          "screenPageViews": 4,
+          "averageSessionDuration": 300.448167,
+          "userEngagementDuration": 8,
+          "bounceRate": 0,
+          "keyEvents": 0,
+          "averageEngagementTimePerSession": 4.0
+        },
+        {
+          "date": "20260418",
+          "sessions": 1,
+          "engagedSessions": 1,
+          "totalUsers": 1,
+          "screenPageViews": 3,
+          "averageSessionDuration": 597.101795,
+          "userEngagementDuration": 55,
+          "bounceRate": 0,
+          "keyEvents": 0,
+          "averageEngagementTimePerSession": 55.0
+        },
+        {
+          "date": "20260419",
+          "sessions": 2,
+          "engagedSessions": 0,
+          "totalUsers": 1,
+          "screenPageViews": 1,
+          "averageSessionDuration": 0,
+          "userEngagementDuration": 0,
+          "bounceRate": 1,
+          "keyEvents": 0,
+          "averageEngagementTimePerSession": 0.0
+        },
+        {
+          "date": "20260420",
+          "sessions": 3,
+          "engagedSessions": 1,
+          "totalUsers": 3,
+          "screenPageViews": 6,
+          "averageSessionDuration": 108.740321,
+          "userEngagementDuration": 87,
+          "bounceRate": 0.666667,
+          "keyEvents": 0,
+          "averageEngagementTimePerSession": 29.0
+        },
+        {
+          "date": "20260421",
+          "sessions": 2,
+          "engagedSessions": 1,
+          "totalUsers": 2,
+          "screenPageViews": 4,
+          "averageSessionDuration": 24.37442,
+          "userEngagementDuration": 45,
+          "bounceRate": 0.5,
+          "keyEvents": 0,
+          "averageEngagementTimePerSession": 22.5
+        },
+        {
+          "date": "20260422",
+          "sessions": 7,
+          "engagedSessions": 4,
+          "totalUsers": 5,
+          "screenPageViews": 8,
+          "averageSessionDuration": 338.168171,
+          "userEngagementDuration": 169,
+          "bounceRate": 0.428571,
+          "keyEvents": 0,
+          "averageEngagementTimePerSession": 24.14
+        },
+        {
+          "date": "20260423",
+          "sessions": 3,
+          "engagedSessions": 2,
+          "totalUsers": 3,
+          "screenPageViews": 12,
+          "averageSessionDuration": 732.495077,
+          "userEngagementDuration": 342,
+          "bounceRate": 0.333333,
+          "keyEvents": 0,
+          "averageEngagementTimePerSession": 114.0
+        },
+        {
+          "date": "20260425",
+          "sessions": 1,
+          "engagedSessions": 0,
+          "totalUsers": 1,
+          "screenPageViews": 1,
+          "averageSessionDuration": 0,
+          "userEngagementDuration": 0,
+          "bounceRate": 1,
+          "keyEvents": 0,
+          "averageEngagementTimePerSession": 0.0
+        },
+        {
+          "date": "20260426",
+          "sessions": 1,
+          "engagedSessions": 1,
+          "totalUsers": 1,
+          "screenPageViews": 2,
+          "averageSessionDuration": 46.467092,
+          "userEngagementDuration": 20,
+          "bounceRate": 0,
+          "keyEvents": 0,
+          "averageEngagementTimePerSession": 20.0
+        },
+        {
+          "date": "20260427",
+          "sessions": 1,
+          "engagedSessions": 1,
+          "totalUsers": 1,
+          "screenPageViews": 2,
+          "averageSessionDuration": 10.132136,
+          "userEngagementDuration": 7,
+          "bounceRate": 0,
+          "keyEvents": 0,
+          "averageEngagementTimePerSession": 7.0
+        },
+        {
+          "date": "20260428",
+          "sessions": 2,
+          "engagedSessions": 2,
+          "totalUsers": 2,
+          "screenPageViews": 5,
+          "averageSessionDuration": 1267.347726,
+          "userEngagementDuration": 14,
+          "bounceRate": 0,
+          "keyEvents": 0,
+          "averageEngagementTimePerSession": 7.0
+        },
+        {
+          "date": "20260429",
+          "sessions": 2,
+          "engagedSessions": 1,
+          "totalUsers": 2,
+          "screenPageViews": 2,
+          "averageSessionDuration": 22.44795,
+          "userEngagementDuration": 1,
+          "bounceRate": 0.5,
+          "keyEvents": 0,
+          "averageEngagementTimePerSession": 0.5
+        },
+        {
+          "date": "20260430",
+          "sessions": 3,
+          "engagedSessions": 3,
+          "totalUsers": 3,
+          "screenPageViews": 10,
+          "averageSessionDuration": 510.50369,
+          "userEngagementDuration": 132,
+          "bounceRate": 0,
+          "keyEvents": 0,
+          "averageEngagementTimePerSession": 44.0
+        }
+      ],
+      "pages": [
+        {
+          "page": "https://www.liangyin-aluminum.com/",
+          "path": "/",
+          "clicks": 2,
+          "impressions": 106,
+          "ctr": 1.8868,
+          "position": 2.5566,
+          "sessions": 1,
+          "users": 1,
+          "views": 1,
+          "bounceRate": 100.0,
+          "averageSessionDuration": 9.47,
+          "indexVerdict": "NOT_INSPECTED",
+          "coverageState": ""
+        },
+        {
+          "page": "https://www.liangyin-aluminum.com/about-liangyin/",
+          "path": "/about-liangyin",
+          "clicks": 0,
+          "impressions": 1,
+          "ctr": 0.0,
+          "position": 2.0,
+          "sessions": 0,
+          "users": 0,
+          "views": 0,
+          "bounceRate": 0.0,
+          "averageSessionDuration": 0.0,
+          "indexVerdict": "NOT_INSPECTED",
+          "coverageState": ""
+        },
+        {
+          "page": "https://www.liangyin-aluminum.com/application/",
+          "path": "/application",
+          "clicks": 0,
+          "impressions": 1,
+          "ctr": 0.0,
+          "position": 2.0,
+          "sessions": 1,
+          "users": 1,
+          "views": 6,
+          "bounceRate": 0.0,
+          "averageSessionDuration": 95.83,
+          "indexVerdict": "NOT_INSPECTED",
+          "coverageState": ""
+        },
+        {
+          "page": "https://www.liangyin-aluminum.com/category/case-project/",
+          "path": "/category/case-project",
+          "clicks": 0,
+          "impressions": 16,
+          "ctr": 0.0,
+          "position": 10.0,
+          "sessions": 0,
+          "users": 0,
+          "views": 0,
+          "bounceRate": 0.0,
+          "averageSessionDuration": 0.0,
+          "indexVerdict": "NOT_INSPECTED",
+          "coverageState": ""
+        },
+        {
+          "page": "https://www.liangyin-aluminum.com/category/case-project/cnc-machining-projects/",
+          "path": "/category/case-project/cnc-machining-projects",
+          "clicks": 0,
+          "impressions": 5,
+          "ctr": 0.0,
+          "position": 7.0,
+          "sessions": 0,
+          "users": 0,
+          "views": 0,
+          "bounceRate": 0.0,
+          "averageSessionDuration": 0.0,
+          "indexVerdict": "NOT_INSPECTED",
+          "coverageState": ""
+        },
+        {
+          "page": "https://www.liangyin-aluminum.com/charging-box-post-pile-innovation-for-electric-off-road-vehicles-urban-motorcycles/",
+          "path": "/charging-box-post-pile-innovation-for-electric-off-road-vehicles-urban-motorcycles",
+          "clicks": 0,
+          "impressions": 4,
+          "ctr": 0.0,
+          "position": 6.0,
+          "sessions": 0,
+          "users": 0,
+          "views": 0,
+          "bounceRate": 0.0,
+          "averageSessionDuration": 0.0,
+          "indexVerdict": "NOT_INSPECTED",
+          "coverageState": ""
+        },
+        {
+          "page": "https://www.liangyin-aluminum.com/choosing-the-best-finish-for-your-project-a-comprehensive-guide-to-aluminum-surface-treatments/",
+          "path": "/choosing-the-best-finish-for-your-project-a-comprehensive-guide-to-aluminum-surface-treatments",
+          "clicks": 0,
+          "impressions": 11,
+          "ctr": 0.0,
+          "position": 19.6364,
+          "sessions": 0,
+          "users": 0,
+          "views": 0,
+          "bounceRate": 0.0,
+          "averageSessionDuration": 0.0,
+          "indexVerdict": "NOT_INSPECTED",
+          "coverageState": ""
+        },
+        {
+          "page": "https://www.liangyin-aluminum.com/cnc-machining-center/",
+          "path": "/cnc-machining-center",
+          "clicks": 0,
+          "impressions": 44,
+          "ctr": 0.0,
+          "position": 7.6818,
+          "sessions": 2,
+          "users": 2,
+          "views": 2,
+          "bounceRate": 50.0,
+          "averageSessionDuration": 102.15,
+          "indexVerdict": "NOT_INSPECTED",
+          "coverageState": ""
+        },
+        {
+          "page": "https://www.liangyin-aluminum.com/electronics-electrical-equipment/",
+          "path": "/electronics-electrical-equipment",
+          "clicks": 0,
+          "impressions": 41,
+          "ctr": 0.0,
+          "position": 6.5366,
+          "sessions": 1,
+          "users": 1,
+          "views": 1,
+          "bounceRate": 100.0,
+          "averageSessionDuration": 6.42,
+          "indexVerdict": "NOT_INSPECTED",
+          "coverageState": ""
+        },
+        {
+          "page": "https://www.liangyin-aluminum.com/lighting-medical/",
+          "path": "/lighting-medical",
+          "clicks": 0,
+          "impressions": 78,
+          "ctr": 0.0,
+          "position": 11.5,
+          "sessions": 0,
+          "users": 0,
+          "views": 0,
+          "bounceRate": 0.0,
+          "averageSessionDuration": 0.0,
+          "indexVerdict": "NOT_INSPECTED",
+          "coverageState": ""
+        },
+        {
+          "page": "https://www.liangyin-aluminum.com/precision-%C2%B10-01mm-how-does-liangyin-aluminum-achieve-precision-manufacturing-of-aluminum-parts-through-cnc-machining/",
+          "path": "/precision-%C2%B10-01mm-how-does-liangyin-aluminum-achieve-precision-manufacturing-of-aluminum-parts-through-cnc-machining",
+          "clicks": 0,
+          "impressions": 1,
+          "ctr": 0.0,
+          "position": 4.0,
+          "sessions": 0,
+          "users": 0,
+          "views": 0,
+          "bounceRate": 0.0,
+          "averageSessionDuration": 0.0,
+          "indexVerdict": "NOT_INSPECTED",
+          "coverageState": ""
+        },
+        {
+          "page": "https://www.liangyin-aluminum.com/product/cnc-machining-customization-of-aluminum-profile-casings-for-label-sensors-10/",
+          "path": "/product/cnc-machining-customization-of-aluminum-profile-casings-for-label-sensors-10",
+          "clicks": 0,
+          "impressions": 7,
+          "ctr": 0.0,
+          "position": 5.2857,
+          "sessions": 0,
+          "users": 0,
+          "views": 0,
+          "bounceRate": 0.0,
+          "averageSessionDuration": 0.0,
+          "indexVerdict": "NOT_INSPECTED",
+          "coverageState": ""
+        },
+        {
+          "page": "https://www.liangyin-aluminum.com/the-core-of-quality-how-modern-aluminum-processors-implement-full-process-quality-control-2/",
+          "path": "/the-core-of-quality-how-modern-aluminum-processors-implement-full-process-quality-control-2",
+          "clicks": 0,
+          "impressions": 8,
+          "ctr": 0.0,
+          "position": 6.875,
+          "sessions": 0,
+          "users": 0,
+          "views": 0,
+          "bounceRate": 0.0,
+          "averageSessionDuration": 0.0,
+          "indexVerdict": "NOT_INSPECTED",
+          "coverageState": ""
+        },
+        {
+          "page": "https://www.liangyin-aluminum.com/turnkey-management/",
+          "path": "/turnkey-management",
+          "clicks": 0,
+          "impressions": 1,
+          "ctr": 0.0,
+          "position": 2.0,
+          "sessions": 0,
+          "users": 0,
+          "views": 0,
+          "bounceRate": 0.0,
+          "averageSessionDuration": 0.0,
+          "indexVerdict": "NOT_INSPECTED",
+          "coverageState": ""
+        },
+        {
+          "page": "https://www.liangyin-aluminum.com/wp-content/uploads/2025/11/OPSA241110-Sedex-SMETA-CAPR-20241105-06-1.pdf",
+          "path": "/wp-content/uploads/2025/11/OPSA241110-Sedex-SMETA-CAPR-20241105-06-1.pdf",
+          "clicks": 0,
+          "impressions": 93,
+          "ctr": 0.0,
+          "position": 8.4409,
+          "sessions": 0,
+          "users": 0,
+          "views": 0,
+          "bounceRate": 0.0,
+          "averageSessionDuration": 0.0,
+          "indexVerdict": "NOT_INSPECTED",
+          "coverageState": ""
+        },
+        {
+          "page": "https://www.liangyin-aluminum.com/wp-content/uploads/2025/11/Sedex-Members-Ethical-Trade-Audit-Report.pdf",
+          "path": "/wp-content/uploads/2025/11/Sedex-Members-Ethical-Trade-Audit-Report.pdf",
+          "clicks": 0,
+          "impressions": 97,
+          "ctr": 0.0,
+          "position": 11.3196,
+          "sessions": 0,
+          "users": 0,
+          "views": 0,
+          "bounceRate": 0.0,
+          "averageSessionDuration": 0.0,
+          "indexVerdict": "NOT_INSPECTED",
+          "coverageState": ""
+        }
+      ],
+      "recommendations": [
+        {
+          "type": "体验",
+          "target": "/",
+          "text": "排名靠前但跳出率高，建议优化内容匹配度、首屏信息与内部链接。"
+        },
+        {
+          "type": "点击率",
+          "target": "/cnc-machining-center",
+          "text": "曝光较高但点击率低，建议优化标题、描述和搜索意图匹配。"
+        },
+        {
+          "type": "体验",
+          "target": "/electronics-electrical-equipment",
+          "text": "排名靠前但跳出率高，建议优化内容匹配度、首屏信息与内部链接。"
+        },
+        {
+          "type": "点击率",
+          "target": "/electronics-electrical-equipment",
+          "text": "曝光较高但点击率低，建议优化标题、描述和搜索意图匹配。"
+        },
+        {
+          "type": "点击率",
+          "target": "/lighting-medical",
+          "text": "曝光较高但点击率低，建议优化标题、描述和搜索意图匹配。"
+        },
+        {
+          "type": "点击率",
+          "target": "/wp-content/uploads/2025/11/OPSA241110-Sedex-SMETA-CAPR-20241105-06-1.pdf",
+          "text": "曝光较高但点击率低，建议优化标题、描述和搜索意图匹配。"
+        },
+        {
+          "type": "点击率",
+          "target": "/wp-content/uploads/2025/11/Sedex-Members-Ethical-Trade-Audit-Report.pdf",
+          "text": "曝光较高但点击率低，建议优化标题、描述和搜索意图匹配。"
+        },
+        {
+          "type": "排名",
+          "target": "wp-sedex informati",
+          "text": "当前位于第 2 页且已有曝光，适合优先补充内容并强化目标页面相关性。"
+        }
+      ]
+    }
+  ],
+  "quarterComparison": {
+    "current": {
+      "months": [
+        "2026-04"
+      ],
+      "metrics": {
+        "clicks": 2.0,
+        "impressions": 396.0,
+        "ctr": 0.5051,
+        "averagePosition": 9.01,
+        "sessions": 94.0,
+        "bounceRate": 43.62,
+        "averageSessionDuration": 257.58
+      }
+    },
+    "previous": {
+      "months": [
+        "2026-03"
+      ],
+      "metrics": {
+        "clicks": 6.0,
+        "impressions": 810.0,
+        "ctr": 0.7407,
+        "averagePosition": 6.39,
+        "sessions": 191.0,
+        "bounceRate": 47.64,
+        "averageSessionDuration": 203.45
+      }
+    }
+  },
+  "comparisonMonths": [
+    {
+      "label": "2026-03",
+      "period": [
+        "2026-03-01",
+        "2026-03-31"
+      ],
+      "metrics": {
+        "clicks": 6,
+        "impressions": 810,
+        "ctr": 0.74,
+        "averagePosition": 6.39,
+        "totalUsers": 125,
+        "pageViews": 360,
+        "sessions": 191,
+        "averageSessionDuration": 203.45,
+        "averageEngagementTimePerSession": 24.79,
+        "bounceRate": 47.64,
+        "keyEvents": 0,
+        "indexedPages": 9,
+        "inspectedPages": 16
+      },
+      "keywords": [
+        {
+          "clicks": 0,
+          "impressions": 1,
+          "ctr": 0.0,
+          "position": 83.0,
+          "query": "advanced aluminum cnc facility china",
+          "positionChange": null
+        },
+        {
+          "clicks": 0,
+          "impressions": 1,
+          "ctr": 0.0,
+          "position": 2.0,
+          "query": "advanced aluminum cnc machining facility china",
+          "positionChange": null
+        },
+        {
+          "clicks": 0,
+          "impressions": 13,
+          "ctr": 0.0,
+          "position": 22.0769,
+          "query": "aluminum extrusions for medical devices",
+          "positionChange": null
+        },
+        {
+          "clicks": 0,
+          "impressions": 1,
+          "ctr": 0.0,
+          "position": 30.0,
+          "query": "aluminum molding for medical device",
+          "positionChange": null
+        },
+        {
+          "clicks": 0,
+          "impressions": 1,
+          "ctr": 0.0,
+          "position": 4.0,
+          "query": "charging pile aluminum housing cnc factory",
+          "positionChange": null
+        },
+        {
+          "clicks": 0,
+          "impressions": 2,
+          "ctr": 0.0,
+          "position": 5.5,
+          "query": "charging pile aluminum housing manufacturer",
+          "positionChange": null
+        },
+        {
+          "clicks": 0,
+          "impressions": 20,
+          "ctr": 0.0,
+          "position": 4.15,
+          "query": "liangyin",
+          "positionChange": null
+        },
+        {
+          "clicks": 0,
+          "impressions": 1,
+          "ctr": 0.0,
+          "position": 24.0,
+          "query": "oxygen concentrator housing cnc machining factory",
+          "positionChange": null
+        },
+        {
+          "clicks": 0,
+          "impressions": 1,
+          "ctr": 0.0,
+          "position": 9.0,
+          "query": "sedex audit trash can factory china",
+          "positionChange": null
+        },
+        {
+          "clicks": 0,
+          "impressions": 1,
+          "ctr": 0.0,
+          "position": 42.0,
+          "query": "sedex members ethical trade audit",
+          "positionChange": null
+        },
+        {
+          "clicks": 0,
+          "impressions": 10,
+          "ctr": 0.0,
+          "position": 11.9,
+          "query": "sedex members ethical trade audit report",
+          "positionChange": null
+        },
+        {
+          "clicks": 0,
+          "impressions": 7,
+          "ctr": 0.0,
+          "position": 10.8571,
+          "query": "smeta capr",
+          "positionChange": null
+        },
+        {
+          "clicks": 0,
+          "impressions": 4,
+          "ctr": 0.0,
+          "position": 17.0,
+          "query": "wp-sedex informati",
+          "positionChange": null
+        }
+      ],
+      "channels": [
+        {
+          "sessionDefaultChannelGroup": "Direct",
+          "sessions": 75,
+          "engagedSessions": 53,
+          "totalUsers": 27,
+          "screenPageViews": 207,
+          "averageSessionDuration": 397.262256,
+          "userEngagementDuration": 3142,
+          "bounceRate": 0.293333,
+          "keyEvents": 0,
+          "averageEngagementTimePerSession": 41.89
+        },
+        {
+          "sessionDefaultChannelGroup": "Paid Search",
+          "sessions": 75,
+          "engagedSessions": 31,
+          "totalUsers": 69,
+          "screenPageViews": 105,
+          "averageSessionDuration": 96.355558,
+          "userEngagementDuration": 1137,
+          "bounceRate": 0.586667,
+          "keyEvents": 0,
+          "averageEngagementTimePerSession": 15.16
+        },
+        {
+          "sessionDefaultChannelGroup": "Organic Social",
+          "sessions": 17,
+          "engagedSessions": 6,
+          "totalUsers": 17,
+          "screenPageViews": 17,
+          "averageSessionDuration": 9.417302,
+          "userEngagementDuration": 49,
+          "bounceRate": 0.647059,
+          "keyEvents": 0,
+          "averageEngagementTimePerSession": 2.88
+        },
+        {
+          "sessionDefaultChannelGroup": "Referral",
+          "sessions": 16,
+          "engagedSessions": 8,
+          "totalUsers": 6,
+          "screenPageViews": 26,
+          "averageSessionDuration": 75.83785,
+          "userEngagementDuration": 352,
+          "bounceRate": 0.5,
+          "keyEvents": 0,
+          "averageEngagementTimePerSession": 22.0
+        },
+        {
+          "sessionDefaultChannelGroup": "Unassigned",
+          "sessions": 5,
+          "engagedSessions": 0,
+          "totalUsers": 5,
+          "screenPageViews": 2,
+          "averageSessionDuration": 0,
+          "userEngagementDuration": 12,
+          "bounceRate": 1,
+          "keyEvents": 0,
+          "averageEngagementTimePerSession": 2.4
+        },
+        {
+          "sessionDefaultChannelGroup": "Organic Search",
+          "sessions": 3,
+          "engagedSessions": 2,
+          "totalUsers": 3,
+          "screenPageViews": 3,
+          "averageSessionDuration": 154.80749,
+          "userEngagementDuration": 42,
+          "bounceRate": 0.333333,
+          "keyEvents": 0,
+          "averageEngagementTimePerSession": 14.0
+        }
+      ],
+      "sources": [
+        {
+          "sessionSource": "google",
+          "sessions": 78,
+          "engagedSessions": 33,
+          "totalUsers": 72,
+          "screenPageViews": 108,
+          "averageSessionDuration": 98.603709,
+          "userEngagementDuration": 1179,
+          "bounceRate": 0.576923,
+          "keyEvents": 0,
+          "averageEngagementTimePerSession": 15.12
+        },
+        {
+          "sessionSource": "(direct)",
+          "sessions": 75,
+          "engagedSessions": 53,
+          "totalUsers": 27,
+          "screenPageViews": 207,
+          "averageSessionDuration": 397.262256,
+          "userEngagementDuration": 3142,
+          "bounceRate": 0.293333,
+          "keyEvents": 0,
+          "averageEngagementTimePerSession": 41.89
+        },
+        {
+          "sessionSource": "facebook.com",
+          "sessions": 17,
+          "engagedSessions": 6,
+          "totalUsers": 17,
+          "screenPageViews": 17,
+          "averageSessionDuration": 9.417302,
+          "userEngagementDuration": 49,
+          "bounceRate": 0.647059,
+          "keyEvents": 0,
+          "averageEngagementTimePerSession": 2.88
+        },
+        {
+          "sessionSource": "kdocs.cn",
+          "sessions": 8,
+          "engagedSessions": 5,
+          "totalUsers": 1,
+          "screenPageViews": 15,
+          "averageSessionDuration": 133.675889,
+          "userEngagementDuration": 278,
+          "bounceRate": 0.375,
+          "keyEvents": 0,
+          "averageEngagementTimePerSession": 34.75
+        },
+        {
+          "sessionSource": "(not set)",
+          "sessions": 5,
+          "engagedSessions": 0,
+          "totalUsers": 5,
+          "screenPageViews": 2,
+          "averageSessionDuration": 0,
+          "userEngagementDuration": 12,
+          "bounceRate": 1,
+          "keyEvents": 0,
+          "averageEngagementTimePerSession": 2.4
+        },
+        {
+          "sessionSource": "tagassistant.google.com",
+          "sessions": 4,
+          "engagedSessions": 0,
+          "totalUsers": 1,
+          "screenPageViews": 3,
+          "averageSessionDuration": 1.17353,
+          "userEngagementDuration": 0,
+          "bounceRate": 1,
+          "keyEvents": 0,
+          "averageEngagementTimePerSession": 0.0
+        },
+        {
+          "sessionSource": "iws-admin.cifnews.com",
+          "sessions": 2,
+          "engagedSessions": 2,
+          "totalUsers": 2,
+          "screenPageViews": 3,
+          "averageSessionDuration": 23.283783,
+          "userEngagementDuration": 9,
+          "bounceRate": 0,
+          "keyEvents": 0,
+          "averageEngagementTimePerSession": 4.5
+        },
+        {
+          "sessionSource": "et.topease.net",
+          "sessions": 1,
+          "engagedSessions": 0,
+          "totalUsers": 1,
+          "screenPageViews": 1,
+          "averageSessionDuration": 8.010271,
+          "userEngagementDuration": 8,
+          "bounceRate": 1,
+          "keyEvents": 0,
+          "averageEngagementTimePerSession": 8.0
+        },
+        {
+          "sessionSource": "techprimex.com",
+          "sessions": 1,
+          "engagedSessions": 1,
+          "totalUsers": 1,
+          "screenPageViews": 4,
+          "averageSessionDuration": 84.726528,
+          "userEngagementDuration": 57,
+          "bounceRate": 0,
+          "keyEvents": 0,
+          "averageEngagementTimePerSession": 57.0
+        }
+      ],
+      "ga4Countries": [
+        {
+          "country": "Hong Kong",
+          "sessions": 43,
+          "totalUsers": 10,
+          "engagedSessions": 30,
+          "averageEngagementTimePerSession": 0.0
+        },
+        {
+          "country": "United States",
+          "sessions": 31,
+          "totalUsers": 19,
+          "engagedSessions": 18,
+          "averageEngagementTimePerSession": 0.0
+        },
+        {
+          "country": "China",
+          "sessions": 24,
+          "totalUsers": 19,
+          "engagedSessions": 12,
+          "averageEngagementTimePerSession": 0.0
+        },
+        {
+          "country": "India",
+          "sessions": 12,
+          "totalUsers": 9,
+          "engagedSessions": 4,
+          "averageEngagementTimePerSession": 0.0
+        },
+        {
+          "country": "Poland",
+          "sessions": 7,
+          "totalUsers": 6,
+          "engagedSessions": 3,
+          "averageEngagementTimePerSession": 0.0
+        },
+        {
+          "country": "Ireland",
+          "sessions": 6,
+          "totalUsers": 6,
+          "engagedSessions": 3,
+          "averageEngagementTimePerSession": 0.0
+        },
+        {
+          "country": "Portugal",
+          "sessions": 6,
+          "totalUsers": 6,
+          "engagedSessions": 3,
+          "averageEngagementTimePerSession": 0.0
+        },
+        {
+          "country": "Australia",
+          "sessions": 5,
+          "totalUsers": 5,
+          "engagedSessions": 3,
+          "averageEngagementTimePerSession": 0.0
+        },
+        {
+          "country": "France",
+          "sessions": 5,
+          "totalUsers": 5,
+          "engagedSessions": 1,
+          "averageEngagementTimePerSession": 0.0
+        },
+        {
+          "country": "Pakistan",
+          "sessions": 5,
+          "totalUsers": 3,
+          "engagedSessions": 5,
+          "averageEngagementTimePerSession": 0.0
+        },
+        {
+          "country": "Singapore",
+          "sessions": 5,
+          "totalUsers": 3,
+          "engagedSessions": 2,
+          "averageEngagementTimePerSession": 0.0
+        },
+        {
+          "country": "Sweden",
+          "sessions": 5,
+          "totalUsers": 5,
+          "engagedSessions": 1,
+          "averageEngagementTimePerSession": 0.0
+        },
+        {
+          "country": "Serbia",
+          "sessions": 4,
+          "totalUsers": 4,
+          "engagedSessions": 0,
+          "averageEngagementTimePerSession": 0.0
+        },
+        {
+          "country": "Canada",
+          "sessions": 3,
+          "totalUsers": 3,
+          "engagedSessions": 2,
+          "averageEngagementTimePerSession": 0.0
+        },
+        {
+          "country": "Germany",
+          "sessions": 3,
+          "totalUsers": 3,
+          "engagedSessions": 2,
+          "averageEngagementTimePerSession": 0.0
+        },
+        {
+          "country": "Greece",
+          "sessions": 3,
+          "totalUsers": 2,
+          "engagedSessions": 0,
+          "averageEngagementTimePerSession": 0.0
+        },
+        {
+          "country": "United Kingdom",
+          "sessions": 3,
+          "totalUsers": 3,
+          "engagedSessions": 1,
+          "averageEngagementTimePerSession": 0.0
+        },
+        {
+          "country": "Austria",
+          "sessions": 2,
+          "totalUsers": 2,
+          "engagedSessions": 0,
+          "averageEngagementTimePerSession": 0.0
+        },
+        {
+          "country": "Slovakia",
+          "sessions": 2,
+          "totalUsers": 2,
+          "engagedSessions": 2,
+          "averageEngagementTimePerSession": 0.0
+        },
+        {
+          "country": "Slovenia",
+          "sessions": 2,
+          "totalUsers": 2,
+          "engagedSessions": 0,
+          "averageEngagementTimePerSession": 0.0
+        },
+        {
+          "country": "Bangladesh",
+          "sessions": 1,
+          "totalUsers": 1,
+          "engagedSessions": 0,
+          "averageEngagementTimePerSession": 0.0
+        },
+        {
+          "country": "Belgium",
+          "sessions": 1,
+          "totalUsers": 1,
+          "engagedSessions": 1,
+          "averageEngagementTimePerSession": 0.0
+        },
+        {
+          "country": "Croatia",
+          "sessions": 1,
+          "totalUsers": 1,
+          "engagedSessions": 0,
+          "averageEngagementTimePerSession": 0.0
+        },
+        {
+          "country": "Italy",
+          "sessions": 1,
+          "totalUsers": 1,
+          "engagedSessions": 1,
+          "averageEngagementTimePerSession": 0.0
+        },
+        {
+          "country": "Japan",
+          "sessions": 1,
+          "totalUsers": 1,
+          "engagedSessions": 1,
+          "averageEngagementTimePerSession": 0.0
+        },
+        {
+          "country": "Mongolia",
+          "sessions": 1,
+          "totalUsers": 1,
+          "engagedSessions": 1,
+          "averageEngagementTimePerSession": 0.0
+        },
+        {
+          "country": "Netherlands",
+          "sessions": 1,
+          "totalUsers": 1,
+          "engagedSessions": 0,
+          "averageEngagementTimePerSession": 0.0
+        },
+        {
+          "country": "New Zealand",
+          "sessions": 1,
+          "totalUsers": 1,
+          "engagedSessions": 1,
+          "averageEngagementTimePerSession": 0.0
+        },
+        {
+          "country": "Nigeria",
+          "sessions": 1,
+          "totalUsers": 1,
+          "engagedSessions": 1,
+          "averageEngagementTimePerSession": 0.0
+        },
+        {
+          "country": "Romania",
+          "sessions": 1,
+          "totalUsers": 1,
+          "engagedSessions": 0,
+          "averageEngagementTimePerSession": 0.0
+        },
+        {
+          "country": "Russia",
+          "sessions": 1,
+          "totalUsers": 1,
+          "engagedSessions": 1,
+          "averageEngagementTimePerSession": 0.0
+        },
+        {
+          "country": "South Africa",
+          "sessions": 1,
+          "totalUsers": 1,
+          "engagedSessions": 0,
+          "averageEngagementTimePerSession": 0.0
+        },
+        {
+          "country": "Spain",
+          "sessions": 1,
+          "totalUsers": 1,
+          "engagedSessions": 0,
+          "averageEngagementTimePerSession": 0.0
+        },
+        {
+          "country": "Taiwan",
+          "sessions": 1,
+          "totalUsers": 1,
+          "engagedSessions": 1,
+          "averageEngagementTimePerSession": 0.0
+        },
+        {
+          "country": "United Arab Emirates",
+          "sessions": 1,
+          "totalUsers": 1,
+          "engagedSessions": 0,
+          "averageEngagementTimePerSession": 0.0
+        }
+      ],
+      "countries": [
+        {
+          "clicks": 1,
+          "impressions": 19,
+          "ctr": 5.2632,
+          "position": 8.8421,
+          "country": "chn"
+        },
+        {
+          "clicks": 1,
+          "impressions": 6,
+          "ctr": 16.6667,
+          "position": 5.6667,
+          "country": "hkg"
+        },
+        {
+          "clicks": 1,
+          "impressions": 14,
+          "ctr": 7.1429,
+          "position": 8.2143,
+          "country": "ind"
+        },
+        {
+          "clicks": 1,
+          "impressions": 19,
+          "ctr": 5.2632,
+          "position": 4.2632,
+          "country": "mex"
+        },
+        {
+          "clicks": 1,
+          "impressions": 1,
+          "ctr": 100.0,
+          "position": 2.0,
+          "country": "nzl"
+        },
+        {
+          "clicks": 1,
+          "impressions": 478,
+          "ctr": 0.2092,
+          "position": 6.2887,
+          "country": "usa"
+        },
+        {
+          "clicks": 0,
+          "impressions": 1,
+          "ctr": 0.0,
+          "position": 6.0,
+          "country": "alb"
+        },
+        {
+          "clicks": 0,
+          "impressions": 4,
+          "ctr": 0.0,
+          "position": 5.5,
+          "country": "arg"
+        },
+        {
+          "clicks": 0,
+          "impressions": 6,
+          "ctr": 0.0,
+          "position": 3.6667,
+          "country": "aus"
+        },
+        {
+          "clicks": 0,
+          "impressions": 1,
+          "ctr": 0.0,
+          "position": 10.0,
+          "country": "aut"
+        },
+        {
+          "clicks": 0,
+          "impressions": 6,
+          "ctr": 0.0,
+          "position": 6.5,
+          "country": "bel"
+        },
+        {
+          "clicks": 0,
+          "impressions": 3,
+          "ctr": 0.0,
+          "position": 9.0,
+          "country": "bgd"
+        },
+        {
+          "clicks": 0,
+          "impressions": 1,
+          "ctr": 0.0,
+          "position": 10.0,
+          "country": "bgr"
+        },
+        {
+          "clicks": 0,
+          "impressions": 2,
+          "ctr": 0.0,
+          "position": 3.5,
+          "country": "bih"
+        },
+        {
+          "clicks": 0,
+          "impressions": 42,
+          "ctr": 0.0,
+          "position": 6.3571,
+          "country": "bra"
+        },
+        {
+          "clicks": 0,
+          "impressions": 2,
+          "ctr": 0.0,
+          "position": 5.0,
+          "country": "brb"
+        },
+        {
+          "clicks": 0,
+          "impressions": 26,
+          "ctr": 0.0,
+          "position": 5.8462,
+          "country": "can"
+        },
+        {
+          "clicks": 0,
+          "impressions": 2,
+          "ctr": 0.0,
+          "position": 2.5,
+          "country": "che"
+        },
+        {
+          "clicks": 0,
+          "impressions": 2,
+          "ctr": 0.0,
+          "position": 6.0,
+          "country": "chl"
+        },
+        {
+          "clicks": 0,
+          "impressions": 4,
+          "ctr": 0.0,
+          "position": 5.5,
+          "country": "col"
+        },
+        {
+          "clicks": 0,
+          "impressions": 8,
+          "ctr": 0.0,
+          "position": 6.625,
+          "country": "deu"
+        },
+        {
+          "clicks": 0,
+          "impressions": 3,
+          "ctr": 0.0,
+          "position": 6.0,
+          "country": "dnk"
+        },
+        {
+          "clicks": 0,
+          "impressions": 1,
+          "ctr": 0.0,
+          "position": 7.0,
+          "country": "dom"
+        },
+        {
+          "clicks": 0,
+          "impressions": 1,
+          "ctr": 0.0,
+          "position": 2.0,
+          "country": "ecu"
+        },
+        {
+          "clicks": 0,
+          "impressions": 6,
+          "ctr": 0.0,
+          "position": 7.8333,
+          "country": "egy"
+        },
+        {
+          "clicks": 0,
+          "impressions": 9,
+          "ctr": 0.0,
+          "position": 6.4444,
+          "country": "esp"
+        },
+        {
+          "clicks": 0,
+          "impressions": 10,
+          "ctr": 0.0,
+          "position": 7.0,
+          "country": "fra"
+        },
+        {
+          "clicks": 0,
+          "impressions": 19,
+          "ctr": 0.0,
+          "position": 10.2105,
+          "country": "gbr"
+        },
+        {
+          "clicks": 0,
+          "impressions": 1,
+          "ctr": 0.0,
+          "position": 4.0,
+          "country": "gmb"
+        },
+        {
+          "clicks": 0,
+          "impressions": 3,
+          "ctr": 0.0,
+          "position": 7.3333,
+          "country": "grc"
+        },
+        {
+          "clicks": 0,
+          "impressions": 1,
+          "ctr": 0.0,
+          "position": 12.0,
+          "country": "gtm"
+        },
+        {
+          "clicks": 0,
+          "impressions": 2,
+          "ctr": 0.0,
+          "position": 4.5,
+          "country": "hun"
+        },
+        {
+          "clicks": 0,
+          "impressions": 3,
+          "ctr": 0.0,
+          "position": 4.3333,
+          "country": "idn"
+        },
+        {
+          "clicks": 0,
+          "impressions": 5,
+          "ctr": 0.0,
+          "position": 3.4,
+          "country": "isr"
+        },
+        {
+          "clicks": 0,
+          "impressions": 7,
+          "ctr": 0.0,
+          "position": 7.4286,
+          "country": "ita"
+        },
+        {
+          "clicks": 0,
+          "impressions": 3,
+          "ctr": 0.0,
+          "position": 3.3333,
+          "country": "jpn"
+        },
+        {
+          "clicks": 0,
+          "impressions": 1,
+          "ctr": 0.0,
+          "position": 2.0,
+          "country": "kaz"
+        },
+        {
+          "clicks": 0,
+          "impressions": 1,
+          "ctr": 0.0,
+          "position": 12.0,
+          "country": "ken"
+        },
+        {
+          "clicks": 0,
+          "impressions": 1,
+          "ctr": 0.0,
+          "position": 8.0,
+          "country": "khm"
+        },
+        {
+          "clicks": 0,
+          "impressions": 3,
+          "ctr": 0.0,
+          "position": 7.6667,
+          "country": "kor"
+        },
+        {
+          "clicks": 0,
+          "impressions": 1,
+          "ctr": 0.0,
+          "position": 3.0,
+          "country": "ltu"
+        },
+        {
+          "clicks": 0,
+          "impressions": 1,
+          "ctr": 0.0,
+          "position": 9.0,
+          "country": "mar"
+        },
+        {
+          "clicks": 0,
+          "impressions": 3,
+          "ctr": 0.0,
+          "position": 7.0,
+          "country": "mys"
+        },
+        {
+          "clicks": 0,
+          "impressions": 6,
+          "ctr": 0.0,
+          "position": 3.0,
+          "country": "nld"
+        },
+        {
+          "clicks": 0,
+          "impressions": 1,
+          "ctr": 0.0,
+          "position": 9.0,
+          "country": "nor"
+        },
+        {
+          "clicks": 0,
+          "impressions": 1,
+          "ctr": 0.0,
+          "position": 3.0,
+          "country": "omn"
+        },
+        {
+          "clicks": 0,
+          "impressions": 5,
+          "ctr": 0.0,
+          "position": 3.4,
+          "country": "pak"
+        },
+        {
+          "clicks": 0,
+          "impressions": 2,
+          "ctr": 0.0,
+          "position": 7.0,
+          "country": "per"
+        },
+        {
+          "clicks": 0,
+          "impressions": 3,
+          "ctr": 0.0,
+          "position": 7.6667,
+          "country": "phl"
+        },
+        {
+          "clicks": 0,
+          "impressions": 8,
+          "ctr": 0.0,
+          "position": 5.375,
+          "country": "pol"
+        },
+        {
+          "clicks": 0,
+          "impressions": 1,
+          "ctr": 0.0,
+          "position": 1.0,
+          "country": "pri"
+        },
+        {
+          "clicks": 0,
+          "impressions": 2,
+          "ctr": 0.0,
+          "position": 11.0,
+          "country": "prt"
+        },
+        {
+          "clicks": 0,
+          "impressions": 1,
+          "ctr": 0.0,
+          "position": 6.0,
+          "country": "pry"
+        },
+        {
+          "clicks": 0,
+          "impressions": 1,
+          "ctr": 0.0,
+          "position": 2.0,
+          "country": "pse"
+        },
+        {
+          "clicks": 0,
+          "impressions": 3,
+          "ctr": 0.0,
+          "position": 8.0,
+          "country": "rus"
+        },
+        {
+          "clicks": 0,
+          "impressions": 1,
+          "ctr": 0.0,
+          "position": 2.0,
+          "country": "sau"
+        },
+        {
+          "clicks": 0,
+          "impressions": 12,
+          "ctr": 0.0,
+          "position": 6.0833,
+          "country": "sgp"
+        },
+        {
+          "clicks": 0,
+          "impressions": 1,
+          "ctr": 0.0,
+          "position": 12.0,
+          "country": "srb"
+        },
+        {
+          "clicks": 0,
+          "impressions": 4,
+          "ctr": 0.0,
+          "position": 10.75,
+          "country": "tha"
+        },
+        {
+          "clicks": 0,
+          "impressions": 3,
+          "ctr": 0.0,
+          "position": 2.3333,
+          "country": "tur"
+        },
+        {
+          "clicks": 0,
+          "impressions": 6,
+          "ctr": 0.0,
+          "position": 8.1667,
+          "country": "twn"
+        },
+        {
+          "clicks": 0,
+          "impressions": 3,
+          "ctr": 0.0,
+          "position": 6.6667,
+          "country": "ven"
+        },
+        {
+          "clicks": 0,
+          "impressions": 13,
+          "ctr": 0.0,
+          "position": 7.3077,
+          "country": "vnm"
+        },
+        {
+          "clicks": 0,
+          "impressions": 1,
+          "ctr": 0.0,
+          "position": 11.0,
+          "country": "zaf"
+        }
+      ],
+      "gscDaily": [
+        {
+          "clicks": 0,
+          "impressions": 24,
+          "ctr": 0.0,
+          "position": 3.4583,
+          "date": "2026-03-01"
+        },
+        {
+          "clicks": 0,
+          "impressions": 17,
+          "ctr": 0.0,
+          "position": 5.5294,
+          "date": "2026-03-02"
+        },
+        {
+          "clicks": 0,
+          "impressions": 54,
+          "ctr": 0.0,
+          "position": 6.4444,
+          "date": "2026-03-03"
+        },
+        {
+          "clicks": 0,
+          "impressions": 16,
+          "ctr": 0.0,
+          "position": 6.6875,
+          "date": "2026-03-04"
+        },
+        {
+          "clicks": 0,
+          "impressions": 16,
+          "ctr": 0.0,
+          "position": 4.8125,
+          "date": "2026-03-05"
+        },
+        {
+          "clicks": 0,
+          "impressions": 11,
+          "ctr": 0.0,
+          "position": 5.8182,
+          "date": "2026-03-06"
+        },
+        {
+          "clicks": 0,
+          "impressions": 13,
+          "ctr": 0.0,
+          "position": 8.3077,
+          "date": "2026-03-07"
+        },
+        {
+          "clicks": 0,
+          "impressions": 20,
+          "ctr": 0.0,
+          "position": 6.2,
+          "date": "2026-03-08"
+        },
+        {
+          "clicks": 0,
+          "impressions": 45,
+          "ctr": 0.0,
+          "position": 6.1111,
+          "date": "2026-03-09"
+        },
+        {
+          "clicks": 1,
+          "impressions": 34,
+          "ctr": 2.9412,
+          "position": 8.3235,
+          "date": "2026-03-10"
+        },
+        {
+          "clicks": 0,
+          "impressions": 8,
+          "ctr": 0.0,
+          "position": 7.25,
+          "date": "2026-03-11"
+        },
+        {
+          "clicks": 0,
+          "impressions": 35,
+          "ctr": 0.0,
+          "position": 8.3143,
+          "date": "2026-03-12"
+        },
+        {
+          "clicks": 0,
+          "impressions": 14,
+          "ctr": 0.0,
+          "position": 7.3571,
+          "date": "2026-03-13"
+        },
+        {
+          "clicks": 0,
+          "impressions": 17,
+          "ctr": 0.0,
+          "position": 7.6471,
+          "date": "2026-03-14"
+        },
+        {
+          "clicks": 0,
+          "impressions": 10,
+          "ctr": 0.0,
+          "position": 9.2,
+          "date": "2026-03-15"
+        },
+        {
+          "clicks": 0,
+          "impressions": 25,
+          "ctr": 0.0,
+          "position": 6.32,
+          "date": "2026-03-16"
+        },
+        {
+          "clicks": 0,
+          "impressions": 39,
+          "ctr": 0.0,
+          "position": 5.8205,
+          "date": "2026-03-17"
+        },
+        {
+          "clicks": 0,
+          "impressions": 12,
+          "ctr": 0.0,
+          "position": 7.8333,
+          "date": "2026-03-18"
+        },
+        {
+          "clicks": 1,
+          "impressions": 19,
+          "ctr": 5.2632,
+          "position": 6.8947,
+          "date": "2026-03-19"
+        },
+        {
+          "clicks": 0,
+          "impressions": 16,
+          "ctr": 0.0,
+          "position": 7.75,
+          "date": "2026-03-20"
+        },
+        {
+          "clicks": 1,
+          "impressions": 21,
+          "ctr": 4.7619,
+          "position": 5.8571,
+          "date": "2026-03-21"
+        },
+        {
+          "clicks": 0,
+          "impressions": 20,
+          "ctr": 0.0,
+          "position": 3.55,
+          "date": "2026-03-22"
+        },
+        {
+          "clicks": 1,
+          "impressions": 64,
+          "ctr": 1.5625,
+          "position": 5.4688,
+          "date": "2026-03-23"
+        },
+        {
+          "clicks": 0,
+          "impressions": 27,
+          "ctr": 0.0,
+          "position": 7.1852,
+          "date": "2026-03-24"
+        },
+        {
+          "clicks": 0,
+          "impressions": 37,
+          "ctr": 0.0,
+          "position": 7.4054,
+          "date": "2026-03-25"
+        },
+        {
+          "clicks": 0,
+          "impressions": 41,
+          "ctr": 0.0,
+          "position": 6.6098,
+          "date": "2026-03-26"
+        },
+        {
+          "clicks": 0,
+          "impressions": 47,
+          "ctr": 0.0,
+          "position": 3.7872,
+          "date": "2026-03-27"
+        },
+        {
+          "clicks": 0,
+          "impressions": 37,
+          "ctr": 0.0,
+          "position": 6.8378,
+          "date": "2026-03-28"
+        },
+        {
+          "clicks": 0,
+          "impressions": 17,
+          "ctr": 0.0,
+          "position": 7.5294,
+          "date": "2026-03-29"
+        },
+        {
+          "clicks": 1,
+          "impressions": 36,
+          "ctr": 2.7778,
+          "position": 5.75,
+          "date": "2026-03-30"
+        },
+        {
+          "clicks": 1,
+          "impressions": 18,
+          "ctr": 5.5556,
+          "position": 8.7222,
+          "date": "2026-03-31"
+        }
+      ],
+      "ga4Daily": [
+        {
+          "date": "20260301",
+          "sessions": 3,
+          "engagedSessions": 1,
+          "totalUsers": 3,
+          "screenPageViews": 3,
+          "averageSessionDuration": 72.532841,
+          "userEngagementDuration": 216,
+          "bounceRate": 0.666667,
+          "keyEvents": 0,
+          "averageEngagementTimePerSession": 72.0
+        },
+        {
+          "date": "20260302",
+          "sessions": 17,
+          "engagedSessions": 8,
+          "totalUsers": 17,
+          "screenPageViews": 34,
+          "averageSessionDuration": 166.838037,
+          "userEngagementDuration": 216,
+          "bounceRate": 0.529412,
+          "keyEvents": 0,
+          "averageEngagementTimePerSession": 12.71
+        },
+        {
+          "date": "20260303",
+          "sessions": 13,
+          "engagedSessions": 5,
+          "totalUsers": 12,
+          "screenPageViews": 20,
+          "averageSessionDuration": 253.981984,
+          "userEngagementDuration": 61,
+          "bounceRate": 0.615385,
+          "keyEvents": 0,
+          "averageEngagementTimePerSession": 4.69
+        },
+        {
+          "date": "20260304",
+          "sessions": 1,
+          "engagedSessions": 1,
+          "totalUsers": 1,
+          "screenPageViews": 2,
+          "averageSessionDuration": 533.96684,
+          "userEngagementDuration": 35,
+          "bounceRate": 0,
+          "keyEvents": 0,
+          "averageEngagementTimePerSession": 35.0
+        },
+        {
+          "date": "20260305",
+          "sessions": 35,
+          "engagedSessions": 14,
+          "totalUsers": 30,
+          "screenPageViews": 40,
+          "averageSessionDuration": 52.851843,
+          "userEngagementDuration": 623,
+          "bounceRate": 0.6,
+          "keyEvents": 0,
+          "averageEngagementTimePerSession": 17.8
+        },
+        {
+          "date": "20260306",
+          "sessions": 7,
+          "engagedSessions": 2,
+          "totalUsers": 7,
+          "screenPageViews": 8,
+          "averageSessionDuration": 25.485862,
+          "userEngagementDuration": 79,
+          "bounceRate": 0.714286,
+          "keyEvents": 0,
+          "averageEngagementTimePerSession": 11.29
+        },
+        {
+          "date": "20260307",
+          "sessions": 1,
+          "engagedSessions": 0,
+          "totalUsers": 1,
+          "screenPageViews": 1,
+          "averageSessionDuration": 0,
+          "userEngagementDuration": 0,
+          "bounceRate": 1,
+          "keyEvents": 0,
+          "averageEngagementTimePerSession": 0.0
+        },
+        {
+          "date": "20260309",
+          "sessions": 21,
+          "engagedSessions": 13,
+          "totalUsers": 16,
+          "screenPageViews": 35,
+          "averageSessionDuration": 139.6422,
+          "userEngagementDuration": 554,
+          "bounceRate": 0.380952,
+          "keyEvents": 0,
+          "averageEngagementTimePerSession": 26.38
+        },
+        {
+          "date": "20260310",
+          "sessions": 4,
+          "engagedSessions": 2,
+          "totalUsers": 2,
+          "screenPageViews": 3,
+          "averageSessionDuration": 8.389543,
+          "userEngagementDuration": 9,
+          "bounceRate": 0.5,
+          "keyEvents": 0,
+          "averageEngagementTimePerSession": 2.25
+        },
+        {
+          "date": "20260311",
+          "sessions": 5,
+          "engagedSessions": 2,
+          "totalUsers": 3,
+          "screenPageViews": 6,
+          "averageSessionDuration": 14.56899,
+          "userEngagementDuration": 40,
+          "bounceRate": 0.6,
+          "keyEvents": 0,
+          "averageEngagementTimePerSession": 8.0
+        },
+        {
+          "date": "20260312",
+          "sessions": 12,
+          "engagedSessions": 8,
+          "totalUsers": 5,
+          "screenPageViews": 50,
+          "averageSessionDuration": 373.799532,
+          "userEngagementDuration": 584,
+          "bounceRate": 0.333333,
+          "keyEvents": 0,
+          "averageEngagementTimePerSession": 48.67
+        },
+        {
+          "date": "20260313",
+          "sessions": 5,
+          "engagedSessions": 3,
+          "totalUsers": 4,
+          "screenPageViews": 12,
+          "averageSessionDuration": 225.966533,
+          "userEngagementDuration": 179,
+          "bounceRate": 0.4,
+          "keyEvents": 0,
+          "averageEngagementTimePerSession": 35.8
+        },
+        {
+          "date": "20260314",
+          "sessions": 9,
+          "engagedSessions": 5,
+          "totalUsers": 8,
+          "screenPageViews": 27,
+          "averageSessionDuration": 150.037728,
+          "userEngagementDuration": 97,
+          "bounceRate": 0.444444,
+          "keyEvents": 0,
+          "averageEngagementTimePerSession": 10.78
+        },
+        {
+          "date": "20260315",
+          "sessions": 11,
+          "engagedSessions": 4,
+          "totalUsers": 11,
+          "screenPageViews": 11,
+          "averageSessionDuration": 9.084145,
+          "userEngagementDuration": 29,
+          "bounceRate": 0.636364,
+          "keyEvents": 0,
+          "averageEngagementTimePerSession": 2.64
+        },
+        {
+          "date": "20260316",
+          "sessions": 6,
+          "engagedSessions": 4,
+          "totalUsers": 5,
+          "screenPageViews": 8,
+          "averageSessionDuration": 263.59394,
+          "userEngagementDuration": 80,
+          "bounceRate": 0.333333,
+          "keyEvents": 0,
+          "averageEngagementTimePerSession": 13.33
+        },
+        {
+          "date": "20260317",
+          "sessions": 2,
+          "engagedSessions": 1,
+          "totalUsers": 1,
+          "screenPageViews": 3,
+          "averageSessionDuration": 13.64421,
+          "userEngagementDuration": 3,
+          "bounceRate": 0.5,
+          "keyEvents": 0,
+          "averageEngagementTimePerSession": 1.5
+        },
+        {
+          "date": "20260318",
+          "sessions": 2,
+          "engagedSessions": 2,
+          "totalUsers": 2,
+          "screenPageViews": 10,
+          "averageSessionDuration": 959.970393,
+          "userEngagementDuration": 142,
+          "bounceRate": 0,
+          "keyEvents": 0,
+          "averageEngagementTimePerSession": 71.0
+        },
+        {
+          "date": "20260319",
+          "sessions": 1,
+          "engagedSessions": 1,
+          "totalUsers": 1,
+          "screenPageViews": 1,
+          "averageSessionDuration": 22.615891,
+          "userEngagementDuration": 1,
+          "bounceRate": 0,
+          "keyEvents": 0,
+          "averageEngagementTimePerSession": 1.0
+        },
+        {
+          "date": "20260320",
+          "sessions": 7,
+          "engagedSessions": 3,
+          "totalUsers": 7,
+          "screenPageViews": 9,
+          "averageSessionDuration": 79.238956,
+          "userEngagementDuration": 38,
+          "bounceRate": 0.571429,
+          "keyEvents": 0,
+          "averageEngagementTimePerSession": 5.43
+        },
+        {
+          "date": "20260321",
+          "sessions": 3,
+          "engagedSessions": 2,
+          "totalUsers": 3,
+          "screenPageViews": 3,
+          "averageSessionDuration": 59.097209,
+          "userEngagementDuration": 43,
+          "bounceRate": 0.333333,
+          "keyEvents": 0,
+          "averageEngagementTimePerSession": 14.33
+        },
+        {
+          "date": "20260322",
+          "sessions": 1,
+          "engagedSessions": 0,
+          "totalUsers": 1,
+          "screenPageViews": 0,
+          "averageSessionDuration": 0,
+          "userEngagementDuration": 0,
+          "bounceRate": 1,
+          "keyEvents": 0,
+          "averageEngagementTimePerSession": 0.0
+        },
+        {
+          "date": "20260324",
+          "sessions": 4,
+          "engagedSessions": 3,
+          "totalUsers": 2,
+          "screenPageViews": 21,
+          "averageSessionDuration": 731.03737,
+          "userEngagementDuration": 450,
+          "bounceRate": 0.25,
+          "keyEvents": 0,
+          "averageEngagementTimePerSession": 112.5
+        },
+        {
+          "date": "20260325",
+          "sessions": 2,
+          "engagedSessions": 2,
+          "totalUsers": 2,
+          "screenPageViews": 3,
+          "averageSessionDuration": 233.461827,
+          "userEngagementDuration": 23,
+          "bounceRate": 0,
+          "keyEvents": 0,
+          "averageEngagementTimePerSession": 11.5
+        },
+        {
+          "date": "20260327",
+          "sessions": 1,
+          "engagedSessions": 1,
+          "totalUsers": 1,
+          "screenPageViews": 1,
+          "averageSessionDuration": 150.747899,
+          "userEngagementDuration": 46,
+          "bounceRate": 0,
+          "keyEvents": 0,
+          "averageEngagementTimePerSession": 46.0
+        },
+        {
+          "date": "20260328",
+          "sessions": 1,
+          "engagedSessions": 1,
+          "totalUsers": 1,
+          "screenPageViews": 4,
+          "averageSessionDuration": 1234.143996,
+          "userEngagementDuration": 37,
+          "bounceRate": 0,
+          "keyEvents": 0,
+          "averageEngagementTimePerSession": 37.0
+        },
+        {
+          "date": "20260330",
+          "sessions": 13,
+          "engagedSessions": 8,
+          "totalUsers": 9,
+          "screenPageViews": 27,
+          "averageSessionDuration": 484.086224,
+          "userEngagementDuration": 798,
+          "bounceRate": 0.384615,
+          "keyEvents": 0,
+          "averageEngagementTimePerSession": 61.38
+        },
+        {
+          "date": "20260331",
+          "sessions": 4,
+          "engagedSessions": 4,
+          "totalUsers": 4,
+          "screenPageViews": 18,
+          "averageSessionDuration": 1121.106084,
+          "userEngagementDuration": 351,
+          "bounceRate": 0,
+          "keyEvents": 0,
+          "averageEngagementTimePerSession": 87.75
+        }
+      ],
+      "pages": [
+        {
+          "page": "https://www.liangyin-aluminum.com/",
+          "path": "/",
+          "clicks": 2,
+          "impressions": 325,
+          "ctr": 0.6154,
+          "position": 3.1385,
+          "sessions": 1,
+          "users": 1,
+          "views": 1,
+          "bounceRate": 100.0,
+          "averageSessionDuration": 7.88,
+          "indexVerdict": "ERROR",
+          "coverageState": ""
+        },
+        {
+          "page": "https://www.liangyin-aluminum.com/electronics-electrical-equipment/",
+          "path": "/electronics-electrical-equipment",
+          "clicks": 2,
+          "impressions": 34,
+          "ctr": 5.8824,
+          "position": 6.7941,
+          "sessions": 1,
+          "users": 1,
+          "views": 1,
+          "bounceRate": 100.0,
+          "averageSessionDuration": 8.69,
+          "indexVerdict": "PASS",
+          "coverageState": "已提交，且已编入索引"
+        },
+        {
+          "page": "https://www.liangyin-aluminum.com/wp-content/uploads/2025/11/OPSA241110-Sedex-SMETA-CAPR-20241105-06-1.pdf",
+          "path": "/wp-content/uploads/2025/11/OPSA241110-Sedex-SMETA-CAPR-20241105-06-1.pdf",
+          "clicks": 1,
+          "impressions": 139,
+          "ctr": 0.7194,
+          "position": 8.5252,
+          "sessions": 0,
+          "users": 0,
+          "views": 0,
+          "bounceRate": 0.0,
+          "averageSessionDuration": 0.0,
+          "indexVerdict": "PASS",
+          "coverageState": "已提交，且已编入索引"
+        },
+        {
+          "page": "https://www.liangyin-aluminum.com/wp-content/uploads/2025/11/Sedex-Members-Ethical-Trade-Audit-Report.pdf",
+          "path": "/wp-content/uploads/2025/11/Sedex-Members-Ethical-Trade-Audit-Report.pdf",
+          "clicks": 1,
+          "impressions": 73,
+          "ctr": 1.3699,
+          "position": 10.1233,
+          "sessions": 0,
+          "users": 0,
+          "views": 0,
+          "bounceRate": 0.0,
+          "averageSessionDuration": 0.0,
+          "indexVerdict": "PASS",
+          "coverageState": "已提交，且已编入索引"
+        },
+        {
+          "page": "https://www.liangyin-aluminum.com/about-liangyin/",
+          "path": "/about-liangyin",
+          "clicks": 0,
+          "impressions": 4,
+          "ctr": 0.0,
+          "position": 3.25,
+          "sessions": 2,
+          "users": 2,
+          "views": 5,
+          "bounceRate": 0.0,
+          "averageSessionDuration": 106.47,
+          "indexVerdict": "PASS",
+          "coverageState": "已提交，且已编入索引"
+        },
+        {
+          "page": "https://www.liangyin-aluminum.com/application/",
+          "path": "/application",
+          "clicks": 0,
+          "impressions": 4,
+          "ctr": 0.0,
+          "position": 3.25,
+          "sessions": 2,
+          "users": 2,
+          "views": 7,
+          "bounceRate": 0.0,
+          "averageSessionDuration": 563.94,
+          "indexVerdict": "ERROR",
+          "coverageState": ""
+        },
+        {
+          "page": "https://www.liangyin-aluminum.com/charging-box-post-pile-innovation-for-electric-off-road-vehicles-urban-motorcycles/",
+          "path": "/charging-box-post-pile-innovation-for-electric-off-road-vehicles-urban-motorcycles",
+          "clicks": 0,
+          "impressions": 52,
+          "ctr": 0.0,
+          "position": 6.3654,
+          "sessions": 1,
+          "users": 1,
+          "views": 2,
+          "bounceRate": 0.0,
+          "averageSessionDuration": 85.04,
+          "indexVerdict": "NEUTRAL",
+          "coverageState": "已抓取 - 尚未编入索引"
+        },
+        {
+          "page": "https://www.liangyin-aluminum.com/choosing-the-best-finish-for-your-project-a-comprehensive-guide-to-aluminum-surface-treatments/",
+          "path": "/choosing-the-best-finish-for-your-project-a-comprehensive-guide-to-aluminum-surface-treatments",
+          "clicks": 0,
+          "impressions": 10,
+          "ctr": 0.0,
+          "position": 18.2,
+          "sessions": 0,
+          "users": 0,
+          "views": 0,
+          "bounceRate": 0.0,
+          "averageSessionDuration": 0.0,
+          "indexVerdict": "PASS",
+          "coverageState": "已提交，且已编入索引"
+        },
+        {
+          "page": "https://www.liangyin-aluminum.com/cnc-machining-center/",
+          "path": "/cnc-machining-center",
+          "clicks": 0,
+          "impressions": 53,
+          "ctr": 0.0,
+          "position": 6.3962,
+          "sessions": 25,
+          "users": 25,
+          "views": 45,
+          "bounceRate": 60.0,
+          "averageSessionDuration": 288.54,
+          "indexVerdict": "PASS",
+          "coverageState": "已提交，且已编入索引"
+        },
+        {
+          "page": "https://www.liangyin-aluminum.com/liangyin-aluminums-cnc-machining-capabilities-one-stop-delivery-solutions-from-aluminum-profiles-to-finished-products/",
+          "path": "/liangyin-aluminums-cnc-machining-capabilities-one-stop-delivery-solutions-from-aluminum-profiles-to-finished-products",
+          "clicks": 0,
+          "impressions": 165,
+          "ctr": 0.0,
+          "position": 6.8364,
+          "sessions": 0,
+          "users": 0,
+          "views": 0,
+          "bounceRate": 0.0,
+          "averageSessionDuration": 0.0,
+          "indexVerdict": "NEUTRAL",
+          "coverageState": "已抓取 - 尚未编入索引"
+        },
+        {
+          "page": "https://www.liangyin-aluminum.com/lighting-medical/",
+          "path": "/lighting-medical",
+          "clicks": 0,
+          "impressions": 71,
+          "ctr": 0.0,
+          "position": 9.493,
+          "sessions": 0,
+          "users": 0,
+          "views": 0,
+          "bounceRate": 0.0,
+          "averageSessionDuration": 0.0,
+          "indexVerdict": "PASS",
+          "coverageState": "已提交，且已编入索引"
+        },
+        {
+          "page": "https://www.liangyin-aluminum.com/precision-%C2%B10-01mm-how-does-liangyin-aluminum-achieve-precision-manufacturing-of-aluminum-parts-through-cnc-machining/",
+          "path": "/precision-%C2%B10-01mm-how-does-liangyin-aluminum-achieve-precision-manufacturing-of-aluminum-parts-through-cnc-machining",
+          "clicks": 0,
+          "impressions": 3,
+          "ctr": 0.0,
+          "position": 5.3333,
+          "sessions": 0,
+          "users": 0,
+          "views": 0,
+          "bounceRate": 0.0,
+          "averageSessionDuration": 0.0,
+          "indexVerdict": "NEUTRAL",
+          "coverageState": "已抓取 - 尚未编入索引"
+        },
+        {
+          "page": "https://www.liangyin-aluminum.com/product/cnc-machining-customization-of-aluminum-profile-casings-for-label-sensors-10/",
+          "path": "/product/cnc-machining-customization-of-aluminum-profile-casings-for-label-sensors-10",
+          "clicks": 0,
+          "impressions": 6,
+          "ctr": 0.0,
+          "position": 6.0,
+          "sessions": 0,
+          "users": 0,
+          "views": 0,
+          "bounceRate": 0.0,
+          "averageSessionDuration": 0.0,
+          "indexVerdict": "NEUTRAL",
+          "coverageState": "重复网页，Google 选择的规范网页与用户指定的不同"
+        },
+        {
+          "page": "https://www.liangyin-aluminum.com/the-core-of-quality-how-modern-aluminum-processors-implement-full-process-quality-control-2/",
+          "path": "/the-core-of-quality-how-modern-aluminum-processors-implement-full-process-quality-control-2",
+          "clicks": 0,
+          "impressions": 7,
+          "ctr": 0.0,
+          "position": 6.5714,
+          "sessions": 0,
+          "users": 0,
+          "views": 0,
+          "bounceRate": 0.0,
+          "averageSessionDuration": 0.0,
+          "indexVerdict": "NEUTRAL",
+          "coverageState": "已抓取 - 尚未编入索引"
+        },
+        {
+          "page": "https://www.liangyin-aluminum.com/the-future-development-direction-of-aluminum-profile-surface-treatment/",
+          "path": "/the-future-development-direction-of-aluminum-profile-surface-treatment",
+          "clicks": 0,
+          "impressions": 1,
+          "ctr": 0.0,
+          "position": 5.0,
+          "sessions": 0,
+          "users": 0,
+          "views": 0,
+          "bounceRate": 0.0,
+          "averageSessionDuration": 0.0,
+          "indexVerdict": "PASS",
+          "coverageState": "已提交，且已编入索引"
+        },
+        {
+          "page": "https://www.liangyin-aluminum.com/turnkey-management/",
+          "path": "/turnkey-management",
+          "clicks": 0,
+          "impressions": 4,
+          "ctr": 0.0,
+          "position": 3.25,
+          "sessions": 0,
+          "users": 0,
+          "views": 0,
+          "bounceRate": 0.0,
+          "averageSessionDuration": 0.0,
+          "indexVerdict": "PASS",
+          "coverageState": "已提交，且已编入索引"
+        }
+      ],
+      "recommendations": [
+        {
+          "type": "体验",
+          "target": "/",
+          "text": "排名靠前但跳出率高，建议优化内容匹配度、首屏信息与内部链接。"
+        },
+        {
+          "type": "点击率",
+          "target": "/",
+          "text": "曝光较高但点击率低，建议优化标题、描述和搜索意图匹配。"
+        },
+        {
+          "type": "索引",
+          "target": "/",
+          "text": "URL 检查未通过，建议核对抓取、noindex、规范链接和页面可用性。"
+        },
+        {
+          "type": "体验",
+          "target": "/electronics-electrical-equipment",
+          "text": "排名靠前但跳出率高，建议优化内容匹配度、首屏信息与内部链接。"
+        },
+        {
+          "type": "点击率",
+          "target": "/wp-content/uploads/2025/11/OPSA241110-Sedex-SMETA-CAPR-20241105-06-1.pdf",
+          "text": "曝光较高但点击率低，建议优化标题、描述和搜索意图匹配。"
+        },
+        {
+          "type": "索引",
+          "target": "/application",
+          "text": "URL 检查未通过，建议核对抓取、noindex、规范链接和页面可用性。"
+        },
+        {
+          "type": "点击率",
+          "target": "/charging-box-post-pile-innovation-for-electric-off-road-vehicles-urban-motorcycles",
+          "text": "曝光较高但点击率低，建议优化标题、描述和搜索意图匹配。"
+        },
+        {
+          "type": "索引",
+          "target": "/charging-box-post-pile-innovation-for-electric-off-road-vehicles-urban-motorcycles",
+          "text": "URL 检查未通过，建议核对抓取、noindex、规范链接和页面可用性。"
+        }
+      ]
+    },
+    {
+      "label": "2026-04",
+      "period": [
+        "2026-04-01",
+        "2026-04-30"
+      ],
+      "metrics": {
+        "clicks": 2,
+        "impressions": 396,
+        "ctr": 0.51,
+        "averagePosition": 9.01,
+        "totalUsers": 65,
+        "pageViews": 149,
+        "sessions": 94,
+        "averageSessionDuration": 257.58,
+        "averageEngagementTimePerSession": 17.86,
+        "bounceRate": 43.62,
+        "keyEvents": 1,
+        "indexedPages": 0,
+        "inspectedPages": 0
+      },
+      "keywords": [
+        {
+          "clicks": 0,
+          "impressions": 4,
+          "ctr": 0.0,
+          "position": 25.75,
+          "query": "advanced aluminum cnc facility china",
+          "positionChange": null
+        },
+        {
+          "clicks": 0,
+          "impressions": 2,
+          "ctr": 0.0,
+          "position": 1.0,
+          "query": "advanced aluminum cnc machining facility china",
+          "positionChange": null
+        },
+        {
+          "clicks": 0,
+          "impressions": 1,
+          "ctr": 0.0,
+          "position": 87.0,
+          "query": "aluminum alloy cnc processing workshop china",
+          "positionChange": null
+        },
+        {
+          "clicks": 0,
+          "impressions": 25,
+          "ctr": 0.0,
+          "position": 23.2,
+          "query": "aluminum extrusions for medical devices",
+          "positionChange": null
+        },
+        {
+          "clicks": 0,
+          "impressions": 1,
+          "ctr": 0.0,
+          "position": 6.0,
+          "query": "electronics aluminum parts manufacturer",
+          "positionChange": null
+        },
+        {
+          "clicks": 0,
+          "impressions": 3,
+          "ctr": 0.0,
+          "position": 2.0,
+          "query": "liangyin",
+          "positionChange": null
+        },
+        {
+          "clicks": 0,
+          "impressions": 3,
+          "ctr": 0.0,
+          "position": 44.0,
+          "query": "sedex audit report",
+          "positionChange": null
+        },
+        {
+          "clicks": 0,
+          "impressions": 2,
+          "ctr": 0.0,
+          "position": 9.0,
+          "query": "sedex audit trash can factory china",
+          "positionChange": null
+        },
+        {
+          "clicks": 0,
+          "impressions": 4,
+          "ctr": 0.0,
+          "position": 40.0,
+          "query": "sedex members ethical trade audit",
+          "positionChange": null
+        },
+        {
+          "clicks": 0,
+          "impressions": 1,
+          "ctr": 0.0,
+          "position": 12.0,
+          "query": "smeta capr",
+          "positionChange": null
+        },
+        {
+          "clicks": 0,
+          "impressions": 2,
+          "ctr": 0.0,
+          "position": 67.5,
+          "query": "top cosmetic finishing system for aluminum components",
+          "positionChange": null
+        },
+        {
+          "clicks": 0,
+          "impressions": 8,
+          "ctr": 0.0,
+          "position": 15.5,
+          "query": "wp-sedex informati",
+          "positionChange": null
+        }
+      ],
+      "channels": [
+        {
+          "sessionDefaultChannelGroup": "Direct",
+          "sessions": 45,
+          "engagedSessions": 29,
+          "totalUsers": 24,
+          "screenPageViews": 89,
+          "averageSessionDuration": 411.256441,
+          "userEngagementDuration": 1122,
+          "bounceRate": 0.355556,
+          "keyEvents": 0,
+          "averageEngagementTimePerSession": 24.93
+        },
+        {
+          "sessionDefaultChannelGroup": "Organic Social",
+          "sessions": 30,
+          "engagedSessions": 10,
+          "totalUsers": 30,
+          "screenPageViews": 30,
+          "averageSessionDuration": 7.339026,
+          "userEngagementDuration": 121,
+          "bounceRate": 0.666667,
+          "keyEvents": 0,
+          "averageEngagementTimePerSession": 4.03
+        },
+        {
+          "sessionDefaultChannelGroup": "Referral",
+          "sessions": 17,
+          "engagedSessions": 13,
+          "totalUsers": 10,
+          "screenPageViews": 28,
+          "averageSessionDuration": 310.294402,
+          "userEngagementDuration": 424,
+          "bounceRate": 0.235294,
+          "keyEvents": 1,
+          "averageEngagementTimePerSession": 24.94
+        },
+        {
+          "sessionDefaultChannelGroup": "Organic Search",
+          "sessions": 2,
+          "engagedSessions": 1,
+          "totalUsers": 2,
+          "screenPageViews": 2,
+          "averageSessionDuration": 105.36401,
+          "userEngagementDuration": 12,
+          "bounceRate": 0.5,
+          "keyEvents": 0,
+          "averageEngagementTimePerSession": 6.0
+        }
+      ],
+      "sources": [
+        {
+          "sessionSource": "(direct)",
+          "sessions": 45,
+          "engagedSessions": 29,
+          "totalUsers": 24,
+          "screenPageViews": 89,
+          "averageSessionDuration": 411.256441,
+          "userEngagementDuration": 1122,
+          "bounceRate": 0.355556,
+          "keyEvents": 0,
+          "averageEngagementTimePerSession": 24.93
+        },
+        {
+          "sessionSource": "facebook.com",
+          "sessions": 30,
+          "engagedSessions": 10,
+          "totalUsers": 30,
+          "screenPageViews": 30,
+          "averageSessionDuration": 7.339026,
+          "userEngagementDuration": 121,
+          "bounceRate": 0.666667,
+          "keyEvents": 0,
+          "averageEngagementTimePerSession": 4.03
+        },
+        {
+          "sessionSource": "techprimex.com",
+          "sessions": 12,
+          "engagedSessions": 9,
+          "totalUsers": 9,
+          "screenPageViews": 18,
+          "averageSessionDuration": 304.073943,
+          "userEngagementDuration": 196,
+          "bounceRate": 0.25,
+          "keyEvents": 1,
+          "averageEngagementTimePerSession": 16.33
+        },
+        {
+          "sessionSource": "kdocs.cn",
+          "sessions": 5,
+          "engagedSessions": 4,
+          "totalUsers": 1,
+          "screenPageViews": 10,
+          "averageSessionDuration": 325.223503,
+          "userEngagementDuration": 228,
+          "bounceRate": 0.2,
+          "keyEvents": 0,
+          "averageEngagementTimePerSession": 45.6
+        },
+        {
+          "sessionSource": "google",
+          "sessions": 2,
+          "engagedSessions": 1,
+          "totalUsers": 2,
+          "screenPageViews": 2,
+          "averageSessionDuration": 105.36401,
+          "userEngagementDuration": 12,
+          "bounceRate": 0.5,
+          "keyEvents": 0,
+          "averageEngagementTimePerSession": 6.0
+        }
+      ],
+      "ga4Countries": [
+        {
+          "country": "United States",
+          "sessions": 46,
+          "totalUsers": 31,
+          "engagedSessions": 23,
+          "averageEngagementTimePerSession": 0.0
+        },
+        {
+          "country": "China",
+          "sessions": 14,
+          "totalUsers": 11,
+          "engagedSessions": 8,
+          "averageEngagementTimePerSession": 0.0
+        },
+        {
+          "country": "Pakistan",
+          "sessions": 12,
+          "totalUsers": 11,
+          "engagedSessions": 9,
+          "averageEngagementTimePerSession": 0.0
+        },
+        {
+          "country": "Hong Kong",
+          "sessions": 9,
+          "totalUsers": 4,
+          "engagedSessions": 5,
+          "averageEngagementTimePerSession": 0.0
+        },
+        {
+          "country": "Ireland",
+          "sessions": 5,
+          "totalUsers": 5,
+          "engagedSessions": 3,
+          "averageEngagementTimePerSession": 0.0
+        },
+        {
+          "country": "Singapore",
+          "sessions": 3,
+          "totalUsers": 1,
+          "engagedSessions": 3,
+          "averageEngagementTimePerSession": 0.0
+        },
+        {
+          "country": "Sweden",
+          "sessions": 2,
+          "totalUsers": 2,
+          "engagedSessions": 0,
+          "averageEngagementTimePerSession": 0.0
+        },
+        {
+          "country": "Germany",
+          "sessions": 1,
+          "totalUsers": 1,
+          "engagedSessions": 1,
+          "averageEngagementTimePerSession": 0.0
+        },
+        {
+          "country": "Mexico",
+          "sessions": 1,
+          "totalUsers": 1,
+          "engagedSessions": 0,
+          "averageEngagementTimePerSession": 0.0
+        },
+        {
+          "country": "Morocco",
+          "sessions": 1,
+          "totalUsers": 1,
+          "engagedSessions": 1,
+          "averageEngagementTimePerSession": 0.0
+        },
+        {
+          "country": "Spain",
+          "sessions": 1,
+          "totalUsers": 1,
+          "engagedSessions": 1,
+          "averageEngagementTimePerSession": 0.0
+        }
+      ],
+      "countries": [
+        {
+          "clicks": 2,
+          "impressions": 198,
+          "ctr": 1.0101,
+          "position": 9.6111,
+          "country": "usa"
+        },
+        {
+          "clicks": 0,
+          "impressions": 1,
+          "ctr": 0.0,
+          "position": 8.0,
+          "country": "alb"
+        },
+        {
+          "clicks": 0,
+          "impressions": 2,
+          "ctr": 0.0,
+          "position": 5.0,
+          "country": "are"
+        },
+        {
+          "clicks": 0,
+          "impressions": 1,
+          "ctr": 0.0,
+          "position": 35.0,
+          "country": "arg"
+        },
+        {
+          "clicks": 0,
+          "impressions": 6,
+          "ctr": 0.0,
+          "position": 6.1667,
+          "country": "aus"
+        },
+        {
+          "clicks": 0,
+          "impressions": 1,
+          "ctr": 0.0,
+          "position": 2.0,
+          "country": "aze"
+        },
+        {
+          "clicks": 0,
+          "impressions": 4,
+          "ctr": 0.0,
+          "position": 8.75,
+          "country": "bgd"
+        },
+        {
+          "clicks": 0,
+          "impressions": 1,
+          "ctr": 0.0,
+          "position": 4.0,
+          "country": "bih"
+        },
+        {
+          "clicks": 0,
+          "impressions": 1,
+          "ctr": 0.0,
+          "position": 3.0,
+          "country": "blr"
+        },
+        {
+          "clicks": 0,
+          "impressions": 1,
+          "ctr": 0.0,
+          "position": 1.0,
+          "country": "bol"
+        },
+        {
+          "clicks": 0,
+          "impressions": 2,
+          "ctr": 0.0,
+          "position": 1.0,
+          "country": "bra"
+        },
+        {
+          "clicks": 0,
+          "impressions": 1,
+          "ctr": 0.0,
+          "position": 15.0,
+          "country": "caf"
+        },
+        {
+          "clicks": 0,
+          "impressions": 13,
+          "ctr": 0.0,
+          "position": 6.3846,
+          "country": "can"
+        },
+        {
+          "clicks": 0,
+          "impressions": 1,
+          "ctr": 0.0,
+          "position": 2.0,
+          "country": "chl"
+        },
+        {
+          "clicks": 0,
+          "impressions": 5,
+          "ctr": 0.0,
+          "position": 14.0,
+          "country": "chn"
+        },
+        {
+          "clicks": 0,
+          "impressions": 2,
+          "ctr": 0.0,
+          "position": 4.5,
+          "country": "col"
+        },
+        {
+          "clicks": 0,
+          "impressions": 7,
+          "ctr": 0.0,
+          "position": 21.2857,
+          "country": "deu"
+        },
+        {
+          "clicks": 0,
+          "impressions": 1,
+          "ctr": 0.0,
+          "position": 1.0,
+          "country": "ecu"
+        },
+        {
+          "clicks": 0,
+          "impressions": 2,
+          "ctr": 0.0,
+          "position": 2.0,
+          "country": "esp"
+        },
+        {
+          "clicks": 0,
+          "impressions": 2,
+          "ctr": 0.0,
+          "position": 5.5,
+          "country": "eth"
+        },
+        {
+          "clicks": 0,
+          "impressions": 1,
+          "ctr": 0.0,
+          "position": 12.0,
+          "country": "fin"
+        },
+        {
+          "clicks": 0,
+          "impressions": 1,
+          "ctr": 0.0,
+          "position": 11.0,
+          "country": "fra"
+        },
+        {
+          "clicks": 0,
+          "impressions": 21,
+          "ctr": 0.0,
+          "position": 10.1429,
+          "country": "gbr"
+        },
+        {
+          "clicks": 0,
+          "impressions": 6,
+          "ctr": 0.0,
+          "position": 6.3333,
+          "country": "hkg"
+        },
+        {
+          "clicks": 0,
+          "impressions": 1,
+          "ctr": 0.0,
+          "position": 2.0,
+          "country": "hun"
+        },
+        {
+          "clicks": 0,
+          "impressions": 12,
+          "ctr": 0.0,
+          "position": 8.75,
+          "country": "idn"
+        },
+        {
+          "clicks": 0,
+          "impressions": 10,
+          "ctr": 0.0,
+          "position": 11.8,
+          "country": "ind"
+        },
+        {
+          "clicks": 0,
+          "impressions": 1,
+          "ctr": 0.0,
+          "position": 8.0,
+          "country": "irn"
+        },
+        {
+          "clicks": 0,
+          "impressions": 1,
+          "ctr": 0.0,
+          "position": 6.0,
+          "country": "irq"
+        },
+        {
+          "clicks": 0,
+          "impressions": 2,
+          "ctr": 0.0,
+          "position": 3.5,
+          "country": "isr"
+        },
+        {
+          "clicks": 0,
+          "impressions": 3,
+          "ctr": 0.0,
+          "position": 16.6667,
+          "country": "ita"
+        },
+        {
+          "clicks": 0,
+          "impressions": 3,
+          "ctr": 0.0,
+          "position": 5.3333,
+          "country": "jpn"
+        },
+        {
+          "clicks": 0,
+          "impressions": 1,
+          "ctr": 0.0,
+          "position": 2.0,
+          "country": "khm"
+        },
+        {
+          "clicks": 0,
+          "impressions": 3,
+          "ctr": 0.0,
+          "position": 5.6667,
+          "country": "kor"
+        },
+        {
+          "clicks": 0,
+          "impressions": 1,
+          "ctr": 0.0,
+          "position": 4.0,
+          "country": "ltu"
+        },
+        {
+          "clicks": 0,
+          "impressions": 1,
+          "ctr": 0.0,
+          "position": 8.0,
+          "country": "mar"
+        },
+        {
+          "clicks": 0,
+          "impressions": 2,
+          "ctr": 0.0,
+          "position": 24.0,
+          "country": "mex"
+        },
+        {
+          "clicks": 0,
+          "impressions": 1,
+          "ctr": 0.0,
+          "position": 10.0,
+          "country": "mkd"
+        },
+        {
+          "clicks": 0,
+          "impressions": 1,
+          "ctr": 0.0,
+          "position": 5.0,
+          "country": "mng"
+        },
+        {
+          "clicks": 0,
+          "impressions": 9,
+          "ctr": 0.0,
+          "position": 6.2222,
+          "country": "mys"
+        },
+        {
+          "clicks": 0,
+          "impressions": 4,
+          "ctr": 0.0,
+          "position": 23.25,
+          "country": "nld"
+        },
+        {
+          "clicks": 0,
+          "impressions": 1,
+          "ctr": 0.0,
+          "position": 2.0,
+          "country": "omn"
+        },
+        {
+          "clicks": 0,
+          "impressions": 10,
+          "ctr": 0.0,
+          "position": 5.6,
+          "country": "pak"
+        },
+        {
+          "clicks": 0,
+          "impressions": 1,
+          "ctr": 0.0,
+          "position": 1.0,
+          "country": "per"
+        },
+        {
+          "clicks": 0,
+          "impressions": 4,
+          "ctr": 0.0,
+          "position": 7.0,
+          "country": "phl"
+        },
+        {
+          "clicks": 0,
+          "impressions": 3,
+          "ctr": 0.0,
+          "position": 4.6667,
+          "country": "pol"
+        },
+        {
+          "clicks": 0,
+          "impressions": 7,
+          "ctr": 0.0,
+          "position": 7.0,
+          "country": "prt"
+        },
+        {
+          "clicks": 0,
+          "impressions": 5,
+          "ctr": 0.0,
+          "position": 3.2,
+          "country": "rus"
+        },
+        {
+          "clicks": 0,
+          "impressions": 8,
+          "ctr": 0.0,
+          "position": 7.375,
+          "country": "sgp"
+        },
+        {
+          "clicks": 0,
+          "impressions": 1,
+          "ctr": 0.0,
+          "position": 9.0,
+          "country": "srb"
+        },
+        {
+          "clicks": 0,
+          "impressions": 3,
+          "ctr": 0.0,
+          "position": 5.3333,
+          "country": "tha"
+        },
+        {
+          "clicks": 0,
+          "impressions": 8,
+          "ctr": 0.0,
+          "position": 5.25,
+          "country": "tur"
+        },
+        {
+          "clicks": 0,
+          "impressions": 4,
+          "ctr": 0.0,
+          "position": 7.0,
+          "country": "vnm"
+        },
+        {
+          "clicks": 0,
+          "impressions": 1,
+          "ctr": 0.0,
+          "position": 1.0,
+          "country": "zmb"
+        },
+        {
+          "clicks": 0,
+          "impressions": 3,
+          "ctr": 0.0,
+          "position": 11.3333,
+          "country": "zwe"
+        }
+      ],
+      "gscDaily": [
+        {
+          "clicks": 0,
+          "impressions": 16,
+          "ctr": 0.0,
+          "position": 6.1875,
+          "date": "2026-04-01"
+        },
+        {
+          "clicks": 0,
+          "impressions": 12,
+          "ctr": 0.0,
+          "position": 6.9167,
+          "date": "2026-04-02"
+        },
+        {
+          "clicks": 0,
+          "impressions": 16,
+          "ctr": 0.0,
+          "position": 8.625,
+          "date": "2026-04-03"
+        },
+        {
+          "clicks": 0,
+          "impressions": 3,
+          "ctr": 0.0,
+          "position": 15.6667,
+          "date": "2026-04-04"
+        },
+        {
+          "clicks": 0,
+          "impressions": 6,
+          "ctr": 0.0,
+          "position": 12.3333,
+          "date": "2026-04-05"
+        },
+        {
+          "clicks": 0,
+          "impressions": 10,
+          "ctr": 0.0,
+          "position": 13.4,
+          "date": "2026-04-06"
+        },
+        {
+          "clicks": 0,
+          "impressions": 13,
+          "ctr": 0.0,
+          "position": 5.2308,
+          "date": "2026-04-07"
+        },
+        {
+          "clicks": 0,
+          "impressions": 11,
+          "ctr": 0.0,
+          "position": 21.8182,
+          "date": "2026-04-08"
+        },
+        {
+          "clicks": 0,
+          "impressions": 14,
+          "ctr": 0.0,
+          "position": 4.0,
+          "date": "2026-04-09"
+        },
+        {
+          "clicks": 2,
+          "impressions": 15,
+          "ctr": 13.3333,
+          "position": 7.7333,
+          "date": "2026-04-10"
+        },
+        {
+          "clicks": 0,
+          "impressions": 11,
+          "ctr": 0.0,
+          "position": 8.0,
+          "date": "2026-04-11"
+        },
+        {
+          "clicks": 0,
+          "impressions": 8,
+          "ctr": 0.0,
+          "position": 3.75,
+          "date": "2026-04-12"
+        },
+        {
+          "clicks": 0,
+          "impressions": 18,
+          "ctr": 0.0,
+          "position": 8.1667,
+          "date": "2026-04-13"
+        },
+        {
+          "clicks": 0,
+          "impressions": 17,
+          "ctr": 0.0,
+          "position": 5.7059,
+          "date": "2026-04-14"
+        },
+        {
+          "clicks": 0,
+          "impressions": 12,
+          "ctr": 0.0,
+          "position": 8.0833,
+          "date": "2026-04-15"
+        },
+        {
+          "clicks": 0,
+          "impressions": 10,
+          "ctr": 0.0,
+          "position": 12.4,
+          "date": "2026-04-16"
+        },
+        {
+          "clicks": 0,
+          "impressions": 26,
+          "ctr": 0.0,
+          "position": 6.6923,
+          "date": "2026-04-17"
+        },
+        {
+          "clicks": 0,
+          "impressions": 13,
+          "ctr": 0.0,
+          "position": 9.0,
+          "date": "2026-04-18"
+        },
+        {
+          "clicks": 0,
+          "impressions": 11,
+          "ctr": 0.0,
+          "position": 7.6364,
+          "date": "2026-04-19"
+        },
+        {
+          "clicks": 0,
+          "impressions": 8,
+          "ctr": 0.0,
+          "position": 12.0,
+          "date": "2026-04-20"
+        },
+        {
+          "clicks": 0,
+          "impressions": 21,
+          "ctr": 0.0,
+          "position": 13.0952,
+          "date": "2026-04-21"
+        },
+        {
+          "clicks": 0,
+          "impressions": 9,
+          "ctr": 0.0,
+          "position": 14.0,
+          "date": "2026-04-22"
+        },
+        {
+          "clicks": 0,
+          "impressions": 12,
+          "ctr": 0.0,
+          "position": 6.3333,
+          "date": "2026-04-23"
+        },
+        {
+          "clicks": 0,
+          "impressions": 9,
+          "ctr": 0.0,
+          "position": 5.6667,
+          "date": "2026-04-24"
+        },
+        {
+          "clicks": 0,
+          "impressions": 19,
+          "ctr": 0.0,
+          "position": 5.2105,
+          "date": "2026-04-25"
+        },
+        {
+          "clicks": 0,
+          "impressions": 14,
+          "ctr": 0.0,
+          "position": 17.5714,
+          "date": "2026-04-26"
+        },
+        {
+          "clicks": 0,
+          "impressions": 11,
+          "ctr": 0.0,
+          "position": 10.1818,
+          "date": "2026-04-27"
+        },
+        {
+          "clicks": 0,
+          "impressions": 16,
+          "ctr": 0.0,
+          "position": 8.125,
+          "date": "2026-04-28"
+        },
+        {
+          "clicks": 0,
+          "impressions": 22,
+          "ctr": 0.0,
+          "position": 6.6364,
+          "date": "2026-04-29"
+        },
+        {
+          "clicks": 0,
+          "impressions": 13,
+          "ctr": 0.0,
+          "position": 15.2308,
+          "date": "2026-04-30"
+        }
+      ],
+      "ga4Daily": [
+        {
+          "date": "20260401",
+          "sessions": 2,
+          "engagedSessions": 1,
+          "totalUsers": 2,
+          "screenPageViews": 2,
+          "averageSessionDuration": 14.26879,
+          "userEngagementDuration": 15,
+          "bounceRate": 0.5,
+          "keyEvents": 0,
+          "averageEngagementTimePerSession": 7.5
+        },
+        {
+          "date": "20260402",
+          "sessions": 7,
+          "engagedSessions": 7,
+          "totalUsers": 5,
+          "screenPageViews": 15,
+          "averageSessionDuration": 350.186354,
+          "userEngagementDuration": 159,
+          "bounceRate": 0,
+          "keyEvents": 1,
+          "averageEngagementTimePerSession": 22.71
+        },
+        {
+          "date": "20260403",
+          "sessions": 9,
+          "engagedSessions": 6,
+          "totalUsers": 9,
+          "screenPageViews": 12,
+          "averageSessionDuration": 161.797442,
+          "userEngagementDuration": 86,
+          "bounceRate": 0.333333,
+          "keyEvents": 0,
+          "averageEngagementTimePerSession": 9.56
+        },
+        {
+          "date": "20260406",
+          "sessions": 1,
+          "engagedSessions": 1,
+          "totalUsers": 1,
+          "screenPageViews": 1,
+          "averageSessionDuration": 204.306002,
+          "userEngagementDuration": 7,
+          "bounceRate": 0,
+          "keyEvents": 0,
+          "averageEngagementTimePerSession": 7.0
+        },
+        {
+          "date": "20260407",
+          "sessions": 4,
+          "engagedSessions": 2,
+          "totalUsers": 3,
+          "screenPageViews": 6,
+          "averageSessionDuration": 211.487508,
+          "userEngagementDuration": 26,
+          "bounceRate": 0.5,
+          "keyEvents": 0,
+          "averageEngagementTimePerSession": 6.5
+        },
+        {
+          "date": "20260408",
+          "sessions": 1,
+          "engagedSessions": 1,
+          "totalUsers": 1,
+          "screenPageViews": 3,
+          "averageSessionDuration": 1090.895698,
+          "userEngagementDuration": 164,
+          "bounceRate": 0,
+          "keyEvents": 0,
+          "averageEngagementTimePerSession": 164.0
+        },
+        {
+          "date": "20260410",
+          "sessions": 5,
+          "engagedSessions": 4,
+          "totalUsers": 5,
+          "screenPageViews": 7,
+          "averageSessionDuration": 215.618094,
+          "userEngagementDuration": 75,
+          "bounceRate": 0.2,
+          "keyEvents": 0,
+          "averageEngagementTimePerSession": 15.0
+        },
+        {
+          "date": "20260411",
+          "sessions": 18,
+          "engagedSessions": 6,
+          "totalUsers": 17,
+          "screenPageViews": 21,
+          "averageSessionDuration": 17.915098,
+          "userEngagementDuration": 85,
+          "bounceRate": 0.666667,
+          "keyEvents": 0,
+          "averageEngagementTimePerSession": 4.72
+        },
+        {
+          "date": "20260412",
+          "sessions": 6,
+          "engagedSessions": 1,
+          "totalUsers": 6,
+          "screenPageViews": 6,
+          "averageSessionDuration": 7.427934,
+          "userEngagementDuration": 28,
+          "bounceRate": 0.833333,
+          "keyEvents": 0,
+          "averageEngagementTimePerSession": 4.67
+        },
+        {
+          "date": "20260413",
+          "sessions": 3,
+          "engagedSessions": 2,
+          "totalUsers": 2,
+          "screenPageViews": 4,
+          "averageSessionDuration": 588.607774,
+          "userEngagementDuration": 35,
+          "bounceRate": 0.333333,
+          "keyEvents": 0,
+          "averageEngagementTimePerSession": 11.67
+        },
+        {
+          "date": "20260414",
+          "sessions": 4,
+          "engagedSessions": 2,
+          "totalUsers": 2,
+          "screenPageViews": 5,
+          "averageSessionDuration": 431.704223,
+          "userEngagementDuration": 80,
+          "bounceRate": 0.5,
+          "keyEvents": 0,
+          "averageEngagementTimePerSession": 20.0
+        },
+        {
+          "date": "20260415",
+          "sessions": 4,
+          "engagedSessions": 1,
+          "totalUsers": 4,
+          "screenPageViews": 7,
+          "averageSessionDuration": 723.042669,
+          "userEngagementDuration": 39,
+          "bounceRate": 0.75,
+          "keyEvents": 0,
+          "averageEngagementTimePerSession": 9.75
+        },
+        {
+          "date": "20260417",
+          "sessions": 2,
+          "engagedSessions": 2,
+          "totalUsers": 2,
+          "screenPageViews": 4,
+          "averageSessionDuration": 300.448167,
+          "userEngagementDuration": 8,
+          "bounceRate": 0,
+          "keyEvents": 0,
+          "averageEngagementTimePerSession": 4.0
+        },
+        {
+          "date": "20260418",
+          "sessions": 1,
+          "engagedSessions": 1,
+          "totalUsers": 1,
+          "screenPageViews": 3,
+          "averageSessionDuration": 597.101795,
+          "userEngagementDuration": 55,
+          "bounceRate": 0,
+          "keyEvents": 0,
+          "averageEngagementTimePerSession": 55.0
+        },
+        {
+          "date": "20260419",
+          "sessions": 2,
+          "engagedSessions": 0,
+          "totalUsers": 1,
+          "screenPageViews": 1,
+          "averageSessionDuration": 0,
+          "userEngagementDuration": 0,
+          "bounceRate": 1,
+          "keyEvents": 0,
+          "averageEngagementTimePerSession": 0.0
+        },
+        {
+          "date": "20260420",
+          "sessions": 3,
+          "engagedSessions": 1,
+          "totalUsers": 3,
+          "screenPageViews": 6,
+          "averageSessionDuration": 108.740321,
+          "userEngagementDuration": 87,
+          "bounceRate": 0.666667,
+          "keyEvents": 0,
+          "averageEngagementTimePerSession": 29.0
+        },
+        {
+          "date": "20260421",
+          "sessions": 2,
+          "engagedSessions": 1,
+          "totalUsers": 2,
+          "screenPageViews": 4,
+          "averageSessionDuration": 24.37442,
+          "userEngagementDuration": 45,
+          "bounceRate": 0.5,
+          "keyEvents": 0,
+          "averageEngagementTimePerSession": 22.5
+        },
+        {
+          "date": "20260422",
+          "sessions": 7,
+          "engagedSessions": 4,
+          "totalUsers": 5,
+          "screenPageViews": 8,
+          "averageSessionDuration": 338.168171,
+          "userEngagementDuration": 169,
+          "bounceRate": 0.428571,
+          "keyEvents": 0,
+          "averageEngagementTimePerSession": 24.14
+        },
+        {
+          "date": "20260423",
+          "sessions": 3,
+          "engagedSessions": 2,
+          "totalUsers": 3,
+          "screenPageViews": 12,
+          "averageSessionDuration": 732.495077,
+          "userEngagementDuration": 342,
+          "bounceRate": 0.333333,
+          "keyEvents": 0,
+          "averageEngagementTimePerSession": 114.0
+        },
+        {
+          "date": "20260425",
+          "sessions": 1,
+          "engagedSessions": 0,
+          "totalUsers": 1,
+          "screenPageViews": 1,
+          "averageSessionDuration": 0,
+          "userEngagementDuration": 0,
+          "bounceRate": 1,
+          "keyEvents": 0,
+          "averageEngagementTimePerSession": 0.0
+        },
+        {
+          "date": "20260426",
+          "sessions": 1,
+          "engagedSessions": 1,
+          "totalUsers": 1,
+          "screenPageViews": 2,
+          "averageSessionDuration": 46.467092,
+          "userEngagementDuration": 20,
+          "bounceRate": 0,
+          "keyEvents": 0,
+          "averageEngagementTimePerSession": 20.0
+        },
+        {
+          "date": "20260427",
+          "sessions": 1,
+          "engagedSessions": 1,
+          "totalUsers": 1,
+          "screenPageViews": 2,
+          "averageSessionDuration": 10.132136,
+          "userEngagementDuration": 7,
+          "bounceRate": 0,
+          "keyEvents": 0,
+          "averageEngagementTimePerSession": 7.0
+        },
+        {
+          "date": "20260428",
+          "sessions": 2,
+          "engagedSessions": 2,
+          "totalUsers": 2,
+          "screenPageViews": 5,
+          "averageSessionDuration": 1267.347726,
+          "userEngagementDuration": 14,
+          "bounceRate": 0,
+          "keyEvents": 0,
+          "averageEngagementTimePerSession": 7.0
+        },
+        {
+          "date": "20260429",
+          "sessions": 2,
+          "engagedSessions": 1,
+          "totalUsers": 2,
+          "screenPageViews": 2,
+          "averageSessionDuration": 22.44795,
+          "userEngagementDuration": 1,
+          "bounceRate": 0.5,
+          "keyEvents": 0,
+          "averageEngagementTimePerSession": 0.5
+        },
+        {
+          "date": "20260430",
+          "sessions": 3,
+          "engagedSessions": 3,
+          "totalUsers": 3,
+          "screenPageViews": 10,
+          "averageSessionDuration": 510.50369,
+          "userEngagementDuration": 132,
+          "bounceRate": 0,
+          "keyEvents": 0,
+          "averageEngagementTimePerSession": 44.0
+        }
+      ],
+      "pages": [
+        {
+          "page": "https://www.liangyin-aluminum.com/",
+          "path": "/",
+          "clicks": 2,
+          "impressions": 106,
+          "ctr": 1.8868,
+          "position": 2.5566,
+          "sessions": 1,
+          "users": 1,
+          "views": 1,
+          "bounceRate": 100.0,
+          "averageSessionDuration": 9.47,
+          "indexVerdict": "NOT_INSPECTED",
+          "coverageState": ""
+        },
+        {
+          "page": "https://www.liangyin-aluminum.com/about-liangyin/",
+          "path": "/about-liangyin",
+          "clicks": 0,
+          "impressions": 1,
+          "ctr": 0.0,
+          "position": 2.0,
+          "sessions": 0,
+          "users": 0,
+          "views": 0,
+          "bounceRate": 0.0,
+          "averageSessionDuration": 0.0,
+          "indexVerdict": "NOT_INSPECTED",
+          "coverageState": ""
+        },
+        {
+          "page": "https://www.liangyin-aluminum.com/application/",
+          "path": "/application",
+          "clicks": 0,
+          "impressions": 1,
+          "ctr": 0.0,
+          "position": 2.0,
+          "sessions": 1,
+          "users": 1,
+          "views": 6,
+          "bounceRate": 0.0,
+          "averageSessionDuration": 95.83,
+          "indexVerdict": "NOT_INSPECTED",
+          "coverageState": ""
+        },
+        {
+          "page": "https://www.liangyin-aluminum.com/category/case-project/",
+          "path": "/category/case-project",
+          "clicks": 0,
+          "impressions": 16,
+          "ctr": 0.0,
+          "position": 10.0,
+          "sessions": 0,
+          "users": 0,
+          "views": 0,
+          "bounceRate": 0.0,
+          "averageSessionDuration": 0.0,
+          "indexVerdict": "NOT_INSPECTED",
+          "coverageState": ""
+        },
+        {
+          "page": "https://www.liangyin-aluminum.com/category/case-project/cnc-machining-projects/",
+          "path": "/category/case-project/cnc-machining-projects",
+          "clicks": 0,
+          "impressions": 5,
+          "ctr": 0.0,
+          "position": 7.0,
+          "sessions": 0,
+          "users": 0,
+          "views": 0,
+          "bounceRate": 0.0,
+          "averageSessionDuration": 0.0,
+          "indexVerdict": "NOT_INSPECTED",
+          "coverageState": ""
+        },
+        {
+          "page": "https://www.liangyin-aluminum.com/charging-box-post-pile-innovation-for-electric-off-road-vehicles-urban-motorcycles/",
+          "path": "/charging-box-post-pile-innovation-for-electric-off-road-vehicles-urban-motorcycles",
+          "clicks": 0,
+          "impressions": 4,
+          "ctr": 0.0,
+          "position": 6.0,
+          "sessions": 0,
+          "users": 0,
+          "views": 0,
+          "bounceRate": 0.0,
+          "averageSessionDuration": 0.0,
+          "indexVerdict": "NOT_INSPECTED",
+          "coverageState": ""
+        },
+        {
+          "page": "https://www.liangyin-aluminum.com/choosing-the-best-finish-for-your-project-a-comprehensive-guide-to-aluminum-surface-treatments/",
+          "path": "/choosing-the-best-finish-for-your-project-a-comprehensive-guide-to-aluminum-surface-treatments",
+          "clicks": 0,
+          "impressions": 11,
+          "ctr": 0.0,
+          "position": 19.6364,
+          "sessions": 0,
+          "users": 0,
+          "views": 0,
+          "bounceRate": 0.0,
+          "averageSessionDuration": 0.0,
+          "indexVerdict": "NOT_INSPECTED",
+          "coverageState": ""
+        },
+        {
+          "page": "https://www.liangyin-aluminum.com/cnc-machining-center/",
+          "path": "/cnc-machining-center",
+          "clicks": 0,
+          "impressions": 44,
+          "ctr": 0.0,
+          "position": 7.6818,
+          "sessions": 2,
+          "users": 2,
+          "views": 2,
+          "bounceRate": 50.0,
+          "averageSessionDuration": 102.15,
+          "indexVerdict": "NOT_INSPECTED",
+          "coverageState": ""
+        },
+        {
+          "page": "https://www.liangyin-aluminum.com/electronics-electrical-equipment/",
+          "path": "/electronics-electrical-equipment",
+          "clicks": 0,
+          "impressions": 41,
+          "ctr": 0.0,
+          "position": 6.5366,
+          "sessions": 1,
+          "users": 1,
+          "views": 1,
+          "bounceRate": 100.0,
+          "averageSessionDuration": 6.42,
+          "indexVerdict": "NOT_INSPECTED",
+          "coverageState": ""
+        },
+        {
+          "page": "https://www.liangyin-aluminum.com/lighting-medical/",
+          "path": "/lighting-medical",
+          "clicks": 0,
+          "impressions": 78,
+          "ctr": 0.0,
+          "position": 11.5,
+          "sessions": 0,
+          "users": 0,
+          "views": 0,
+          "bounceRate": 0.0,
+          "averageSessionDuration": 0.0,
+          "indexVerdict": "NOT_INSPECTED",
+          "coverageState": ""
+        },
+        {
+          "page": "https://www.liangyin-aluminum.com/precision-%C2%B10-01mm-how-does-liangyin-aluminum-achieve-precision-manufacturing-of-aluminum-parts-through-cnc-machining/",
+          "path": "/precision-%C2%B10-01mm-how-does-liangyin-aluminum-achieve-precision-manufacturing-of-aluminum-parts-through-cnc-machining",
+          "clicks": 0,
+          "impressions": 1,
+          "ctr": 0.0,
+          "position": 4.0,
+          "sessions": 0,
+          "users": 0,
+          "views": 0,
+          "bounceRate": 0.0,
+          "averageSessionDuration": 0.0,
+          "indexVerdict": "NOT_INSPECTED",
+          "coverageState": ""
+        },
+        {
+          "page": "https://www.liangyin-aluminum.com/product/cnc-machining-customization-of-aluminum-profile-casings-for-label-sensors-10/",
+          "path": "/product/cnc-machining-customization-of-aluminum-profile-casings-for-label-sensors-10",
+          "clicks": 0,
+          "impressions": 7,
+          "ctr": 0.0,
+          "position": 5.2857,
+          "sessions": 0,
+          "users": 0,
+          "views": 0,
+          "bounceRate": 0.0,
+          "averageSessionDuration": 0.0,
+          "indexVerdict": "NOT_INSPECTED",
+          "coverageState": ""
+        },
+        {
+          "page": "https://www.liangyin-aluminum.com/the-core-of-quality-how-modern-aluminum-processors-implement-full-process-quality-control-2/",
+          "path": "/the-core-of-quality-how-modern-aluminum-processors-implement-full-process-quality-control-2",
+          "clicks": 0,
+          "impressions": 8,
+          "ctr": 0.0,
+          "position": 6.875,
+          "sessions": 0,
+          "users": 0,
+          "views": 0,
+          "bounceRate": 0.0,
+          "averageSessionDuration": 0.0,
+          "indexVerdict": "NOT_INSPECTED",
+          "coverageState": ""
+        },
+        {
+          "page": "https://www.liangyin-aluminum.com/turnkey-management/",
+          "path": "/turnkey-management",
+          "clicks": 0,
+          "impressions": 1,
+          "ctr": 0.0,
+          "position": 2.0,
+          "sessions": 0,
+          "users": 0,
+          "views": 0,
+          "bounceRate": 0.0,
+          "averageSessionDuration": 0.0,
+          "indexVerdict": "NOT_INSPECTED",
+          "coverageState": ""
+        },
+        {
+          "page": "https://www.liangyin-aluminum.com/wp-content/uploads/2025/11/OPSA241110-Sedex-SMETA-CAPR-20241105-06-1.pdf",
+          "path": "/wp-content/uploads/2025/11/OPSA241110-Sedex-SMETA-CAPR-20241105-06-1.pdf",
+          "clicks": 0,
+          "impressions": 93,
+          "ctr": 0.0,
+          "position": 8.4409,
+          "sessions": 0,
+          "users": 0,
+          "views": 0,
+          "bounceRate": 0.0,
+          "averageSessionDuration": 0.0,
+          "indexVerdict": "NOT_INSPECTED",
+          "coverageState": ""
+        },
+        {
+          "page": "https://www.liangyin-aluminum.com/wp-content/uploads/2025/11/Sedex-Members-Ethical-Trade-Audit-Report.pdf",
+          "path": "/wp-content/uploads/2025/11/Sedex-Members-Ethical-Trade-Audit-Report.pdf",
+          "clicks": 0,
+          "impressions": 97,
+          "ctr": 0.0,
+          "position": 11.3196,
+          "sessions": 0,
+          "users": 0,
+          "views": 0,
+          "bounceRate": 0.0,
+          "averageSessionDuration": 0.0,
+          "indexVerdict": "NOT_INSPECTED",
+          "coverageState": ""
+        }
+      ],
+      "recommendations": [
+        {
+          "type": "体验",
+          "target": "/",
+          "text": "排名靠前但跳出率高，建议优化内容匹配度、首屏信息与内部链接。"
+        },
+        {
+          "type": "点击率",
+          "target": "/cnc-machining-center",
+          "text": "曝光较高但点击率低，建议优化标题、描述和搜索意图匹配。"
+        },
+        {
+          "type": "体验",
+          "target": "/electronics-electrical-equipment",
+          "text": "排名靠前但跳出率高，建议优化内容匹配度、首屏信息与内部链接。"
+        },
+        {
+          "type": "点击率",
+          "target": "/electronics-electrical-equipment",
+          "text": "曝光较高但点击率低，建议优化标题、描述和搜索意图匹配。"
+        },
+        {
+          "type": "点击率",
+          "target": "/lighting-medical",
+          "text": "曝光较高但点击率低，建议优化标题、描述和搜索意图匹配。"
+        },
+        {
+          "type": "点击率",
+          "target": "/wp-content/uploads/2025/11/OPSA241110-Sedex-SMETA-CAPR-20241105-06-1.pdf",
+          "text": "曝光较高但点击率低，建议优化标题、描述和搜索意图匹配。"
+        },
+        {
+          "type": "点击率",
+          "target": "/wp-content/uploads/2025/11/Sedex-Members-Ethical-Trade-Audit-Report.pdf",
+          "text": "曝光较高但点击率低，建议优化标题、描述和搜索意图匹配。"
+        },
+        {
+          "type": "排名",
+          "target": "wp-sedex informati",
+          "text": "当前位于第 2 页且已有曝光，适合优先补充内容并强化目标页面相关性。"
+        }
+      ]
+    }
+  ],
+  "report": {
+    "type": "monthly",
+    "typeLabel": "月度报告",
+    "label": "2026-04",
+    "domain": "liangyin-aluminum.com",
+    "rangeLabel": "2026-04",
+    "selectedMonths": [
+      "2026-04"
+    ],
+    "comparison": {
+      "label": "上月（2026-03）",
+      "available": true,
+      "clickDelta": -66.66666666666666,
+      "ctrDelta": -31.807749426218447,
+      "rankDelta": -2.62
+    }
+  }
+}
