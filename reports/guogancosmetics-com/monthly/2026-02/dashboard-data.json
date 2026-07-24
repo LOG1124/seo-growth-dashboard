@@ -1,0 +1,1413 @@
+{
+  "source": "Google Search Console + Google Analytics 4",
+  "months": [
+    {
+      "label": "2026-02",
+      "period": [
+        "2026-02-01",
+        "2026-02-28"
+      ],
+      "metrics": {
+        "clicks": 1,
+        "impressions": 119,
+        "ctr": 0.84,
+        "averagePosition": 14.39,
+        "totalUsers": 20,
+        "pageViews": 30,
+        "sessions": 26,
+        "averageSessionDuration": 107.95,
+        "averageEngagementTimePerSession": 8.42,
+        "bounceRate": 57.69,
+        "keyEvents": 0,
+        "indexedPages": 0,
+        "inspectedPages": 0
+      },
+      "keywords": [
+        {
+          "clicks": 0,
+          "impressions": 1,
+          "ctr": 0.0,
+          "position": 40.0,
+          "query": "benefits of sulfate free shampoo curly hair",
+          "positionChange": null
+        },
+        {
+          "clicks": 0,
+          "impressions": 2,
+          "ctr": 0.0,
+          "position": 97.0,
+          "query": "sulfate free shampoo curly hair",
+          "positionChange": null
+        },
+        {
+          "clicks": 0,
+          "impressions": 1,
+          "ctr": 0.0,
+          "position": 76.0,
+          "query": "sulfate free shampoo curly hair benefits",
+          "positionChange": null
+        },
+        {
+          "clicks": 0,
+          "impressions": 1,
+          "ctr": 0.0,
+          "position": 94.0,
+          "query": "sulfate free shampoo for curly hair",
+          "positionChange": null
+        },
+        {
+          "clicks": 0,
+          "impressions": 1,
+          "ctr": 0.0,
+          "position": 1.0,
+          "query": "sulfate-free shampoo benefits for curly hair",
+          "positionChange": null
+        }
+      ],
+      "channels": [
+        {
+          "sessionDefaultChannelGroup": "Direct",
+          "sessions": 11,
+          "engagedSessions": 5,
+          "totalUsers": 6,
+          "screenPageViews": 13,
+          "averageSessionDuration": 65.640807,
+          "userEngagementDuration": 94,
+          "bounceRate": 0.545455,
+          "keyEvents": 0,
+          "averageEngagementTimePerSession": 8.55
+        },
+        {
+          "sessionDefaultChannelGroup": "Organic Social",
+          "sessions": 9,
+          "engagedSessions": 3,
+          "totalUsers": 9,
+          "screenPageViews": 9,
+          "averageSessionDuration": 7.867844,
+          "userEngagementDuration": 20,
+          "bounceRate": 0.666667,
+          "keyEvents": 0,
+          "averageEngagementTimePerSession": 2.22
+        },
+        {
+          "sessionDefaultChannelGroup": "Organic Search",
+          "sessions": 2,
+          "engagedSessions": 2,
+          "totalUsers": 2,
+          "screenPageViews": 4,
+          "averageSessionDuration": 117.821208,
+          "userEngagementDuration": 67,
+          "bounceRate": 0,
+          "keyEvents": 0,
+          "averageEngagementTimePerSession": 33.5
+        },
+        {
+          "sessionDefaultChannelGroup": "Unassigned",
+          "sessions": 2,
+          "engagedSessions": 0,
+          "totalUsers": 2,
+          "screenPageViews": 2,
+          "averageSessionDuration": 0.818773,
+          "userEngagementDuration": 5,
+          "bounceRate": 1,
+          "keyEvents": 0,
+          "averageEngagementTimePerSession": 2.5
+        },
+        {
+          "sessionDefaultChannelGroup": "Organic Shopping",
+          "sessions": 1,
+          "engagedSessions": 1,
+          "totalUsers": 1,
+          "screenPageViews": 1,
+          "averageSessionDuration": 1771.247335,
+          "userEngagementDuration": 28,
+          "bounceRate": 0,
+          "keyEvents": 0,
+          "averageEngagementTimePerSession": 28.0
+        },
+        {
+          "sessionDefaultChannelGroup": "Referral",
+          "sessions": 1,
+          "engagedSessions": 0,
+          "totalUsers": 1,
+          "screenPageViews": 1,
+          "averageSessionDuration": 5.289656,
+          "userEngagementDuration": 5,
+          "bounceRate": 1,
+          "keyEvents": 0,
+          "averageEngagementTimePerSession": 5.0
+        }
+      ],
+      "sources": [
+        {
+          "sessionSource": "(direct)",
+          "sessions": 11,
+          "engagedSessions": 5,
+          "totalUsers": 6,
+          "screenPageViews": 13,
+          "averageSessionDuration": 65.640807,
+          "userEngagementDuration": 94,
+          "bounceRate": 0.545455,
+          "keyEvents": 0,
+          "averageEngagementTimePerSession": 8.55
+        },
+        {
+          "sessionSource": "facebook.com",
+          "sessions": 9,
+          "engagedSessions": 3,
+          "totalUsers": 9,
+          "screenPageViews": 9,
+          "averageSessionDuration": 7.867844,
+          "userEngagementDuration": 20,
+          "bounceRate": 0.666667,
+          "keyEvents": 0,
+          "averageEngagementTimePerSession": 2.22
+        },
+        {
+          "sessionSource": "google",
+          "sessions": 2,
+          "engagedSessions": 2,
+          "totalUsers": 2,
+          "screenPageViews": 4,
+          "averageSessionDuration": 117.821208,
+          "userEngagementDuration": 67,
+          "bounceRate": 0,
+          "keyEvents": 0,
+          "averageEngagementTimePerSession": 33.5
+        },
+        {
+          "sessionSource": "(not set)",
+          "sessions": 1,
+          "engagedSessions": 0,
+          "totalUsers": 1,
+          "screenPageViews": 1,
+          "averageSessionDuration": 1.637546,
+          "userEngagementDuration": 5,
+          "bounceRate": 1,
+          "keyEvents": 0,
+          "averageEngagementTimePerSession": 5.0
+        },
+        {
+          "sessionSource": "chatgpt.com",
+          "sessions": 1,
+          "engagedSessions": 0,
+          "totalUsers": 1,
+          "screenPageViews": 1,
+          "averageSessionDuration": 0,
+          "userEngagementDuration": 0,
+          "bounceRate": 1,
+          "keyEvents": 0,
+          "averageEngagementTimePerSession": 0.0
+        },
+        {
+          "sessionSource": "guogancosmetics.en.alibaba.com",
+          "sessions": 1,
+          "engagedSessions": 1,
+          "totalUsers": 1,
+          "screenPageViews": 1,
+          "averageSessionDuration": 1771.247335,
+          "userEngagementDuration": 28,
+          "bounceRate": 0,
+          "keyEvents": 0,
+          "averageEngagementTimePerSession": 28.0
+        },
+        {
+          "sessionSource": "gzdunao.com",
+          "sessions": 1,
+          "engagedSessions": 0,
+          "totalUsers": 1,
+          "screenPageViews": 1,
+          "averageSessionDuration": 5.289656,
+          "userEngagementDuration": 5,
+          "bounceRate": 1,
+          "keyEvents": 0,
+          "averageEngagementTimePerSession": 5.0
+        }
+      ],
+      "ga4Countries": [
+        {
+          "country": "United States",
+          "sessions": 11,
+          "totalUsers": 9,
+          "engagedSessions": 5,
+          "averageEngagementTimePerSession": 0.0
+        },
+        {
+          "country": "China",
+          "sessions": 4,
+          "totalUsers": 3,
+          "engagedSessions": 2,
+          "averageEngagementTimePerSession": 0.0
+        },
+        {
+          "country": "Hong Kong",
+          "sessions": 4,
+          "totalUsers": 1,
+          "engagedSessions": 2,
+          "averageEngagementTimePerSession": 0.0
+        },
+        {
+          "country": "Ireland",
+          "sessions": 3,
+          "totalUsers": 3,
+          "engagedSessions": 0,
+          "averageEngagementTimePerSession": 0.0
+        },
+        {
+          "country": "Iraq",
+          "sessions": 1,
+          "totalUsers": 1,
+          "engagedSessions": 1,
+          "averageEngagementTimePerSession": 0.0
+        },
+        {
+          "country": "Japan",
+          "sessions": 1,
+          "totalUsers": 1,
+          "engagedSessions": 1,
+          "averageEngagementTimePerSession": 0.0
+        },
+        {
+          "country": "Netherlands",
+          "sessions": 1,
+          "totalUsers": 1,
+          "engagedSessions": 0,
+          "averageEngagementTimePerSession": 0.0
+        },
+        {
+          "country": "Singapore",
+          "sessions": 1,
+          "totalUsers": 1,
+          "engagedSessions": 1,
+          "averageEngagementTimePerSession": 0.0
+        },
+        {
+          "country": "Tunisia",
+          "sessions": 1,
+          "totalUsers": 1,
+          "engagedSessions": 0,
+          "averageEngagementTimePerSession": 0.0
+        }
+      ],
+      "countries": [
+        {
+          "clicks": 1,
+          "impressions": 1,
+          "ctr": 100.0,
+          "position": 1.0,
+          "country": "irq"
+        },
+        {
+          "clicks": 0,
+          "impressions": 1,
+          "ctr": 0.0,
+          "position": 10.0,
+          "country": "are"
+        },
+        {
+          "clicks": 0,
+          "impressions": 1,
+          "ctr": 0.0,
+          "position": 5.0,
+          "country": "arg"
+        },
+        {
+          "clicks": 0,
+          "impressions": 1,
+          "ctr": 0.0,
+          "position": 11.0,
+          "country": "aus"
+        },
+        {
+          "clicks": 0,
+          "impressions": 1,
+          "ctr": 0.0,
+          "position": 9.0,
+          "country": "bel"
+        },
+        {
+          "clicks": 0,
+          "impressions": 1,
+          "ctr": 0.0,
+          "position": 16.0,
+          "country": "bgd"
+        },
+        {
+          "clicks": 0,
+          "impressions": 1,
+          "ctr": 0.0,
+          "position": 11.0,
+          "country": "blr"
+        },
+        {
+          "clicks": 0,
+          "impressions": 2,
+          "ctr": 0.0,
+          "position": 137.5,
+          "country": "bra"
+        },
+        {
+          "clicks": 0,
+          "impressions": 1,
+          "ctr": 0.0,
+          "position": 7.0,
+          "country": "brn"
+        },
+        {
+          "clicks": 0,
+          "impressions": 1,
+          "ctr": 0.0,
+          "position": 1.0,
+          "country": "can"
+        },
+        {
+          "clicks": 0,
+          "impressions": 1,
+          "ctr": 0.0,
+          "position": 9.0,
+          "country": "chn"
+        },
+        {
+          "clicks": 0,
+          "impressions": 1,
+          "ctr": 0.0,
+          "position": 2.0,
+          "country": "cze"
+        },
+        {
+          "clicks": 0,
+          "impressions": 1,
+          "ctr": 0.0,
+          "position": 12.0,
+          "country": "deu"
+        },
+        {
+          "clicks": 0,
+          "impressions": 2,
+          "ctr": 0.0,
+          "position": 14.0,
+          "country": "egy"
+        },
+        {
+          "clicks": 0,
+          "impressions": 1,
+          "ctr": 0.0,
+          "position": 11.0,
+          "country": "fin"
+        },
+        {
+          "clicks": 0,
+          "impressions": 1,
+          "ctr": 0.0,
+          "position": 1.0,
+          "country": "fra"
+        },
+        {
+          "clicks": 0,
+          "impressions": 6,
+          "ctr": 0.0,
+          "position": 9.0,
+          "country": "gbr"
+        },
+        {
+          "clicks": 0,
+          "impressions": 1,
+          "ctr": 0.0,
+          "position": 11.0,
+          "country": "geo"
+        },
+        {
+          "clicks": 0,
+          "impressions": 6,
+          "ctr": 0.0,
+          "position": 5.0,
+          "country": "hkg"
+        },
+        {
+          "clicks": 0,
+          "impressions": 5,
+          "ctr": 0.0,
+          "position": 12.6,
+          "country": "idn"
+        },
+        {
+          "clicks": 0,
+          "impressions": 12,
+          "ctr": 0.0,
+          "position": 31.6667,
+          "country": "ind"
+        },
+        {
+          "clicks": 0,
+          "impressions": 2,
+          "ctr": 0.0,
+          "position": 9.5,
+          "country": "ita"
+        },
+        {
+          "clicks": 0,
+          "impressions": 1,
+          "ctr": 0.0,
+          "position": 3.0,
+          "country": "jpn"
+        },
+        {
+          "clicks": 0,
+          "impressions": 2,
+          "ctr": 0.0,
+          "position": 9.0,
+          "country": "ken"
+        },
+        {
+          "clicks": 0,
+          "impressions": 1,
+          "ctr": 0.0,
+          "position": 20.0,
+          "country": "kor"
+        },
+        {
+          "clicks": 0,
+          "impressions": 1,
+          "ctr": 0.0,
+          "position": 16.0,
+          "country": "lka"
+        },
+        {
+          "clicks": 0,
+          "impressions": 5,
+          "ctr": 0.0,
+          "position": 5.8,
+          "country": "nld"
+        },
+        {
+          "clicks": 0,
+          "impressions": 1,
+          "ctr": 0.0,
+          "position": 16.0,
+          "country": "pak"
+        },
+        {
+          "clicks": 0,
+          "impressions": 5,
+          "ctr": 0.0,
+          "position": 8.2,
+          "country": "phl"
+        },
+        {
+          "clicks": 0,
+          "impressions": 2,
+          "ctr": 0.0,
+          "position": 9.5,
+          "country": "pol"
+        },
+        {
+          "clicks": 0,
+          "impressions": 1,
+          "ctr": 0.0,
+          "position": 9.0,
+          "country": "prt"
+        },
+        {
+          "clicks": 0,
+          "impressions": 1,
+          "ctr": 0.0,
+          "position": 20.0,
+          "country": "rou"
+        },
+        {
+          "clicks": 0,
+          "impressions": 1,
+          "ctr": 0.0,
+          "position": 1.0,
+          "country": "rus"
+        },
+        {
+          "clicks": 0,
+          "impressions": 6,
+          "ctr": 0.0,
+          "position": 8.5,
+          "country": "sgp"
+        },
+        {
+          "clicks": 0,
+          "impressions": 1,
+          "ctr": 0.0,
+          "position": 10.0,
+          "country": "som"
+        },
+        {
+          "clicks": 0,
+          "impressions": 1,
+          "ctr": 0.0,
+          "position": 8.0,
+          "country": "srb"
+        },
+        {
+          "clicks": 0,
+          "impressions": 2,
+          "ctr": 0.0,
+          "position": 4.5,
+          "country": "tha"
+        },
+        {
+          "clicks": 0,
+          "impressions": 1,
+          "ctr": 0.0,
+          "position": 7.0,
+          "country": "tkm"
+        },
+        {
+          "clicks": 0,
+          "impressions": 2,
+          "ctr": 0.0,
+          "position": 10.0,
+          "country": "tur"
+        },
+        {
+          "clicks": 0,
+          "impressions": 2,
+          "ctr": 0.0,
+          "position": 14.0,
+          "country": "twn"
+        },
+        {
+          "clicks": 0,
+          "impressions": 2,
+          "ctr": 0.0,
+          "position": 10.0,
+          "country": "ukr"
+        },
+        {
+          "clicks": 0,
+          "impressions": 25,
+          "ctr": 0.0,
+          "position": 13.4,
+          "country": "usa"
+        },
+        {
+          "clicks": 0,
+          "impressions": 6,
+          "ctr": 0.0,
+          "position": 11.1667,
+          "country": "vnm"
+        }
+      ],
+      "gscDaily": [
+        {
+          "clicks": 0,
+          "impressions": 1,
+          "ctr": 0.0,
+          "position": 8.0,
+          "date": "2026-02-01"
+        },
+        {
+          "clicks": 0,
+          "impressions": 10,
+          "ctr": 0.0,
+          "position": 5.5,
+          "date": "2026-02-02"
+        },
+        {
+          "clicks": 0,
+          "impressions": 2,
+          "ctr": 0.0,
+          "position": 5.0,
+          "date": "2026-02-03"
+        },
+        {
+          "clicks": 0,
+          "impressions": 2,
+          "ctr": 0.0,
+          "position": 7.0,
+          "date": "2026-02-04"
+        },
+        {
+          "clicks": 0,
+          "impressions": 3,
+          "ctr": 0.0,
+          "position": 6.3333,
+          "date": "2026-02-05"
+        },
+        {
+          "clicks": 0,
+          "impressions": 2,
+          "ctr": 0.0,
+          "position": 7.0,
+          "date": "2026-02-06"
+        },
+        {
+          "clicks": 0,
+          "impressions": 5,
+          "ctr": 0.0,
+          "position": 63.4,
+          "date": "2026-02-07"
+        },
+        {
+          "clicks": 0,
+          "impressions": 7,
+          "ctr": 0.0,
+          "position": 13.1429,
+          "date": "2026-02-08"
+        },
+        {
+          "clicks": 0,
+          "impressions": 5,
+          "ctr": 0.0,
+          "position": 10.8,
+          "date": "2026-02-09"
+        },
+        {
+          "clicks": 0,
+          "impressions": 3,
+          "ctr": 0.0,
+          "position": 9.3333,
+          "date": "2026-02-10"
+        },
+        {
+          "clicks": 0,
+          "impressions": 2,
+          "ctr": 0.0,
+          "position": 8.5,
+          "date": "2026-02-11"
+        },
+        {
+          "clicks": 0,
+          "impressions": 0,
+          "ctr": 0.0,
+          "position": 0.0,
+          "date": "2026-02-12"
+        },
+        {
+          "clicks": 0,
+          "impressions": 1,
+          "ctr": 0.0,
+          "position": 20.0,
+          "date": "2026-02-13"
+        },
+        {
+          "clicks": 0,
+          "impressions": 3,
+          "ctr": 0.0,
+          "position": 22.0,
+          "date": "2026-02-14"
+        },
+        {
+          "clicks": 0,
+          "impressions": 12,
+          "ctr": 0.0,
+          "position": 17.0833,
+          "date": "2026-02-15"
+        },
+        {
+          "clicks": 0,
+          "impressions": 9,
+          "ctr": 0.0,
+          "position": 10.6667,
+          "date": "2026-02-16"
+        },
+        {
+          "clicks": 0,
+          "impressions": 2,
+          "ctr": 0.0,
+          "position": 13.0,
+          "date": "2026-02-17"
+        },
+        {
+          "clicks": 0,
+          "impressions": 0,
+          "ctr": 0.0,
+          "position": 0.0,
+          "date": "2026-02-18"
+        },
+        {
+          "clicks": 0,
+          "impressions": 0,
+          "ctr": 0.0,
+          "position": 0.0,
+          "date": "2026-02-19"
+        },
+        {
+          "clicks": 0,
+          "impressions": 2,
+          "ctr": 0.0,
+          "position": 11.5,
+          "date": "2026-02-20"
+        },
+        {
+          "clicks": 0,
+          "impressions": 6,
+          "ctr": 0.0,
+          "position": 4.6667,
+          "date": "2026-02-21"
+        },
+        {
+          "clicks": 0,
+          "impressions": 7,
+          "ctr": 0.0,
+          "position": 10.0,
+          "date": "2026-02-22"
+        },
+        {
+          "clicks": 0,
+          "impressions": 3,
+          "ctr": 0.0,
+          "position": 13.3333,
+          "date": "2026-02-23"
+        },
+        {
+          "clicks": 0,
+          "impressions": 1,
+          "ctr": 0.0,
+          "position": 4.0,
+          "date": "2026-02-24"
+        },
+        {
+          "clicks": 1,
+          "impressions": 9,
+          "ctr": 11.1111,
+          "position": 7.3333,
+          "date": "2026-02-25"
+        },
+        {
+          "clicks": 0,
+          "impressions": 4,
+          "ctr": 0.0,
+          "position": 13.25,
+          "date": "2026-02-26"
+        },
+        {
+          "clicks": 0,
+          "impressions": 7,
+          "ctr": 0.0,
+          "position": 5.8571,
+          "date": "2026-02-27"
+        },
+        {
+          "clicks": 0,
+          "impressions": 11,
+          "ctr": 0.0,
+          "position": 31.5455,
+          "date": "2026-02-28"
+        }
+      ],
+      "ga4Daily": [
+        {
+          "date": "20260201",
+          "sessions": 1,
+          "engagedSessions": 1,
+          "totalUsers": 1,
+          "screenPageViews": 2,
+          "averageSessionDuration": 530.481001,
+          "userEngagementDuration": 5,
+          "bounceRate": 0,
+          "keyEvents": 0,
+          "averageEngagementTimePerSession": 5.0
+        },
+        {
+          "date": "20260203",
+          "sessions": 1,
+          "engagedSessions": 1,
+          "totalUsers": 1,
+          "screenPageViews": 1,
+          "averageSessionDuration": 33.217881,
+          "userEngagementDuration": 3,
+          "bounceRate": 0,
+          "keyEvents": 0,
+          "averageEngagementTimePerSession": 3.0
+        },
+        {
+          "date": "20260205",
+          "sessions": 1,
+          "engagedSessions": 1,
+          "totalUsers": 1,
+          "screenPageViews": 2,
+          "averageSessionDuration": 75.444039,
+          "userEngagementDuration": 61,
+          "bounceRate": 0,
+          "keyEvents": 0,
+          "averageEngagementTimePerSession": 61.0
+        },
+        {
+          "date": "20260206",
+          "sessions": 12,
+          "engagedSessions": 3,
+          "totalUsers": 12,
+          "screenPageViews": 12,
+          "averageSessionDuration": 5.900883,
+          "userEngagementDuration": 20,
+          "bounceRate": 0.75,
+          "keyEvents": 0,
+          "averageEngagementTimePerSession": 1.67
+        },
+        {
+          "date": "20260209",
+          "sessions": 3,
+          "engagedSessions": 2,
+          "totalUsers": 2,
+          "screenPageViews": 4,
+          "averageSessionDuration": 597.919899,
+          "userEngagementDuration": 46,
+          "bounceRate": 0.333333,
+          "keyEvents": 0,
+          "averageEngagementTimePerSession": 15.33
+        },
+        {
+          "date": "20260210",
+          "sessions": 1,
+          "engagedSessions": 0,
+          "totalUsers": 1,
+          "screenPageViews": 1,
+          "averageSessionDuration": 5.289656,
+          "userEngagementDuration": 5,
+          "bounceRate": 1,
+          "keyEvents": 0,
+          "averageEngagementTimePerSession": 5.0
+        },
+        {
+          "date": "20260212",
+          "sessions": 1,
+          "engagedSessions": 1,
+          "totalUsers": 1,
+          "screenPageViews": 2,
+          "averageSessionDuration": 55.402836,
+          "userEngagementDuration": 7,
+          "bounceRate": 0,
+          "keyEvents": 0,
+          "averageEngagementTimePerSession": 7.0
+        },
+        {
+          "date": "20260222",
+          "sessions": 1,
+          "engagedSessions": 1,
+          "totalUsers": 1,
+          "screenPageViews": 1,
+          "averageSessionDuration": 76.086865,
+          "userEngagementDuration": 17,
+          "bounceRate": 0,
+          "keyEvents": 0,
+          "averageEngagementTimePerSession": 17.0
+        },
+        {
+          "date": "20260225",
+          "sessions": 1,
+          "engagedSessions": 1,
+          "totalUsers": 1,
+          "screenPageViews": 3,
+          "averageSessionDuration": 159.555552,
+          "userEngagementDuration": 50,
+          "bounceRate": 0,
+          "keyEvents": 0,
+          "averageEngagementTimePerSession": 50.0
+        },
+        {
+          "date": "20260226",
+          "sessions": 2,
+          "engagedSessions": 0,
+          "totalUsers": 1,
+          "screenPageViews": 1,
+          "averageSessionDuration": 2.495377,
+          "userEngagementDuration": 0,
+          "bounceRate": 1,
+          "keyEvents": 0,
+          "averageEngagementTimePerSession": 0.0
+        },
+        {
+          "date": "20260227",
+          "sessions": 2,
+          "engagedSessions": 0,
+          "totalUsers": 1,
+          "screenPageViews": 1,
+          "averageSessionDuration": 0.818773,
+          "userEngagementDuration": 5,
+          "bounceRate": 1,
+          "keyEvents": 0,
+          "averageEngagementTimePerSession": 2.5
+        }
+      ],
+      "pages": [
+        {
+          "page": "https://guogancosmetics.com/",
+          "path": "/",
+          "clicks": 1,
+          "impressions": 14,
+          "ctr": 7.1429,
+          "position": 2.8571,
+          "sessions": 1,
+          "users": 1,
+          "views": 1,
+          "bounceRate": 100.0,
+          "averageSessionDuration": 0.0,
+          "indexVerdict": "NOT_INSPECTED",
+          "coverageState": ""
+        },
+        {
+          "page": "https://guogancosmetics.com/a-practical-guide-to-choosing-private-label-shampoo-suppliers-for-your-brand/",
+          "path": "/a-practical-guide-to-choosing-private-label-shampoo-suppliers-for-your-brand",
+          "clicks": 0,
+          "impressions": 3,
+          "ctr": 0.0,
+          "position": 9.3333,
+          "sessions": 0,
+          "users": 0,
+          "views": 0,
+          "bounceRate": 0.0,
+          "averageSessionDuration": 0.0,
+          "indexVerdict": "NOT_INSPECTED",
+          "coverageState": ""
+        },
+        {
+          "page": "https://guogancosmetics.com/about-us/",
+          "path": "/about-us",
+          "clicks": 0,
+          "impressions": 5,
+          "ctr": 0.0,
+          "position": 31.2,
+          "sessions": 1,
+          "users": 1,
+          "views": 2,
+          "bounceRate": 0.0,
+          "averageSessionDuration": 530.48,
+          "indexVerdict": "NOT_INSPECTED",
+          "coverageState": ""
+        },
+        {
+          "page": "https://guogancosmetics.com/certificates/",
+          "path": "/certificates",
+          "clicks": 0,
+          "impressions": 3,
+          "ctr": 0.0,
+          "position": 4.6667,
+          "sessions": 0,
+          "users": 0,
+          "views": 0,
+          "bounceRate": 0.0,
+          "averageSessionDuration": 0.0,
+          "indexVerdict": "NOT_INSPECTED",
+          "coverageState": ""
+        },
+        {
+          "page": "https://guogancosmetics.com/custom-packaging/",
+          "path": "/custom-packaging",
+          "clicks": 0,
+          "impressions": 2,
+          "ctr": 0.0,
+          "position": 7.0,
+          "sessions": 0,
+          "users": 0,
+          "views": 0,
+          "bounceRate": 0.0,
+          "averageSessionDuration": 0.0,
+          "indexVerdict": "NOT_INSPECTED",
+          "coverageState": ""
+        },
+        {
+          "page": "https://guogancosmetics.com/design-services/",
+          "path": "/design-services",
+          "clicks": 0,
+          "impressions": 2,
+          "ctr": 0.0,
+          "position": 10.0,
+          "sessions": 0,
+          "users": 0,
+          "views": 0,
+          "bounceRate": 0.0,
+          "averageSessionDuration": 0.0,
+          "indexVerdict": "NOT_INSPECTED",
+          "coverageState": ""
+        },
+        {
+          "page": "https://guogancosmetics.com/manufacturer/",
+          "path": "/manufacturer",
+          "clicks": 0,
+          "impressions": 5,
+          "ctr": 0.0,
+          "position": 5.6,
+          "sessions": 0,
+          "users": 0,
+          "views": 0,
+          "bounceRate": 0.0,
+          "averageSessionDuration": 0.0,
+          "indexVerdict": "NOT_INSPECTED",
+          "coverageState": ""
+        },
+        {
+          "page": "https://guogancosmetics.com/pomelo-shampoo-and-the-power-of-natural-innovation/",
+          "path": "/pomelo-shampoo-and-the-power-of-natural-innovation",
+          "clicks": 0,
+          "impressions": 30,
+          "ctr": 0.0,
+          "position": 9.8333,
+          "sessions": 0,
+          "users": 0,
+          "views": 0,
+          "bounceRate": 0.0,
+          "averageSessionDuration": 0.0,
+          "indexVerdict": "NOT_INSPECTED",
+          "coverageState": ""
+        },
+        {
+          "page": "https://guogancosmetics.com/privacy-policy/",
+          "path": "/privacy-policy",
+          "clicks": 0,
+          "impressions": 2,
+          "ctr": 0.0,
+          "position": 9.0,
+          "sessions": 0,
+          "users": 0,
+          "views": 0,
+          "bounceRate": 0.0,
+          "averageSessionDuration": 0.0,
+          "indexVerdict": "NOT_INSPECTED",
+          "coverageState": ""
+        },
+        {
+          "page": "https://guogancosmetics.com/product-category/product/hair-care-series/shampoo-series/",
+          "path": "/product-category/product/hair-care-series/shampoo-series",
+          "clicks": 0,
+          "impressions": 2,
+          "ctr": 0.0,
+          "position": 7.5,
+          "sessions": 0,
+          "users": 0,
+          "views": 0,
+          "bounceRate": 0.0,
+          "averageSessionDuration": 0.0,
+          "indexVerdict": "NOT_INSPECTED",
+          "coverageState": ""
+        },
+        {
+          "page": "https://guogancosmetics.com/product-category/product/hair-care-set-series/",
+          "path": "/product-category/product/hair-care-set-series",
+          "clicks": 0,
+          "impressions": 1,
+          "ctr": 0.0,
+          "position": 4.0,
+          "sessions": 0,
+          "users": 0,
+          "views": 0,
+          "bounceRate": 0.0,
+          "averageSessionDuration": 0.0,
+          "indexVerdict": "NOT_INSPECTED",
+          "coverageState": ""
+        },
+        {
+          "page": "https://guogancosmetics.com/product-category/product/hair-mask-series/",
+          "path": "/product-category/product/hair-mask-series",
+          "clicks": 0,
+          "impressions": 6,
+          "ctr": 0.0,
+          "position": 72.5,
+          "sessions": 0,
+          "users": 0,
+          "views": 0,
+          "bounceRate": 0.0,
+          "averageSessionDuration": 0.0,
+          "indexVerdict": "NOT_INSPECTED",
+          "coverageState": ""
+        },
+        {
+          "page": "https://guogancosmetics.com/product-category/product/in-stock/",
+          "path": "/product-category/product/in-stock",
+          "clicks": 0,
+          "impressions": 1,
+          "ctr": 0.0,
+          "position": 5.0,
+          "sessions": 0,
+          "users": 0,
+          "views": 0,
+          "bounceRate": 0.0,
+          "averageSessionDuration": 0.0,
+          "indexVerdict": "NOT_INSPECTED",
+          "coverageState": ""
+        },
+        {
+          "page": "https://guogancosmetics.com/product-tag/caviar-hair-conditioner/",
+          "path": "/product-tag/caviar-hair-conditioner",
+          "clicks": 0,
+          "impressions": 2,
+          "ctr": 0.0,
+          "position": 5.5,
+          "sessions": 0,
+          "users": 0,
+          "views": 0,
+          "bounceRate": 0.0,
+          "averageSessionDuration": 0.0,
+          "indexVerdict": "NOT_INSPECTED",
+          "coverageState": ""
+        },
+        {
+          "page": "https://guogancosmetics.com/product/argan-oil-hair-mask/",
+          "path": "/product/argan-oil-hair-mask",
+          "clicks": 0,
+          "impressions": 2,
+          "ctr": 0.0,
+          "position": 7.5,
+          "sessions": 0,
+          "users": 0,
+          "views": 0,
+          "bounceRate": 0.0,
+          "averageSessionDuration": 0.0,
+          "indexVerdict": "NOT_INSPECTED",
+          "coverageState": ""
+        },
+        {
+          "page": "https://guogancosmetics.com/product/caviar-hair-conditioner/",
+          "path": "/product/caviar-hair-conditioner",
+          "clicks": 0,
+          "impressions": 11,
+          "ctr": 0.0,
+          "position": 12.1818,
+          "sessions": 0,
+          "users": 0,
+          "views": 0,
+          "bounceRate": 0.0,
+          "averageSessionDuration": 0.0,
+          "indexVerdict": "NOT_INSPECTED",
+          "coverageState": ""
+        },
+        {
+          "page": "https://guogancosmetics.com/product/keratin-hair-mask/",
+          "path": "/product/keratin-hair-mask",
+          "clicks": 0,
+          "impressions": 1,
+          "ctr": 0.0,
+          "position": 8.0,
+          "sessions": 0,
+          "users": 0,
+          "views": 0,
+          "bounceRate": 0.0,
+          "averageSessionDuration": 0.0,
+          "indexVerdict": "NOT_INSPECTED",
+          "coverageState": ""
+        },
+        {
+          "page": "https://guogancosmetics.com/product/morocco-argan-oil-hair-conditioner/",
+          "path": "/product/morocco-argan-oil-hair-conditioner",
+          "clicks": 0,
+          "impressions": 4,
+          "ctr": 0.0,
+          "position": 19.0,
+          "sessions": 0,
+          "users": 0,
+          "views": 0,
+          "bounceRate": 0.0,
+          "averageSessionDuration": 0.0,
+          "indexVerdict": "NOT_INSPECTED",
+          "coverageState": ""
+        },
+        {
+          "page": "https://guogancosmetics.com/product/morocco-argan-oil-shampoo/",
+          "path": "/product/morocco-argan-oil-shampoo",
+          "clicks": 0,
+          "impressions": 1,
+          "ctr": 0.0,
+          "position": 10.0,
+          "sessions": 0,
+          "users": 0,
+          "views": 0,
+          "bounceRate": 0.0,
+          "averageSessionDuration": 0.0,
+          "indexVerdict": "NOT_INSPECTED",
+          "coverageState": ""
+        },
+        {
+          "page": "https://guogancosmetics.com/product/pomelo-hair-conditioner/",
+          "path": "/product/pomelo-hair-conditioner",
+          "clicks": 0,
+          "impressions": 1,
+          "ctr": 0.0,
+          "position": 7.0,
+          "sessions": 0,
+          "users": 0,
+          "views": 0,
+          "bounceRate": 0.0,
+          "averageSessionDuration": 0.0,
+          "indexVerdict": "NOT_INSPECTED",
+          "coverageState": ""
+        },
+        {
+          "page": "https://guogancosmetics.com/product/pomelo-hair-mask/",
+          "path": "/product/pomelo-hair-mask",
+          "clicks": 0,
+          "impressions": 14,
+          "ctr": 0.0,
+          "position": 8.2857,
+          "sessions": 0,
+          "users": 0,
+          "views": 0,
+          "bounceRate": 0.0,
+          "averageSessionDuration": 0.0,
+          "indexVerdict": "NOT_INSPECTED",
+          "coverageState": ""
+        },
+        {
+          "page": "https://guogancosmetics.com/product/pomelo-shower-gel/",
+          "path": "/product/pomelo-shower-gel",
+          "clicks": 0,
+          "impressions": 3,
+          "ctr": 0.0,
+          "position": 8.3333,
+          "sessions": 0,
+          "users": 0,
+          "views": 0,
+          "bounceRate": 0.0,
+          "averageSessionDuration": 0.0,
+          "indexVerdict": "NOT_INSPECTED",
+          "coverageState": ""
+        },
+        {
+          "page": "https://guogancosmetics.com/product/smooth-anti-dandruff-shampoo/",
+          "path": "/product/smooth-anti-dandruff-shampoo",
+          "clicks": 0,
+          "impressions": 3,
+          "ctr": 0.0,
+          "position": 7.0,
+          "sessions": 0,
+          "users": 0,
+          "views": 0,
+          "bounceRate": 0.0,
+          "averageSessionDuration": 0.0,
+          "indexVerdict": "NOT_INSPECTED",
+          "coverageState": ""
+        },
+        {
+          "page": "https://guogancosmetics.com/production/",
+          "path": "/production",
+          "clicks": 0,
+          "impressions": 2,
+          "ctr": 0.0,
+          "position": 4.0,
+          "sessions": 0,
+          "users": 0,
+          "views": 0,
+          "bounceRate": 0.0,
+          "averageSessionDuration": 0.0,
+          "indexVerdict": "NOT_INSPECTED",
+          "coverageState": ""
+        },
+        {
+          "page": "https://guogancosmetics.com/shop/",
+          "path": "/shop",
+          "clicks": 0,
+          "impressions": 17,
+          "ctr": 0.0,
+          "position": 10.9412,
+          "sessions": 0,
+          "users": 0,
+          "views": 0,
+          "bounceRate": 0.0,
+          "averageSessionDuration": 0.0,
+          "indexVerdict": "NOT_INSPECTED",
+          "coverageState": ""
+        },
+        {
+          "page": "https://guogancosmetics.com/tea-tree-hair-conditioner-the-best-choice-for-a-refreshing-scalp/",
+          "path": "/tea-tree-hair-conditioner-the-best-choice-for-a-refreshing-scalp",
+          "clicks": 0,
+          "impressions": 1,
+          "ctr": 0.0,
+          "position": 1.0,
+          "sessions": 0,
+          "users": 0,
+          "views": 0,
+          "bounceRate": 0.0,
+          "averageSessionDuration": 0.0,
+          "indexVerdict": "NOT_INSPECTED",
+          "coverageState": ""
+        },
+        {
+          "page": "https://guogancosmetics.com/trade-shows/",
+          "path": "/trade-shows",
+          "clicks": 0,
+          "impressions": 3,
+          "ctr": 0.0,
+          "position": 6.6667,
+          "sessions": 0,
+          "users": 0,
+          "views": 0,
+          "bounceRate": 0.0,
+          "averageSessionDuration": 0.0,
+          "indexVerdict": "NOT_INSPECTED",
+          "coverageState": ""
+        },
+        {
+          "page": "https://guogancosmetics.com/why-sulfate-free-shampoo-for-curly-hair-is-essential-for-healthy-curls/",
+          "path": "/why-sulfate-free-shampoo-for-curly-hair-is-essential-for-healthy-curls",
+          "clicks": 0,
+          "impressions": 7,
+          "ctr": 0.0,
+          "position": 26.2857,
+          "sessions": 1,
+          "users": 1,
+          "views": 1,
+          "bounceRate": 100.0,
+          "averageSessionDuration": 0.0,
+          "indexVerdict": "NOT_INSPECTED",
+          "coverageState": ""
+        },
+        {
+          "page": "https://guogancosmetics.com/why-sulfate-free-shampoo-for-curly-hair-is-essential-for-healthy-curls/5/",
+          "path": "/why-sulfate-free-shampoo-for-curly-hair-is-essential-for-healthy-curls/5",
+          "clicks": 0,
+          "impressions": 3,
+          "ctr": 0.0,
+          "position": 96.0,
+          "sessions": 0,
+          "users": 0,
+          "views": 0,
+          "bounceRate": 0.0,
+          "averageSessionDuration": 0.0,
+          "indexVerdict": "NOT_INSPECTED",
+          "coverageState": ""
+        }
+      ],
+      "recommendations": [
+        {
+          "type": "体验",
+          "target": "/",
+          "text": "排名靠前但跳出率高，建议优化内容匹配度、首屏信息与内部链接。"
+        },
+        {
+          "type": "点击率",
+          "target": "/pomelo-shampoo-and-the-power-of-natural-innovation",
+          "text": "曝光较高但点击率低，建议优化标题、描述和搜索意图匹配。"
+        }
+      ]
+    }
+  ],
+  "quarterComparison": {
+    "current": {
+      "months": [
+        "2026-02"
+      ],
+      "metrics": {
+        "clicks": 1.0,
+        "impressions": 119.0,
+        "ctr": 0.8403,
+        "averagePosition": 14.39,
+        "sessions": 26.0,
+        "bounceRate": 57.69,
+        "averageSessionDuration": 107.95
+      }
+    },
+    "previous": null
+  },
+  "report": {
+    "type": "monthly",
+    "typeLabel": "月度报告",
+    "label": "2026-02",
+    "domain": "guogancosmetics.com",
+    "rangeLabel": "2026-02",
+    "selectedMonths": [
+      "2026-02"
+    ],
+    "comparison": {
+      "label": "上月（2026-01）",
+      "available": false,
+      "baseline": true,
+      "clickDelta": 0,
+      "ctrDelta": 0,
+      "rankDelta": 0
+    }
+  }
+}
