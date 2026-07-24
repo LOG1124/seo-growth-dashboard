@@ -1,0 +1,1007 @@
+{
+  "source": "Google Search Console + Google Analytics 4",
+  "months": [
+    {
+      "label": "2026-03",
+      "period": [
+        "2026-03-01",
+        "2026-03-31"
+      ],
+      "metrics": {
+        "clicks": 5,
+        "impressions": 102,
+        "ctr": 4.9,
+        "averagePosition": 7.07,
+        "totalUsers": 48,
+        "pageViews": 775,
+        "sessions": 176,
+        "averageSessionDuration": 816.31,
+        "averageEngagementTimePerSession": 105.33,
+        "bounceRate": 36.36,
+        "keyEvents": 0,
+        "indexedPages": 0,
+        "inspectedPages": 0
+      },
+      "keywords": [
+        {
+          "clicks": 0,
+          "impressions": 3,
+          "ctr": 0.0,
+          "position": 7.0,
+          "query": "tech master air suspension",
+          "positionChange": null
+        },
+        {
+          "clicks": 0,
+          "impressions": 1,
+          "ctr": 0.0,
+          "position": 11.0,
+          "query": "tech master auto repair",
+          "positionChange": null
+        }
+      ],
+      "channels": [
+        {
+          "sessionDefaultChannelGroup": "Direct",
+          "sessions": 163,
+          "engagedSessions": 105,
+          "totalUsers": 40,
+          "screenPageViews": 732,
+          "averageSessionDuration": 830.083983,
+          "userEngagementDuration": 16649,
+          "bounceRate": 0.355828,
+          "keyEvents": 0,
+          "averageEngagementTimePerSession": 102.14
+        },
+        {
+          "sessionDefaultChannelGroup": "Organic Search",
+          "sessions": 9,
+          "engagedSessions": 5,
+          "totalUsers": 5,
+          "screenPageViews": 38,
+          "averageSessionDuration": 791.635339,
+          "userEngagementDuration": 1794,
+          "bounceRate": 0.444444,
+          "keyEvents": 0,
+          "averageEngagementTimePerSession": 199.33
+        },
+        {
+          "sessionDefaultChannelGroup": "Organic Social",
+          "sessions": 2,
+          "engagedSessions": 1,
+          "totalUsers": 2,
+          "screenPageViews": 3,
+          "averageSessionDuration": 579.932939,
+          "userEngagementDuration": 13,
+          "bounceRate": 0.5,
+          "keyEvents": 0,
+          "averageEngagementTimePerSession": 6.5
+        },
+        {
+          "sessionDefaultChannelGroup": "Referral",
+          "sessions": 1,
+          "engagedSessions": 1,
+          "totalUsers": 1,
+          "screenPageViews": 2,
+          "averageSessionDuration": 82.449653,
+          "userEngagementDuration": 76,
+          "bounceRate": 0,
+          "keyEvents": 0,
+          "averageEngagementTimePerSession": 76.0
+        },
+        {
+          "sessionDefaultChannelGroup": "Unassigned",
+          "sessions": 1,
+          "engagedSessions": 0,
+          "totalUsers": 1,
+          "screenPageViews": 0,
+          "averageSessionDuration": 0,
+          "userEngagementDuration": 6,
+          "bounceRate": 1,
+          "keyEvents": 0,
+          "averageEngagementTimePerSession": 6.0
+        }
+      ],
+      "sources": [
+        {
+          "sessionSource": "(direct)",
+          "sessions": 163,
+          "engagedSessions": 105,
+          "totalUsers": 40,
+          "screenPageViews": 732,
+          "averageSessionDuration": 830.083983,
+          "userEngagementDuration": 16649,
+          "bounceRate": 0.355828,
+          "keyEvents": 0,
+          "averageEngagementTimePerSession": 102.14
+        },
+        {
+          "sessionSource": "google",
+          "sessions": 6,
+          "engagedSessions": 3,
+          "totalUsers": 4,
+          "screenPageViews": 27,
+          "averageSessionDuration": 947.281647,
+          "userEngagementDuration": 365,
+          "bounceRate": 0.5,
+          "keyEvents": 0,
+          "averageEngagementTimePerSession": 60.83
+        },
+        {
+          "sessionSource": "bing",
+          "sessions": 3,
+          "engagedSessions": 2,
+          "totalUsers": 1,
+          "screenPageViews": 11,
+          "averageSessionDuration": 480.342722,
+          "userEngagementDuration": 1429,
+          "bounceRate": 0.333333,
+          "keyEvents": 0,
+          "averageEngagementTimePerSession": 476.33
+        },
+        {
+          "sessionSource": "l.facebook.com",
+          "sessions": 2,
+          "engagedSessions": 1,
+          "totalUsers": 2,
+          "screenPageViews": 3,
+          "averageSessionDuration": 579.932939,
+          "userEngagementDuration": 13,
+          "bounceRate": 0.5,
+          "keyEvents": 0,
+          "averageEngagementTimePerSession": 6.5
+        },
+        {
+          "sessionSource": "(not set)",
+          "sessions": 1,
+          "engagedSessions": 0,
+          "totalUsers": 1,
+          "screenPageViews": 0,
+          "averageSessionDuration": 0,
+          "userEngagementDuration": 6,
+          "bounceRate": 1,
+          "keyEvents": 0,
+          "averageEngagementTimePerSession": 6.0
+        },
+        {
+          "sessionSource": "aisearchindex.space",
+          "sessions": 1,
+          "engagedSessions": 1,
+          "totalUsers": 1,
+          "screenPageViews": 2,
+          "averageSessionDuration": 82.449653,
+          "userEngagementDuration": 76,
+          "bounceRate": 0,
+          "keyEvents": 0,
+          "averageEngagementTimePerSession": 76.0
+        }
+      ],
+      "ga4Countries": [
+        {
+          "country": "China",
+          "sessions": 82,
+          "totalUsers": 22,
+          "engagedSessions": 50,
+          "averageEngagementTimePerSession": 0.0
+        },
+        {
+          "country": "Hong Kong",
+          "sessions": 69,
+          "totalUsers": 7,
+          "engagedSessions": 53,
+          "averageEngagementTimePerSession": 0.0
+        },
+        {
+          "country": "United States",
+          "sessions": 10,
+          "totalUsers": 8,
+          "engagedSessions": 4,
+          "averageEngagementTimePerSession": 0.0
+        },
+        {
+          "country": "United Arab Emirates",
+          "sessions": 4,
+          "totalUsers": 2,
+          "engagedSessions": 1,
+          "averageEngagementTimePerSession": 0.0
+        },
+        {
+          "country": "Malaysia",
+          "sessions": 3,
+          "totalUsers": 1,
+          "engagedSessions": 2,
+          "averageEngagementTimePerSession": 0.0
+        },
+        {
+          "country": "Singapore",
+          "sessions": 3,
+          "totalUsers": 2,
+          "engagedSessions": 2,
+          "averageEngagementTimePerSession": 0.0
+        },
+        {
+          "country": "Taiwan",
+          "sessions": 3,
+          "totalUsers": 3,
+          "engagedSessions": 3,
+          "averageEngagementTimePerSession": 0.0
+        },
+        {
+          "country": "(not set)",
+          "sessions": 2,
+          "totalUsers": 2,
+          "engagedSessions": 0,
+          "averageEngagementTimePerSession": 0.0
+        },
+        {
+          "country": "South Africa",
+          "sessions": 2,
+          "totalUsers": 2,
+          "engagedSessions": 0,
+          "averageEngagementTimePerSession": 0.0
+        },
+        {
+          "country": "Germany",
+          "sessions": 1,
+          "totalUsers": 1,
+          "engagedSessions": 0,
+          "averageEngagementTimePerSession": 0.0
+        },
+        {
+          "country": "Poland",
+          "sessions": 1,
+          "totalUsers": 1,
+          "engagedSessions": 1,
+          "averageEngagementTimePerSession": 0.0
+        },
+        {
+          "country": "Russia",
+          "sessions": 1,
+          "totalUsers": 1,
+          "engagedSessions": 1,
+          "averageEngagementTimePerSession": 0.0
+        }
+      ],
+      "countries": [
+        {
+          "clicks": 3,
+          "impressions": 9,
+          "ctr": 33.3333,
+          "position": 5.2222,
+          "country": "chn"
+        },
+        {
+          "clicks": 1,
+          "impressions": 1,
+          "ctr": 100.0,
+          "position": 2.0,
+          "country": "are"
+        },
+        {
+          "clicks": 1,
+          "impressions": 3,
+          "ctr": 33.3333,
+          "position": 5.3333,
+          "country": "zaf"
+        },
+        {
+          "clicks": 0,
+          "impressions": 2,
+          "ctr": 0.0,
+          "position": 5.5,
+          "country": "arg"
+        },
+        {
+          "clicks": 0,
+          "impressions": 1,
+          "ctr": 0.0,
+          "position": 10.0,
+          "country": "arm"
+        },
+        {
+          "clicks": 0,
+          "impressions": 6,
+          "ctr": 0.0,
+          "position": 4.5,
+          "country": "aus"
+        },
+        {
+          "clicks": 0,
+          "impressions": 3,
+          "ctr": 0.0,
+          "position": 4.6667,
+          "country": "bra"
+        },
+        {
+          "clicks": 0,
+          "impressions": 2,
+          "ctr": 0.0,
+          "position": 8.0,
+          "country": "can"
+        },
+        {
+          "clicks": 0,
+          "impressions": 1,
+          "ctr": 0.0,
+          "position": 6.0,
+          "country": "cub"
+        },
+        {
+          "clicks": 0,
+          "impressions": 1,
+          "ctr": 0.0,
+          "position": 8.0,
+          "country": "cyp"
+        },
+        {
+          "clicks": 0,
+          "impressions": 2,
+          "ctr": 0.0,
+          "position": 4.0,
+          "country": "deu"
+        },
+        {
+          "clicks": 0,
+          "impressions": 1,
+          "ctr": 0.0,
+          "position": 7.0,
+          "country": "esp"
+        },
+        {
+          "clicks": 0,
+          "impressions": 1,
+          "ctr": 0.0,
+          "position": 5.0,
+          "country": "gbr"
+        },
+        {
+          "clicks": 0,
+          "impressions": 1,
+          "ctr": 0.0,
+          "position": 9.0,
+          "country": "hkg"
+        },
+        {
+          "clicks": 0,
+          "impressions": 1,
+          "ctr": 0.0,
+          "position": 16.0,
+          "country": "hnd"
+        },
+        {
+          "clicks": 0,
+          "impressions": 3,
+          "ctr": 0.0,
+          "position": 4.0,
+          "country": "idn"
+        },
+        {
+          "clicks": 0,
+          "impressions": 5,
+          "ctr": 0.0,
+          "position": 8.0,
+          "country": "ind"
+        },
+        {
+          "clicks": 0,
+          "impressions": 1,
+          "ctr": 0.0,
+          "position": 19.0,
+          "country": "isr"
+        },
+        {
+          "clicks": 0,
+          "impressions": 1,
+          "ctr": 0.0,
+          "position": 17.0,
+          "country": "kor"
+        },
+        {
+          "clicks": 0,
+          "impressions": 1,
+          "ctr": 0.0,
+          "position": 6.0,
+          "country": "lbn"
+        },
+        {
+          "clicks": 0,
+          "impressions": 1,
+          "ctr": 0.0,
+          "position": 2.0,
+          "country": "lka"
+        },
+        {
+          "clicks": 0,
+          "impressions": 2,
+          "ctr": 0.0,
+          "position": 7.5,
+          "country": "mar"
+        },
+        {
+          "clicks": 0,
+          "impressions": 2,
+          "ctr": 0.0,
+          "position": 13.5,
+          "country": "mex"
+        },
+        {
+          "clicks": 0,
+          "impressions": 2,
+          "ctr": 0.0,
+          "position": 6.0,
+          "country": "mys"
+        },
+        {
+          "clicks": 0,
+          "impressions": 2,
+          "ctr": 0.0,
+          "position": 8.0,
+          "country": "nld"
+        },
+        {
+          "clicks": 0,
+          "impressions": 1,
+          "ctr": 0.0,
+          "position": 7.0,
+          "country": "pak"
+        },
+        {
+          "clicks": 0,
+          "impressions": 1,
+          "ctr": 0.0,
+          "position": 4.0,
+          "country": "per"
+        },
+        {
+          "clicks": 0,
+          "impressions": 1,
+          "ctr": 0.0,
+          "position": 7.0,
+          "country": "prt"
+        },
+        {
+          "clicks": 0,
+          "impressions": 3,
+          "ctr": 0.0,
+          "position": 4.6667,
+          "country": "qat"
+        },
+        {
+          "clicks": 0,
+          "impressions": 4,
+          "ctr": 0.0,
+          "position": 10.75,
+          "country": "rus"
+        },
+        {
+          "clicks": 0,
+          "impressions": 1,
+          "ctr": 0.0,
+          "position": 7.0,
+          "country": "sau"
+        },
+        {
+          "clicks": 0,
+          "impressions": 1,
+          "ctr": 0.0,
+          "position": 4.0,
+          "country": "svn"
+        },
+        {
+          "clicks": 0,
+          "impressions": 2,
+          "ctr": 0.0,
+          "position": 5.5,
+          "country": "swe"
+        },
+        {
+          "clicks": 0,
+          "impressions": 2,
+          "ctr": 0.0,
+          "position": 3.5,
+          "country": "tur"
+        },
+        {
+          "clicks": 0,
+          "impressions": 3,
+          "ctr": 0.0,
+          "position": 8.3333,
+          "country": "twn"
+        },
+        {
+          "clicks": 0,
+          "impressions": 26,
+          "ctr": 0.0,
+          "position": 8.0385,
+          "country": "usa"
+        },
+        {
+          "clicks": 0,
+          "impressions": 2,
+          "ctr": 0.0,
+          "position": 7.5,
+          "country": "vnm"
+        }
+      ],
+      "gscDaily": [
+        {
+          "clicks": 0,
+          "impressions": 2,
+          "ctr": 0.0,
+          "position": 2.0,
+          "date": "2026-03-12"
+        },
+        {
+          "clicks": 0,
+          "impressions": 1,
+          "ctr": 0.0,
+          "position": 3.0,
+          "date": "2026-03-13"
+        },
+        {
+          "clicks": 0,
+          "impressions": 8,
+          "ctr": 0.0,
+          "position": 4.875,
+          "date": "2026-03-14"
+        },
+        {
+          "clicks": 0,
+          "impressions": 3,
+          "ctr": 0.0,
+          "position": 7.6667,
+          "date": "2026-03-15"
+        },
+        {
+          "clicks": 0,
+          "impressions": 3,
+          "ctr": 0.0,
+          "position": 7.0,
+          "date": "2026-03-16"
+        },
+        {
+          "clicks": 0,
+          "impressions": 8,
+          "ctr": 0.0,
+          "position": 8.625,
+          "date": "2026-03-17"
+        },
+        {
+          "clicks": 1,
+          "impressions": 8,
+          "ctr": 12.5,
+          "position": 5.625,
+          "date": "2026-03-18"
+        },
+        {
+          "clicks": 0,
+          "impressions": 7,
+          "ctr": 0.0,
+          "position": 7.2857,
+          "date": "2026-03-19"
+        },
+        {
+          "clicks": 0,
+          "impressions": 3,
+          "ctr": 0.0,
+          "position": 13.3333,
+          "date": "2026-03-20"
+        },
+        {
+          "clicks": 0,
+          "impressions": 3,
+          "ctr": 0.0,
+          "position": 16.3333,
+          "date": "2026-03-21"
+        },
+        {
+          "clicks": 0,
+          "impressions": 4,
+          "ctr": 0.0,
+          "position": 5.25,
+          "date": "2026-03-22"
+        },
+        {
+          "clicks": 2,
+          "impressions": 3,
+          "ctr": 66.6667,
+          "position": 1.0,
+          "date": "2026-03-23"
+        },
+        {
+          "clicks": 0,
+          "impressions": 7,
+          "ctr": 0.0,
+          "position": 8.0,
+          "date": "2026-03-24"
+        },
+        {
+          "clicks": 1,
+          "impressions": 11,
+          "ctr": 9.0909,
+          "position": 8.4545,
+          "date": "2026-03-25"
+        },
+        {
+          "clicks": 1,
+          "impressions": 5,
+          "ctr": 20.0,
+          "position": 4.4,
+          "date": "2026-03-26"
+        },
+        {
+          "clicks": 0,
+          "impressions": 5,
+          "ctr": 0.0,
+          "position": 3.4,
+          "date": "2026-03-27"
+        },
+        {
+          "clicks": 0,
+          "impressions": 7,
+          "ctr": 0.0,
+          "position": 11.4286,
+          "date": "2026-03-28"
+        },
+        {
+          "clicks": 0,
+          "impressions": 1,
+          "ctr": 0.0,
+          "position": 9.0,
+          "date": "2026-03-29"
+        },
+        {
+          "clicks": 0,
+          "impressions": 7,
+          "ctr": 0.0,
+          "position": 6.1429,
+          "date": "2026-03-30"
+        },
+        {
+          "clicks": 0,
+          "impressions": 6,
+          "ctr": 0.0,
+          "position": 5.5,
+          "date": "2026-03-31"
+        }
+      ],
+      "ga4Daily": [
+        {
+          "date": "20260313",
+          "sessions": 18,
+          "engagedSessions": 9,
+          "totalUsers": 11,
+          "screenPageViews": 36,
+          "averageSessionDuration": 184.936906,
+          "userEngagementDuration": 602,
+          "bounceRate": 0.5,
+          "keyEvents": 0,
+          "averageEngagementTimePerSession": 33.44
+        },
+        {
+          "date": "20260314",
+          "sessions": 4,
+          "engagedSessions": 1,
+          "totalUsers": 4,
+          "screenPageViews": 4,
+          "averageSessionDuration": 6.836672,
+          "userEngagementDuration": 21,
+          "bounceRate": 0.75,
+          "keyEvents": 0,
+          "averageEngagementTimePerSession": 5.25
+        },
+        {
+          "date": "20260316",
+          "sessions": 6,
+          "engagedSessions": 2,
+          "totalUsers": 4,
+          "screenPageViews": 11,
+          "averageSessionDuration": 471.40232,
+          "userEngagementDuration": 326,
+          "bounceRate": 0.666667,
+          "keyEvents": 0,
+          "averageEngagementTimePerSession": 54.33
+        },
+        {
+          "date": "20260317",
+          "sessions": 30,
+          "engagedSessions": 17,
+          "totalUsers": 13,
+          "screenPageViews": 106,
+          "averageSessionDuration": 701.037367,
+          "userEngagementDuration": 3360,
+          "bounceRate": 0.433333,
+          "keyEvents": 0,
+          "averageEngagementTimePerSession": 112.0
+        },
+        {
+          "date": "20260318",
+          "sessions": 2,
+          "engagedSessions": 1,
+          "totalUsers": 2,
+          "screenPageViews": 5,
+          "averageSessionDuration": 318.320931,
+          "userEngagementDuration": 77,
+          "bounceRate": 0.5,
+          "keyEvents": 0,
+          "averageEngagementTimePerSession": 38.5
+        },
+        {
+          "date": "20260319",
+          "sessions": 9,
+          "engagedSessions": 8,
+          "totalUsers": 5,
+          "screenPageViews": 44,
+          "averageSessionDuration": 1597.429324,
+          "userEngagementDuration": 2294,
+          "bounceRate": 0.111111,
+          "keyEvents": 0,
+          "averageEngagementTimePerSession": 254.89
+        },
+        {
+          "date": "20260320",
+          "sessions": 7,
+          "engagedSessions": 5,
+          "totalUsers": 3,
+          "screenPageViews": 23,
+          "averageSessionDuration": 568.638849,
+          "userEngagementDuration": 663,
+          "bounceRate": 0.285714,
+          "keyEvents": 0,
+          "averageEngagementTimePerSession": 94.71
+        },
+        {
+          "date": "20260321",
+          "sessions": 2,
+          "engagedSessions": 1,
+          "totalUsers": 2,
+          "screenPageViews": 17,
+          "averageSessionDuration": 1646.214269,
+          "userEngagementDuration": 860,
+          "bounceRate": 0.5,
+          "keyEvents": 0,
+          "averageEngagementTimePerSession": 430.0
+        },
+        {
+          "date": "20260323",
+          "sessions": 10,
+          "engagedSessions": 5,
+          "totalUsers": 4,
+          "screenPageViews": 95,
+          "averageSessionDuration": 934.82124,
+          "userEngagementDuration": 1461,
+          "bounceRate": 0.5,
+          "keyEvents": 0,
+          "averageEngagementTimePerSession": 146.1
+        },
+        {
+          "date": "20260324",
+          "sessions": 16,
+          "engagedSessions": 12,
+          "totalUsers": 9,
+          "screenPageViews": 104,
+          "averageSessionDuration": 1250.270027,
+          "userEngagementDuration": 2094,
+          "bounceRate": 0.25,
+          "keyEvents": 0,
+          "averageEngagementTimePerSession": 130.88
+        },
+        {
+          "date": "20260325",
+          "sessions": 16,
+          "engagedSessions": 8,
+          "totalUsers": 7,
+          "screenPageViews": 68,
+          "averageSessionDuration": 1188.221075,
+          "userEngagementDuration": 1630,
+          "bounceRate": 0.5,
+          "keyEvents": 0,
+          "averageEngagementTimePerSession": 101.88
+        },
+        {
+          "date": "20260326",
+          "sessions": 23,
+          "engagedSessions": 20,
+          "totalUsers": 12,
+          "screenPageViews": 161,
+          "averageSessionDuration": 1217.091412,
+          "userEngagementDuration": 3449,
+          "bounceRate": 0.130435,
+          "keyEvents": 0,
+          "averageEngagementTimePerSession": 149.96
+        },
+        {
+          "date": "20260327",
+          "sessions": 13,
+          "engagedSessions": 9,
+          "totalUsers": 9,
+          "screenPageViews": 18,
+          "averageSessionDuration": 152.454452,
+          "userEngagementDuration": 310,
+          "bounceRate": 0.307692,
+          "keyEvents": 0,
+          "averageEngagementTimePerSession": 23.85
+        },
+        {
+          "date": "20260328",
+          "sessions": 2,
+          "engagedSessions": 2,
+          "totalUsers": 2,
+          "screenPageViews": 3,
+          "averageSessionDuration": 55.058307,
+          "userEngagementDuration": 103,
+          "bounceRate": 0,
+          "keyEvents": 0,
+          "averageEngagementTimePerSession": 51.5
+        },
+        {
+          "date": "20260330",
+          "sessions": 12,
+          "engagedSessions": 6,
+          "totalUsers": 8,
+          "screenPageViews": 17,
+          "averageSessionDuration": 629.952575,
+          "userEngagementDuration": 213,
+          "bounceRate": 0.5,
+          "keyEvents": 0,
+          "averageEngagementTimePerSession": 17.75
+        },
+        {
+          "date": "20260331",
+          "sessions": 6,
+          "engagedSessions": 6,
+          "totalUsers": 4,
+          "screenPageViews": 63,
+          "averageSessionDuration": 1359.990465,
+          "userEngagementDuration": 1075,
+          "bounceRate": 0,
+          "keyEvents": 0,
+          "averageEngagementTimePerSession": 179.17
+        }
+      ],
+      "pages": [
+        {
+          "page": "https://techmastersuspension.com/",
+          "path": "/",
+          "clicks": 4,
+          "impressions": 80,
+          "ctr": 5.0,
+          "position": 7.1,
+          "sessions": 1,
+          "users": 1,
+          "views": 3,
+          "bounceRate": 0.0,
+          "averageSessionDuration": 58.96,
+          "indexVerdict": "NOT_INSPECTED",
+          "coverageState": ""
+        },
+        {
+          "page": "https://techmastersuspension.com/pt/",
+          "path": "/pt",
+          "clicks": 1,
+          "impressions": 17,
+          "ctr": 5.8824,
+          "position": 5.8235,
+          "sessions": 2,
+          "users": 1,
+          "views": 2,
+          "bounceRate": 50.0,
+          "averageSessionDuration": 12.29,
+          "indexVerdict": "NOT_INSPECTED",
+          "coverageState": ""
+        },
+        {
+          "page": "https://techmastersuspension.com/ar/",
+          "path": "/ar",
+          "clicks": 0,
+          "impressions": 8,
+          "ctr": 0.0,
+          "position": 6.5,
+          "sessions": 0,
+          "users": 0,
+          "views": 0,
+          "bounceRate": 0.0,
+          "averageSessionDuration": 0.0,
+          "indexVerdict": "NOT_INSPECTED",
+          "coverageState": ""
+        },
+        {
+          "page": "https://techmastersuspension.com/es/",
+          "path": "/es",
+          "clicks": 0,
+          "impressions": 2,
+          "ctr": 0.0,
+          "position": 4.0,
+          "sessions": 0,
+          "users": 0,
+          "views": 0,
+          "bounceRate": 0.0,
+          "averageSessionDuration": 0.0,
+          "indexVerdict": "NOT_INSPECTED",
+          "coverageState": ""
+        },
+        {
+          "page": "https://techmastersuspension.com/fr/",
+          "path": "/fr",
+          "clicks": 0,
+          "impressions": 4,
+          "ctr": 0.0,
+          "position": 6.0,
+          "sessions": 0,
+          "users": 0,
+          "views": 0,
+          "bounceRate": 0.0,
+          "averageSessionDuration": 0.0,
+          "indexVerdict": "NOT_INSPECTED",
+          "coverageState": ""
+        },
+        {
+          "page": "https://techmastersuspension.com/product/front-suspension-kits-air-shock-absorbers-for-audi-a8d4-a6c7-s8-bentley-mulsanne-4h0616040f-4h0616039d-4g0616039af-air-struts/",
+          "path": "/product/front-suspension-kits-air-shock-absorbers-for-audi-a8d4-a6c7-s8-bentley-mulsanne-4h0616040f-4h0616039d-4g0616039af-air-struts",
+          "clicks": 0,
+          "impressions": 3,
+          "ctr": 0.0,
+          "position": 3.0,
+          "sessions": 0,
+          "users": 0,
+          "views": 0,
+          "bounceRate": 0.0,
+          "averageSessionDuration": 0.0,
+          "indexVerdict": "NOT_INSPECTED",
+          "coverageState": ""
+        },
+        {
+          "page": "https://techmastersuspension.com/ru/",
+          "path": "/ru",
+          "clicks": 0,
+          "impressions": 3,
+          "ctr": 0.0,
+          "position": 11.3333,
+          "sessions": 0,
+          "users": 0,
+          "views": 0,
+          "bounceRate": 0.0,
+          "averageSessionDuration": 0.0,
+          "indexVerdict": "NOT_INSPECTED",
+          "coverageState": ""
+        }
+      ],
+      "recommendations": []
+    }
+  ],
+  "quarterComparison": {
+    "current": {
+      "months": [
+        "2026-03"
+      ],
+      "metrics": {
+        "clicks": 5.0,
+        "impressions": 102.0,
+        "ctr": 4.902,
+        "averagePosition": 7.07,
+        "sessions": 176.0,
+        "bounceRate": 36.36,
+        "averageSessionDuration": 816.31
+      }
+    },
+    "previous": null
+  },
+  "report": {
+    "type": "monthly",
+    "typeLabel": "月度报告",
+    "label": "2026-03",
+    "domain": "techmastersuspension.com",
+    "rangeLabel": "2026-03",
+    "selectedMonths": [
+      "2026-03"
+    ],
+    "comparison": {
+      "label": "上月（2026-02）",
+      "available": false,
+      "baseline": true,
+      "clickDelta": 0,
+      "ctrDelta": 0,
+      "rankDelta": 0
+    }
+  }
+}
