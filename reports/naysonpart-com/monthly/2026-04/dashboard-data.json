@@ -1,0 +1,775 @@
+{
+  "source": "Google Search Console + Google Analytics 4",
+  "months": [
+    {
+      "label": "2026-04",
+      "period": [
+        "2026-04-01",
+        "2026-04-30"
+      ],
+      "metrics": {
+        "clicks": 3,
+        "impressions": 68,
+        "ctr": 4.41,
+        "averagePosition": 8.32,
+        "totalUsers": 9,
+        "pageViews": 74,
+        "sessions": 12,
+        "averageSessionDuration": 482.72,
+        "averageEngagementTimePerSession": 113.17,
+        "bounceRate": 41.67,
+        "keyEvents": 0,
+        "indexedPages": 4,
+        "inspectedPages": 4
+      },
+      "keywords": [
+        {
+          "clicks": 0,
+          "impressions": 1,
+          "ctr": 0.0,
+          "position": 12.0,
+          "query": "fastest shipping methods for auto parts international intercontinental",
+          "positionChange": null
+        },
+        {
+          "clicks": 0,
+          "impressions": 2,
+          "ctr": 0.0,
+          "position": 5.5,
+          "query": "nayson",
+          "positionChange": null
+        }
+      ],
+      "channels": [
+        {
+          "sessionDefaultChannelGroup": "Direct",
+          "sessions": 10,
+          "engagedSessions": 6,
+          "totalUsers": 8,
+          "screenPageViews": 61,
+          "averageSessionDuration": 553.876969,
+          "userEngagementDuration": 941,
+          "bounceRate": 0.4,
+          "keyEvents": 0,
+          "averageEngagementTimePerSession": 94.1
+        },
+        {
+          "sessionDefaultChannelGroup": "Organic Search",
+          "sessions": 1,
+          "engagedSessions": 1,
+          "totalUsers": 1,
+          "screenPageViews": 13,
+          "averageSessionDuration": 253.904955,
+          "userEngagementDuration": 218,
+          "bounceRate": 0,
+          "keyEvents": 0,
+          "averageEngagementTimePerSession": 218.0
+        },
+        {
+          "sessionDefaultChannelGroup": "Unassigned",
+          "sessions": 1,
+          "engagedSessions": 0,
+          "totalUsers": 1,
+          "screenPageViews": 0,
+          "averageSessionDuration": 0,
+          "userEngagementDuration": 199,
+          "bounceRate": 1,
+          "keyEvents": 0,
+          "averageEngagementTimePerSession": 199.0
+        }
+      ],
+      "sources": [
+        {
+          "sessionSource": "(direct)",
+          "sessions": 10,
+          "engagedSessions": 6,
+          "totalUsers": 8,
+          "screenPageViews": 61,
+          "averageSessionDuration": 553.876969,
+          "userEngagementDuration": 941,
+          "bounceRate": 0.4,
+          "keyEvents": 0,
+          "averageEngagementTimePerSession": 94.1
+        },
+        {
+          "sessionSource": "(not set)",
+          "sessions": 1,
+          "engagedSessions": 0,
+          "totalUsers": 1,
+          "screenPageViews": 0,
+          "averageSessionDuration": 0,
+          "userEngagementDuration": 199,
+          "bounceRate": 1,
+          "keyEvents": 0,
+          "averageEngagementTimePerSession": 199.0
+        },
+        {
+          "sessionSource": "google",
+          "sessions": 1,
+          "engagedSessions": 1,
+          "totalUsers": 1,
+          "screenPageViews": 13,
+          "averageSessionDuration": 253.904955,
+          "userEngagementDuration": 218,
+          "bounceRate": 0,
+          "keyEvents": 0,
+          "averageEngagementTimePerSession": 218.0
+        }
+      ],
+      "ga4Countries": [
+        {
+          "country": "China",
+          "sessions": 4,
+          "totalUsers": 3,
+          "engagedSessions": 3,
+          "averageEngagementTimePerSession": 0.0
+        },
+        {
+          "country": "(not set)",
+          "sessions": 3,
+          "totalUsers": 3,
+          "engagedSessions": 0,
+          "averageEngagementTimePerSession": 0.0
+        },
+        {
+          "country": "United States",
+          "sessions": 3,
+          "totalUsers": 1,
+          "engagedSessions": 2,
+          "averageEngagementTimePerSession": 0.0
+        },
+        {
+          "country": "Burkina Faso",
+          "sessions": 1,
+          "totalUsers": 1,
+          "engagedSessions": 1,
+          "averageEngagementTimePerSession": 0.0
+        },
+        {
+          "country": "Hong Kong",
+          "sessions": 1,
+          "totalUsers": 1,
+          "engagedSessions": 1,
+          "averageEngagementTimePerSession": 0.0
+        },
+        {
+          "country": "Pakistan",
+          "sessions": 1,
+          "totalUsers": 1,
+          "engagedSessions": 1,
+          "averageEngagementTimePerSession": 0.0
+        },
+        {
+          "country": "Turkmenistan",
+          "sessions": 1,
+          "totalUsers": 1,
+          "engagedSessions": 1,
+          "averageEngagementTimePerSession": 0.0
+        }
+      ],
+      "countries": [
+        {
+          "clicks": 1,
+          "impressions": 2,
+          "ctr": 50.0,
+          "position": 2.0,
+          "country": "bfa"
+        },
+        {
+          "clicks": 1,
+          "impressions": 3,
+          "ctr": 33.3333,
+          "position": 2.3333,
+          "country": "chn"
+        },
+        {
+          "clicks": 1,
+          "impressions": 1,
+          "ctr": 100.0,
+          "position": 1.0,
+          "country": "zaf"
+        },
+        {
+          "clicks": 0,
+          "impressions": 1,
+          "ctr": 0.0,
+          "position": 1.0,
+          "country": "bgd"
+        },
+        {
+          "clicks": 0,
+          "impressions": 2,
+          "ctr": 0.0,
+          "position": 6.5,
+          "country": "bra"
+        },
+        {
+          "clicks": 0,
+          "impressions": 2,
+          "ctr": 0.0,
+          "position": 8.0,
+          "country": "chl"
+        },
+        {
+          "clicks": 0,
+          "impressions": 1,
+          "ctr": 0.0,
+          "position": 2.0,
+          "country": "ecu"
+        },
+        {
+          "clicks": 0,
+          "impressions": 1,
+          "ctr": 0.0,
+          "position": 31.0,
+          "country": "eth"
+        },
+        {
+          "clicks": 0,
+          "impressions": 1,
+          "ctr": 0.0,
+          "position": 5.0,
+          "country": "gbr"
+        },
+        {
+          "clicks": 0,
+          "impressions": 1,
+          "ctr": 0.0,
+          "position": 2.0,
+          "country": "geo"
+        },
+        {
+          "clicks": 0,
+          "impressions": 1,
+          "ctr": 0.0,
+          "position": 1.0,
+          "country": "hkg"
+        },
+        {
+          "clicks": 0,
+          "impressions": 2,
+          "ctr": 0.0,
+          "position": 3.5,
+          "country": "ind"
+        },
+        {
+          "clicks": 0,
+          "impressions": 5,
+          "ctr": 0.0,
+          "position": 9.8,
+          "country": "irq"
+        },
+        {
+          "clicks": 0,
+          "impressions": 2,
+          "ctr": 0.0,
+          "position": 8.0,
+          "country": "jor"
+        },
+        {
+          "clicks": 0,
+          "impressions": 1,
+          "ctr": 0.0,
+          "position": 7.0,
+          "country": "jpn"
+        },
+        {
+          "clicks": 0,
+          "impressions": 2,
+          "ctr": 0.0,
+          "position": 10.0,
+          "country": "lby"
+        },
+        {
+          "clicks": 0,
+          "impressions": 1,
+          "ctr": 0.0,
+          "position": 6.0,
+          "country": "mys"
+        },
+        {
+          "clicks": 0,
+          "impressions": 2,
+          "ctr": 0.0,
+          "position": 7.5,
+          "country": "nga"
+        },
+        {
+          "clicks": 0,
+          "impressions": 1,
+          "ctr": 0.0,
+          "position": 3.0,
+          "country": "npl"
+        },
+        {
+          "clicks": 0,
+          "impressions": 2,
+          "ctr": 0.0,
+          "position": 5.0,
+          "country": "omn"
+        },
+        {
+          "clicks": 0,
+          "impressions": 1,
+          "ctr": 0.0,
+          "position": 6.0,
+          "country": "pak"
+        },
+        {
+          "clicks": 0,
+          "impressions": 2,
+          "ctr": 0.0,
+          "position": 6.5,
+          "country": "phl"
+        },
+        {
+          "clicks": 0,
+          "impressions": 1,
+          "ctr": 0.0,
+          "position": 11.0,
+          "country": "pol"
+        },
+        {
+          "clicks": 0,
+          "impressions": 1,
+          "ctr": 0.0,
+          "position": 1.0,
+          "country": "prt"
+        },
+        {
+          "clicks": 0,
+          "impressions": 1,
+          "ctr": 0.0,
+          "position": 1.0,
+          "country": "qat"
+        },
+        {
+          "clicks": 0,
+          "impressions": 1,
+          "ctr": 0.0,
+          "position": 4.0,
+          "country": "rus"
+        },
+        {
+          "clicks": 0,
+          "impressions": 1,
+          "ctr": 0.0,
+          "position": 48.0,
+          "country": "tun"
+        },
+        {
+          "clicks": 0,
+          "impressions": 3,
+          "ctr": 0.0,
+          "position": 7.3333,
+          "country": "ury"
+        },
+        {
+          "clicks": 0,
+          "impressions": 18,
+          "ctr": 0.0,
+          "position": 8.6111,
+          "country": "usa"
+        },
+        {
+          "clicks": 0,
+          "impressions": 1,
+          "ctr": 0.0,
+          "position": 31.0,
+          "country": "ven"
+        },
+        {
+          "clicks": 0,
+          "impressions": 4,
+          "ctr": 0.0,
+          "position": 14.5,
+          "country": "vnm"
+        }
+      ],
+      "gscDaily": [
+        {
+          "clicks": 0,
+          "impressions": 3,
+          "ctr": 0.0,
+          "position": 5.3333,
+          "date": "2026-04-01"
+        },
+        {
+          "clicks": 0,
+          "impressions": 1,
+          "ctr": 0.0,
+          "position": 2.0,
+          "date": "2026-04-02"
+        },
+        {
+          "clicks": 0,
+          "impressions": 1,
+          "ctr": 0.0,
+          "position": 3.0,
+          "date": "2026-04-03"
+        },
+        {
+          "clicks": 0,
+          "impressions": 0,
+          "ctr": 0.0,
+          "position": 0.0,
+          "date": "2026-04-04"
+        },
+        {
+          "clicks": 0,
+          "impressions": 0,
+          "ctr": 0.0,
+          "position": 0.0,
+          "date": "2026-04-05"
+        },
+        {
+          "clicks": 0,
+          "impressions": 1,
+          "ctr": 0.0,
+          "position": 1.0,
+          "date": "2026-04-06"
+        },
+        {
+          "clicks": 0,
+          "impressions": 1,
+          "ctr": 0.0,
+          "position": 2.0,
+          "date": "2026-04-07"
+        },
+        {
+          "clicks": 0,
+          "impressions": 3,
+          "ctr": 0.0,
+          "position": 1.0,
+          "date": "2026-04-08"
+        },
+        {
+          "clicks": 1,
+          "impressions": 2,
+          "ctr": 50.0,
+          "position": 1.5,
+          "date": "2026-04-09"
+        },
+        {
+          "clicks": 0,
+          "impressions": 1,
+          "ctr": 0.0,
+          "position": 4.0,
+          "date": "2026-04-10"
+        },
+        {
+          "clicks": 0,
+          "impressions": 1,
+          "ctr": 0.0,
+          "position": 4.0,
+          "date": "2026-04-11"
+        },
+        {
+          "clicks": 0,
+          "impressions": 1,
+          "ctr": 0.0,
+          "position": 7.0,
+          "date": "2026-04-12"
+        },
+        {
+          "clicks": 0,
+          "impressions": 1,
+          "ctr": 0.0,
+          "position": 3.0,
+          "date": "2026-04-13"
+        },
+        {
+          "clicks": 0,
+          "impressions": 0,
+          "ctr": 0.0,
+          "position": 0.0,
+          "date": "2026-04-14"
+        },
+        {
+          "clicks": 0,
+          "impressions": 1,
+          "ctr": 0.0,
+          "position": 9.0,
+          "date": "2026-04-15"
+        },
+        {
+          "clicks": 0,
+          "impressions": 0,
+          "ctr": 0.0,
+          "position": 0.0,
+          "date": "2026-04-16"
+        },
+        {
+          "clicks": 0,
+          "impressions": 1,
+          "ctr": 0.0,
+          "position": 2.0,
+          "date": "2026-04-17"
+        },
+        {
+          "clicks": 0,
+          "impressions": 0,
+          "ctr": 0.0,
+          "position": 0.0,
+          "date": "2026-04-18"
+        },
+        {
+          "clicks": 0,
+          "impressions": 0,
+          "ctr": 0.0,
+          "position": 0.0,
+          "date": "2026-04-19"
+        },
+        {
+          "clicks": 0,
+          "impressions": 1,
+          "ctr": 0.0,
+          "position": 12.0,
+          "date": "2026-04-20"
+        },
+        {
+          "clicks": 0,
+          "impressions": 2,
+          "ctr": 0.0,
+          "position": 5.5,
+          "date": "2026-04-21"
+        },
+        {
+          "clicks": 0,
+          "impressions": 0,
+          "ctr": 0.0,
+          "position": 0.0,
+          "date": "2026-04-22"
+        },
+        {
+          "clicks": 0,
+          "impressions": 5,
+          "ctr": 0.0,
+          "position": 10.2,
+          "date": "2026-04-23"
+        },
+        {
+          "clicks": 0,
+          "impressions": 1,
+          "ctr": 0.0,
+          "position": 3.0,
+          "date": "2026-04-24"
+        },
+        {
+          "clicks": 0,
+          "impressions": 3,
+          "ctr": 0.0,
+          "position": 10.3333,
+          "date": "2026-04-25"
+        },
+        {
+          "clicks": 1,
+          "impressions": 3,
+          "ctr": 33.3333,
+          "position": 2.3333,
+          "date": "2026-04-26"
+        },
+        {
+          "clicks": 0,
+          "impressions": 2,
+          "ctr": 0.0,
+          "position": 36.5,
+          "date": "2026-04-27"
+        },
+        {
+          "clicks": 0,
+          "impressions": 1,
+          "ctr": 0.0,
+          "position": 77.0,
+          "date": "2026-04-28"
+        },
+        {
+          "clicks": 1,
+          "impressions": 20,
+          "ctr": 5.0,
+          "position": 5.1,
+          "date": "2026-04-29"
+        },
+        {
+          "clicks": 0,
+          "impressions": 12,
+          "ctr": 0.0,
+          "position": 11.6667,
+          "date": "2026-04-30"
+        }
+      ],
+      "ga4Daily": [
+        {
+          "date": "20260425",
+          "sessions": 3,
+          "engagedSessions": 0,
+          "totalUsers": 3,
+          "screenPageViews": 3,
+          "averageSessionDuration": 0,
+          "userEngagementDuration": 0,
+          "bounceRate": 1,
+          "keyEvents": 0,
+          "averageEngagementTimePerSession": 0.0
+        },
+        {
+          "date": "20260426",
+          "sessions": 1,
+          "engagedSessions": 1,
+          "totalUsers": 1,
+          "screenPageViews": 5,
+          "averageSessionDuration": 124.592088,
+          "userEngagementDuration": 41,
+          "bounceRate": 0,
+          "keyEvents": 0,
+          "averageEngagementTimePerSession": 41.0
+        },
+        {
+          "date": "20260428",
+          "sessions": 1,
+          "engagedSessions": 1,
+          "totalUsers": 1,
+          "screenPageViews": 10,
+          "averageSessionDuration": 2192.012466,
+          "userEngagementDuration": 228,
+          "bounceRate": 0,
+          "keyEvents": 0,
+          "averageEngagementTimePerSession": 228.0
+        },
+        {
+          "date": "20260429",
+          "sessions": 5,
+          "engagedSessions": 4,
+          "totalUsers": 3,
+          "screenPageViews": 42,
+          "averageSessionDuration": 643.745165,
+          "userEngagementDuration": 871,
+          "bounceRate": 0.2,
+          "keyEvents": 0,
+          "averageEngagementTimePerSession": 174.2
+        },
+        {
+          "date": "20260430",
+          "sessions": 2,
+          "engagedSessions": 1,
+          "totalUsers": 2,
+          "screenPageViews": 14,
+          "averageSessionDuration": 128.672131,
+          "userEngagementDuration": 218,
+          "bounceRate": 0.5,
+          "keyEvents": 0,
+          "averageEngagementTimePerSession": 109.0
+        }
+      ],
+      "pages": [
+        {
+          "page": "https://naysonpart.com/",
+          "path": "/",
+          "clicks": 3,
+          "impressions": 27,
+          "ctr": 11.1111,
+          "position": 3.4815,
+          "sessions": 1,
+          "users": 1,
+          "views": 0,
+          "bounceRate": 100.0,
+          "averageSessionDuration": 0.0,
+          "indexVerdict": "PASS",
+          "coverageState": "已提交，且已编入索引"
+        },
+        {
+          "page": "https://naysonpart.com/auto-parts-sourcing-how-to-accurately-find-match-parts-by-oe-oem-numbers/",
+          "path": "/auto-parts-sourcing-how-to-accurately-find-match-parts-by-oe-oem-numbers",
+          "clicks": 0,
+          "impressions": 3,
+          "ctr": 0.0,
+          "position": 11.6667,
+          "sessions": 0,
+          "users": 0,
+          "views": 0,
+          "bounceRate": 0.0,
+          "averageSessionDuration": 0.0,
+          "indexVerdict": "PASS",
+          "coverageState": "已提交，且已编入索引"
+        },
+        {
+          "page": "https://naysonpart.com/overseas-warehouses-global-distribution-how-to-ensure-48-hour-fast-delivery-for-auto-parts/",
+          "path": "/overseas-warehouses-global-distribution-how-to-ensure-48-hour-fast-delivery-for-auto-parts",
+          "clicks": 0,
+          "impressions": 38,
+          "ctr": 0.0,
+          "position": 11.5,
+          "sessions": 0,
+          "users": 0,
+          "views": 0,
+          "bounceRate": 0.0,
+          "averageSessionDuration": 0.0,
+          "indexVerdict": "PASS",
+          "coverageState": "已提交，且已编入索引"
+        },
+        {
+          "page": "https://naysonpart.com/product-category/auto-transmission-systems/other-transmission-systems/",
+          "path": "/product-category/auto-transmission-systems/other-transmission-systems",
+          "clicks": 0,
+          "impressions": 7,
+          "ctr": 0.0,
+          "position": 4.1429,
+          "sessions": 0,
+          "users": 0,
+          "views": 0,
+          "bounceRate": 0.0,
+          "averageSessionDuration": 0.0,
+          "indexVerdict": "PASS",
+          "coverageState": "已提交，且已编入索引"
+        }
+      ],
+      "recommendations": [
+        {
+          "type": "体验",
+          "target": "/",
+          "text": "排名靠前但跳出率高，建议优化内容匹配度、首屏信息与内部链接。"
+        },
+        {
+          "type": "点击率",
+          "target": "/overseas-warehouses-global-distribution-how-to-ensure-48-hour-fast-delivery-for-auto-parts",
+          "text": "曝光较高但点击率低，建议优化标题、描述和搜索意图匹配。"
+        }
+      ]
+    }
+  ],
+  "quarterComparison": {
+    "current": {
+      "months": [
+        "2026-04"
+      ],
+      "metrics": {
+        "clicks": 3.0,
+        "impressions": 68.0,
+        "ctr": 4.4118,
+        "averagePosition": 8.32,
+        "sessions": 12.0,
+        "bounceRate": 41.67,
+        "averageSessionDuration": 482.72
+      }
+    },
+    "previous": null
+  },
+  "report": {
+    "type": "monthly",
+    "typeLabel": "月度报告",
+    "label": "2026-04",
+    "domain": "naysonpart.com",
+    "rangeLabel": "2026-04",
+    "selectedMonths": [
+      "2026-04"
+    ],
+    "comparison": {
+      "label": "上月（2026-03）",
+      "available": false,
+      "baseline": true,
+      "reason": "暂无上一等长周期归档数据，本报告仅总结本期数据。",
+      "clickDelta": 0,
+      "ctrDelta": 0,
+      "rankDelta": 0
+    }
+  }
+}
