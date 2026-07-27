@@ -1,0 +1,2463 @@
+{
+  "source": "Google Search Console + Google Analytics 4",
+  "months": [
+    {
+      "label": "2026-04",
+      "period": [
+        "2026-04-01",
+        "2026-04-30"
+      ],
+      "metrics": {
+        "clicks": 0,
+        "impressions": 1,
+        "ctr": 0.0,
+        "averagePosition": 6.0,
+        "totalUsers": 6,
+        "pageViews": 16,
+        "sessions": 12,
+        "averageSessionDuration": 185.66,
+        "averageEngagementTimePerSession": 21.17,
+        "bounceRate": 66.67,
+        "keyEvents": 0,
+        "indexedPages": 1,
+        "inspectedPages": 1
+      },
+      "keywords": [],
+      "channels": [
+        {
+          "sessionDefaultChannelGroup": "Direct",
+          "sessions": 12,
+          "engagedSessions": 4,
+          "totalUsers": 6,
+          "screenPageViews": 16,
+          "averageSessionDuration": 185.663214,
+          "userEngagementDuration": 254,
+          "bounceRate": 0.666667,
+          "keyEvents": 0,
+          "averageEngagementTimePerSession": 21.17
+        }
+      ],
+      "sources": [
+        {
+          "sessionSource": "(direct)",
+          "sessions": 12,
+          "engagedSessions": 4,
+          "totalUsers": 6,
+          "screenPageViews": 16,
+          "averageSessionDuration": 185.663214,
+          "userEngagementDuration": 254,
+          "bounceRate": 0.666667,
+          "keyEvents": 0,
+          "averageEngagementTimePerSession": 21.17
+        }
+      ],
+      "ga4Countries": [
+        {
+          "country": "Hong Kong",
+          "sessions": 7,
+          "totalUsers": 2,
+          "engagedSessions": 4,
+          "averageEngagementTimePerSession": 0.0
+        },
+        {
+          "country": "(not set)",
+          "sessions": 4,
+          "totalUsers": 4,
+          "engagedSessions": 0,
+          "averageEngagementTimePerSession": 0.0
+        },
+        {
+          "country": "China",
+          "sessions": 1,
+          "totalUsers": 1,
+          "engagedSessions": 0,
+          "averageEngagementTimePerSession": 0.0
+        }
+      ],
+      "countries": [
+        {
+          "clicks": 0,
+          "impressions": 1,
+          "ctr": 0.0,
+          "position": 6.0,
+          "country": "kor"
+        }
+      ],
+      "gscDaily": [
+        {
+          "clicks": 0,
+          "impressions": 0,
+          "ctr": 0.0,
+          "position": 0.0,
+          "date": "2026-04-23"
+        },
+        {
+          "clicks": 0,
+          "impressions": 0,
+          "ctr": 0.0,
+          "position": 0.0,
+          "date": "2026-04-24"
+        },
+        {
+          "clicks": 0,
+          "impressions": 0,
+          "ctr": 0.0,
+          "position": 0.0,
+          "date": "2026-04-25"
+        },
+        {
+          "clicks": 0,
+          "impressions": 0,
+          "ctr": 0.0,
+          "position": 0.0,
+          "date": "2026-04-26"
+        },
+        {
+          "clicks": 0,
+          "impressions": 0,
+          "ctr": 0.0,
+          "position": 0.0,
+          "date": "2026-04-27"
+        },
+        {
+          "clicks": 0,
+          "impressions": 1,
+          "ctr": 0.0,
+          "position": 6.0,
+          "date": "2026-04-28"
+        },
+        {
+          "clicks": 0,
+          "impressions": 0,
+          "ctr": 0.0,
+          "position": 0.0,
+          "date": "2026-04-29"
+        },
+        {
+          "clicks": 0,
+          "impressions": 0,
+          "ctr": 0.0,
+          "position": 0.0,
+          "date": "2026-04-30"
+        }
+      ],
+      "ga4Daily": [
+        {
+          "date": "20260425",
+          "sessions": 4,
+          "engagedSessions": 0,
+          "totalUsers": 4,
+          "screenPageViews": 4,
+          "averageSessionDuration": 0,
+          "userEngagementDuration": 0,
+          "bounceRate": 1,
+          "keyEvents": 0,
+          "averageEngagementTimePerSession": 0.0
+        },
+        {
+          "date": "20260429",
+          "sessions": 4,
+          "engagedSessions": 2,
+          "totalUsers": 1,
+          "screenPageViews": 6,
+          "averageSessionDuration": 33.148086,
+          "userEngagementDuration": 138,
+          "bounceRate": 0.5,
+          "keyEvents": 0,
+          "averageEngagementTimePerSession": 34.5
+        },
+        {
+          "date": "20260430",
+          "sessions": 4,
+          "engagedSessions": 2,
+          "totalUsers": 1,
+          "screenPageViews": 6,
+          "averageSessionDuration": 523.841556,
+          "userEngagementDuration": 116,
+          "bounceRate": 0.5,
+          "keyEvents": 0,
+          "averageEngagementTimePerSession": 29.0
+        }
+      ],
+      "pages": [
+        {
+          "page": "https://yifamaterial.com/",
+          "path": "/",
+          "clicks": 0,
+          "impressions": 1,
+          "ctr": 0.0,
+          "position": 6.0,
+          "sessions": 2,
+          "users": 2,
+          "views": 6,
+          "bounceRate": 0.0,
+          "averageSessionDuration": 814.45,
+          "indexVerdict": "PASS",
+          "coverageState": "已提交，且已编入索引"
+        }
+      ],
+      "recommendations": []
+    },
+    {
+      "label": "2026-05",
+      "period": [
+        "2026-05-01",
+        "2026-05-31"
+      ],
+      "metrics": {
+        "clicks": 2,
+        "impressions": 74,
+        "ctr": 2.7,
+        "averagePosition": 22.11,
+        "totalUsers": 10,
+        "pageViews": 34,
+        "sessions": 22,
+        "averageSessionDuration": 97.4,
+        "averageEngagementTimePerSession": 14.73,
+        "bounceRate": 40.91,
+        "keyEvents": 0,
+        "indexedPages": 19,
+        "inspectedPages": 20
+      },
+      "keywords": [
+        {
+          "clicks": 0,
+          "impressions": 4,
+          "ctr": 0.0,
+          "position": 39.5,
+          "query": "yifa",
+          "positionChange": null
+        },
+        {
+          "clicks": 0,
+          "impressions": 2,
+          "ctr": 0.0,
+          "position": 72.5,
+          "query": "yifa srl",
+          "positionChange": null
+        },
+        {
+          "clicks": 0,
+          "impressions": 2,
+          "ctr": 0.0,
+          "position": 68.5,
+          "query": "yiffa",
+          "positionChange": null
+        }
+      ],
+      "channels": [
+        {
+          "sessionDefaultChannelGroup": "Direct",
+          "sessions": 20,
+          "engagedSessions": 12,
+          "totalUsers": 9,
+          "screenPageViews": 30,
+          "averageSessionDuration": 101.627597,
+          "userEngagementDuration": 186,
+          "bounceRate": 0.4,
+          "keyEvents": 0,
+          "averageEngagementTimePerSession": 9.3
+        },
+        {
+          "sessionDefaultChannelGroup": "Organic Search",
+          "sessions": 1,
+          "engagedSessions": 1,
+          "totalUsers": 1,
+          "screenPageViews": 2,
+          "averageSessionDuration": 70.858774,
+          "userEngagementDuration": 3,
+          "bounceRate": 0,
+          "keyEvents": 0,
+          "averageEngagementTimePerSession": 3.0
+        },
+        {
+          "sessionDefaultChannelGroup": "Unassigned",
+          "sessions": 1,
+          "engagedSessions": 0,
+          "totalUsers": 1,
+          "screenPageViews": 2,
+          "averageSessionDuration": 39.303014,
+          "userEngagementDuration": 135,
+          "bounceRate": 1,
+          "keyEvents": 0,
+          "averageEngagementTimePerSession": 135.0
+        }
+      ],
+      "sources": [
+        {
+          "sessionSource": "(direct)",
+          "sessions": 20,
+          "engagedSessions": 12,
+          "totalUsers": 9,
+          "screenPageViews": 30,
+          "averageSessionDuration": 101.627597,
+          "userEngagementDuration": 186,
+          "bounceRate": 0.4,
+          "keyEvents": 0,
+          "averageEngagementTimePerSession": 9.3
+        },
+        {
+          "sessionSource": "(not set)",
+          "sessions": 1,
+          "engagedSessions": 0,
+          "totalUsers": 1,
+          "screenPageViews": 2,
+          "averageSessionDuration": 39.303014,
+          "userEngagementDuration": 135,
+          "bounceRate": 1,
+          "keyEvents": 0,
+          "averageEngagementTimePerSession": 135.0
+        },
+        {
+          "sessionSource": "google",
+          "sessions": 1,
+          "engagedSessions": 1,
+          "totalUsers": 1,
+          "screenPageViews": 2,
+          "averageSessionDuration": 70.858774,
+          "userEngagementDuration": 3,
+          "bounceRate": 0,
+          "keyEvents": 0,
+          "averageEngagementTimePerSession": 3.0
+        }
+      ],
+      "ga4Countries": [
+        {
+          "country": "Hong Kong",
+          "sessions": 8,
+          "totalUsers": 3,
+          "engagedSessions": 3,
+          "averageEngagementTimePerSession": 0.0
+        },
+        {
+          "country": "United States",
+          "sessions": 8,
+          "totalUsers": 1,
+          "engagedSessions": 5,
+          "averageEngagementTimePerSession": 0.0
+        },
+        {
+          "country": "China",
+          "sessions": 3,
+          "totalUsers": 3,
+          "engagedSessions": 3,
+          "averageEngagementTimePerSession": 0.0
+        },
+        {
+          "country": "Canada",
+          "sessions": 1,
+          "totalUsers": 1,
+          "engagedSessions": 0,
+          "averageEngagementTimePerSession": 0.0
+        },
+        {
+          "country": "India",
+          "sessions": 1,
+          "totalUsers": 1,
+          "engagedSessions": 1,
+          "averageEngagementTimePerSession": 0.0
+        },
+        {
+          "country": "Pakistan",
+          "sessions": 1,
+          "totalUsers": 1,
+          "engagedSessions": 1,
+          "averageEngagementTimePerSession": 0.0
+        }
+      ],
+      "countries": [
+        {
+          "clicks": 2,
+          "impressions": 9,
+          "ctr": 22.2222,
+          "position": 79.0,
+          "country": "ind"
+        },
+        {
+          "clicks": 0,
+          "impressions": 2,
+          "ctr": 0.0,
+          "position": 9.0,
+          "country": "bgd"
+        },
+        {
+          "clicks": 0,
+          "impressions": 5,
+          "ctr": 0.0,
+          "position": 3.6,
+          "country": "chn"
+        },
+        {
+          "clicks": 0,
+          "impressions": 1,
+          "ctr": 0.0,
+          "position": 9.0,
+          "country": "fra"
+        },
+        {
+          "clicks": 0,
+          "impressions": 1,
+          "ctr": 0.0,
+          "position": 11.0,
+          "country": "gbr"
+        },
+        {
+          "clicks": 0,
+          "impressions": 2,
+          "ctr": 0.0,
+          "position": 3.0,
+          "country": "hkg"
+        },
+        {
+          "clicks": 0,
+          "impressions": 2,
+          "ctr": 0.0,
+          "position": 5.0,
+          "country": "idn"
+        },
+        {
+          "clicks": 0,
+          "impressions": 1,
+          "ctr": 0.0,
+          "position": 34.0,
+          "country": "ita"
+        },
+        {
+          "clicks": 0,
+          "impressions": 3,
+          "ctr": 0.0,
+          "position": 7.3333,
+          "country": "jpn"
+        },
+        {
+          "clicks": 0,
+          "impressions": 1,
+          "ctr": 0.0,
+          "position": 7.0,
+          "country": "kor"
+        },
+        {
+          "clicks": 0,
+          "impressions": 1,
+          "ctr": 0.0,
+          "position": 1.0,
+          "country": "pak"
+        },
+        {
+          "clicks": 0,
+          "impressions": 1,
+          "ctr": 0.0,
+          "position": 3.0,
+          "country": "tur"
+        },
+        {
+          "clicks": 0,
+          "impressions": 1,
+          "ctr": 0.0,
+          "position": 10.0,
+          "country": "ukr"
+        },
+        {
+          "clicks": 0,
+          "impressions": 42,
+          "ctr": 0.0,
+          "position": 18.3095,
+          "country": "usa"
+        },
+        {
+          "clicks": 0,
+          "impressions": 1,
+          "ctr": 0.0,
+          "position": 2.0,
+          "country": "vnm"
+        },
+        {
+          "clicks": 0,
+          "impressions": 1,
+          "ctr": 0.0,
+          "position": 5.0,
+          "country": "yem"
+        }
+      ],
+      "gscDaily": [
+        {
+          "clicks": 0,
+          "impressions": 0,
+          "ctr": 0.0,
+          "position": 0.0,
+          "date": "2026-05-01"
+        },
+        {
+          "clicks": 0,
+          "impressions": 0,
+          "ctr": 0.0,
+          "position": 0.0,
+          "date": "2026-05-02"
+        },
+        {
+          "clicks": 0,
+          "impressions": 1,
+          "ctr": 0.0,
+          "position": 3.0,
+          "date": "2026-05-03"
+        },
+        {
+          "clicks": 0,
+          "impressions": 1,
+          "ctr": 0.0,
+          "position": 34.0,
+          "date": "2026-05-04"
+        },
+        {
+          "clicks": 0,
+          "impressions": 8,
+          "ctr": 0.0,
+          "position": 2.0,
+          "date": "2026-05-05"
+        },
+        {
+          "clicks": 0,
+          "impressions": 1,
+          "ctr": 0.0,
+          "position": 5.0,
+          "date": "2026-05-06"
+        },
+        {
+          "clicks": 0,
+          "impressions": 0,
+          "ctr": 0.0,
+          "position": 0.0,
+          "date": "2026-05-07"
+        },
+        {
+          "clicks": 0,
+          "impressions": 0,
+          "ctr": 0.0,
+          "position": 0.0,
+          "date": "2026-05-08"
+        },
+        {
+          "clicks": 0,
+          "impressions": 1,
+          "ctr": 0.0,
+          "position": 2.0,
+          "date": "2026-05-09"
+        },
+        {
+          "clicks": 0,
+          "impressions": 2,
+          "ctr": 0.0,
+          "position": 1.0,
+          "date": "2026-05-10"
+        },
+        {
+          "clicks": 0,
+          "impressions": 0,
+          "ctr": 0.0,
+          "position": 0.0,
+          "date": "2026-05-11"
+        },
+        {
+          "clicks": 0,
+          "impressions": 3,
+          "ctr": 0.0,
+          "position": 4.0,
+          "date": "2026-05-12"
+        },
+        {
+          "clicks": 0,
+          "impressions": 4,
+          "ctr": 0.0,
+          "position": 3.5,
+          "date": "2026-05-13"
+        },
+        {
+          "clicks": 0,
+          "impressions": 0,
+          "ctr": 0.0,
+          "position": 0.0,
+          "date": "2026-05-14"
+        },
+        {
+          "clicks": 0,
+          "impressions": 0,
+          "ctr": 0.0,
+          "position": 0.0,
+          "date": "2026-05-15"
+        },
+        {
+          "clicks": 0,
+          "impressions": 0,
+          "ctr": 0.0,
+          "position": 0.0,
+          "date": "2026-05-16"
+        },
+        {
+          "clicks": 0,
+          "impressions": 0,
+          "ctr": 0.0,
+          "position": 0.0,
+          "date": "2026-05-17"
+        },
+        {
+          "clicks": 0,
+          "impressions": 4,
+          "ctr": 0.0,
+          "position": 1.5,
+          "date": "2026-05-18"
+        },
+        {
+          "clicks": 0,
+          "impressions": 0,
+          "ctr": 0.0,
+          "position": 0.0,
+          "date": "2026-05-19"
+        },
+        {
+          "clicks": 0,
+          "impressions": 0,
+          "ctr": 0.0,
+          "position": 0.0,
+          "date": "2026-05-20"
+        },
+        {
+          "clicks": 0,
+          "impressions": 0,
+          "ctr": 0.0,
+          "position": 0.0,
+          "date": "2026-05-21"
+        },
+        {
+          "clicks": 0,
+          "impressions": 1,
+          "ctr": 0.0,
+          "position": 5.0,
+          "date": "2026-05-22"
+        },
+        {
+          "clicks": 0,
+          "impressions": 3,
+          "ctr": 0.0,
+          "position": 232.0,
+          "date": "2026-05-23"
+        },
+        {
+          "clicks": 0,
+          "impressions": 3,
+          "ctr": 0.0,
+          "position": 7.3333,
+          "date": "2026-05-24"
+        },
+        {
+          "clicks": 0,
+          "impressions": 4,
+          "ctr": 0.0,
+          "position": 6.25,
+          "date": "2026-05-25"
+        },
+        {
+          "clicks": 0,
+          "impressions": 7,
+          "ctr": 0.0,
+          "position": 13.2857,
+          "date": "2026-05-26"
+        },
+        {
+          "clicks": 2,
+          "impressions": 8,
+          "ctr": 25.0,
+          "position": 41.375,
+          "date": "2026-05-27"
+        },
+        {
+          "clicks": 0,
+          "impressions": 5,
+          "ctr": 0.0,
+          "position": 38.4,
+          "date": "2026-05-28"
+        },
+        {
+          "clicks": 0,
+          "impressions": 3,
+          "ctr": 0.0,
+          "position": 9.6667,
+          "date": "2026-05-29"
+        },
+        {
+          "clicks": 0,
+          "impressions": 8,
+          "ctr": 0.0,
+          "position": 6.625,
+          "date": "2026-05-30"
+        },
+        {
+          "clicks": 0,
+          "impressions": 7,
+          "ctr": 0.0,
+          "position": 13.7143,
+          "date": "2026-05-31"
+        }
+      ],
+      "ga4Daily": [
+        {
+          "date": "20260506",
+          "sessions": 4,
+          "engagedSessions": 2,
+          "totalUsers": 1,
+          "screenPageViews": 3,
+          "averageSessionDuration": 154.808027,
+          "userEngagementDuration": 0,
+          "bounceRate": 0.5,
+          "keyEvents": 0,
+          "averageEngagementTimePerSession": 0.0
+        },
+        {
+          "date": "20260511",
+          "sessions": 2,
+          "engagedSessions": 1,
+          "totalUsers": 2,
+          "screenPageViews": 2,
+          "averageSessionDuration": 226.65927,
+          "userEngagementDuration": 9,
+          "bounceRate": 0.5,
+          "keyEvents": 0,
+          "averageEngagementTimePerSession": 4.5
+        },
+        {
+          "date": "20260512",
+          "sessions": 2,
+          "engagedSessions": 2,
+          "totalUsers": 2,
+          "screenPageViews": 3,
+          "averageSessionDuration": 48.789441,
+          "userEngagementDuration": 19,
+          "bounceRate": 0,
+          "keyEvents": 0,
+          "averageEngagementTimePerSession": 9.5
+        },
+        {
+          "date": "20260513",
+          "sessions": 1,
+          "engagedSessions": 1,
+          "totalUsers": 1,
+          "screenPageViews": 7,
+          "averageSessionDuration": 266.781014,
+          "userEngagementDuration": 56,
+          "bounceRate": 0,
+          "keyEvents": 0,
+          "averageEngagementTimePerSession": 56.0
+        },
+        {
+          "date": "20260518",
+          "sessions": 3,
+          "engagedSessions": 1,
+          "totalUsers": 1,
+          "screenPageViews": 3,
+          "averageSessionDuration": 58.680925,
+          "userEngagementDuration": 139,
+          "bounceRate": 0.666667,
+          "keyEvents": 0,
+          "averageEngagementTimePerSession": 46.33
+        },
+        {
+          "date": "20260520",
+          "sessions": 1,
+          "engagedSessions": 0,
+          "totalUsers": 1,
+          "screenPageViews": 1,
+          "averageSessionDuration": 4.771183,
+          "userEngagementDuration": 5,
+          "bounceRate": 1,
+          "keyEvents": 0,
+          "averageEngagementTimePerSession": 5.0
+        },
+        {
+          "date": "20260523",
+          "sessions": 1,
+          "engagedSessions": 1,
+          "totalUsers": 1,
+          "screenPageViews": 1,
+          "averageSessionDuration": 103.045392,
+          "userEngagementDuration": 10,
+          "bounceRate": 0,
+          "keyEvents": 0,
+          "averageEngagementTimePerSession": 10.0
+        },
+        {
+          "date": "20260526",
+          "sessions": 2,
+          "engagedSessions": 2,
+          "totalUsers": 2,
+          "screenPageViews": 6,
+          "averageSessionDuration": 121.038697,
+          "userEngagementDuration": 34,
+          "bounceRate": 0,
+          "keyEvents": 0,
+          "averageEngagementTimePerSession": 17.0
+        },
+        {
+          "date": "20260527",
+          "sessions": 2,
+          "engagedSessions": 2,
+          "totalUsers": 2,
+          "screenPageViews": 5,
+          "averageSessionDuration": 47.020339,
+          "userEngagementDuration": 15,
+          "bounceRate": 0,
+          "keyEvents": 0,
+          "averageEngagementTimePerSession": 7.5
+        },
+        {
+          "date": "20260529",
+          "sessions": 3,
+          "engagedSessions": 0,
+          "totalUsers": 2,
+          "screenPageViews": 2,
+          "averageSessionDuration": 0.000897,
+          "userEngagementDuration": 0,
+          "bounceRate": 1,
+          "keyEvents": 0,
+          "averageEngagementTimePerSession": 0.0
+        },
+        {
+          "date": "20260530",
+          "sessions": 1,
+          "engagedSessions": 1,
+          "totalUsers": 1,
+          "screenPageViews": 1,
+          "averageSessionDuration": 85.823073,
+          "userEngagementDuration": 37,
+          "bounceRate": 0,
+          "keyEvents": 0,
+          "averageEngagementTimePerSession": 37.0
+        }
+      ],
+      "pages": [
+        {
+          "page": "https://yifamaterial.com/",
+          "path": "/",
+          "clicks": 2,
+          "impressions": 40,
+          "ctr": 5.0,
+          "position": 9.625,
+          "sessions": 1,
+          "users": 1,
+          "views": 1,
+          "bounceRate": 0.0,
+          "averageSessionDuration": 600.39,
+          "indexVerdict": "PASS",
+          "coverageState": "已提交，且已编入索引"
+        },
+        {
+          "page": "https://yifamaterial.com/about-yifamateria/",
+          "path": "/about-yifamateria",
+          "clicks": 0,
+          "impressions": 21,
+          "ctr": 0.0,
+          "position": 11.0,
+          "sessions": 0,
+          "users": 0,
+          "views": 0,
+          "bounceRate": 0.0,
+          "averageSessionDuration": 0.0,
+          "indexVerdict": "PASS",
+          "coverageState": "已提交，且已编入索引"
+        },
+        {
+          "page": "https://yifamaterial.com/ar/",
+          "path": "/ar",
+          "clicks": 0,
+          "impressions": 8,
+          "ctr": 0.0,
+          "position": 2.75,
+          "sessions": 0,
+          "users": 0,
+          "views": 0,
+          "bounceRate": 0.0,
+          "averageSessionDuration": 0.0,
+          "indexVerdict": "PASS",
+          "coverageState": "已提交，且已编入索引"
+        },
+        {
+          "page": "https://yifamaterial.com/ar/about-yifamateria/",
+          "path": "/ar/about-yifamateria",
+          "clicks": 0,
+          "impressions": 2,
+          "ctr": 0.0,
+          "position": 8.0,
+          "sessions": 0,
+          "users": 0,
+          "views": 0,
+          "bounceRate": 0.0,
+          "averageSessionDuration": 0.0,
+          "indexVerdict": "PASS",
+          "coverageState": "已提交，且已编入索引"
+        },
+        {
+          "page": "https://yifamaterial.com/author/admin/",
+          "path": "/author/admin",
+          "clicks": 0,
+          "impressions": 3,
+          "ctr": 0.0,
+          "position": 7.0,
+          "sessions": 0,
+          "users": 0,
+          "views": 0,
+          "bounceRate": 0.0,
+          "averageSessionDuration": 0.0,
+          "indexVerdict": "PASS",
+          "coverageState": "已提交，且已编入索引"
+        },
+        {
+          "page": "https://yifamaterial.com/contact/",
+          "path": "/contact",
+          "clicks": 0,
+          "impressions": 9,
+          "ctr": 0.0,
+          "position": 80.4444,
+          "sessions": 0,
+          "users": 0,
+          "views": 0,
+          "bounceRate": 0.0,
+          "averageSessionDuration": 0.0,
+          "indexVerdict": "PASS",
+          "coverageState": "已提交，且已编入索引"
+        },
+        {
+          "page": "https://yifamaterial.com/from-static-containers-to-dynamic-interaction-entry-points/",
+          "path": "/from-static-containers-to-dynamic-interaction-entry-points",
+          "clicks": 0,
+          "impressions": 1,
+          "ctr": 0.0,
+          "position": 10.0,
+          "sessions": 0,
+          "users": 0,
+          "views": 0,
+          "bounceRate": 0.0,
+          "averageSessionDuration": 0.0,
+          "indexVerdict": "PASS",
+          "coverageState": "已提交，且已编入索引"
+        },
+        {
+          "page": "https://yifamaterial.com/industrial-integration-cross-border-collaboration-builds-a-new-ecosystem-and-single-enterprises-transform-into-system-service-providers/",
+          "path": "/industrial-integration-cross-border-collaboration-builds-a-new-ecosystem-and-single-enterprises-transform-into-system-service-providers",
+          "clicks": 0,
+          "impressions": 1,
+          "ctr": 0.0,
+          "position": 4.0,
+          "sessions": 0,
+          "users": 0,
+          "views": 0,
+          "bounceRate": 0.0,
+          "averageSessionDuration": 0.0,
+          "indexVerdict": "PASS",
+          "coverageState": "已提交，且已编入索引"
+        },
+        {
+          "page": "https://yifamaterial.com/privacy-policy/",
+          "path": "/privacy-policy",
+          "clicks": 0,
+          "impressions": 2,
+          "ctr": 0.0,
+          "position": 4.5,
+          "sessions": 0,
+          "users": 0,
+          "views": 0,
+          "bounceRate": 0.0,
+          "averageSessionDuration": 0.0,
+          "indexVerdict": "NEUTRAL",
+          "coverageState": "已抓取 - 尚未编入索引"
+        },
+        {
+          "page": "https://yifamaterial.com/product/facial-mask-bag-1/",
+          "path": "/product/facial-mask-bag-1",
+          "clicks": 0,
+          "impressions": 1,
+          "ctr": 0.0,
+          "position": 6.0,
+          "sessions": 0,
+          "users": 0,
+          "views": 0,
+          "bounceRate": 0.0,
+          "averageSessionDuration": 0.0,
+          "indexVerdict": "PASS",
+          "coverageState": "已提交，且已编入索引"
+        },
+        {
+          "page": "https://yifamaterial.com/product/soft-packaging-bag-1/",
+          "path": "/product/soft-packaging-bag-1",
+          "clicks": 0,
+          "impressions": 2,
+          "ctr": 0.0,
+          "position": 9.0,
+          "sessions": 0,
+          "users": 0,
+          "views": 0,
+          "bounceRate": 0.0,
+          "averageSessionDuration": 0.0,
+          "indexVerdict": "PASS",
+          "coverageState": "已提交，且已编入索引"
+        },
+        {
+          "page": "https://yifamaterial.com/product/suction-nozzle-bag-1/",
+          "path": "/product/suction-nozzle-bag-1",
+          "clicks": 0,
+          "impressions": 1,
+          "ctr": 0.0,
+          "position": 8.0,
+          "sessions": 0,
+          "users": 0,
+          "views": 0,
+          "bounceRate": 0.0,
+          "averageSessionDuration": 0.0,
+          "indexVerdict": "PASS",
+          "coverageState": "已提交，且已编入索引"
+        },
+        {
+          "page": "https://yifamaterial.com/ru/",
+          "path": "/ru",
+          "clicks": 0,
+          "impressions": 8,
+          "ctr": 0.0,
+          "position": 4.5,
+          "sessions": 0,
+          "users": 0,
+          "views": 0,
+          "bounceRate": 0.0,
+          "averageSessionDuration": 0.0,
+          "indexVerdict": "PASS",
+          "coverageState": "已提交，且已编入索引"
+        },
+        {
+          "page": "https://yifamaterial.com/ru/about-yifamateria/",
+          "path": "/ru/about-yifamateria",
+          "clicks": 0,
+          "impressions": 7,
+          "ctr": 0.0,
+          "position": 17.5714,
+          "sessions": 0,
+          "users": 0,
+          "views": 0,
+          "bounceRate": 0.0,
+          "averageSessionDuration": 0.0,
+          "indexVerdict": "PASS",
+          "coverageState": "已提交，且已编入索引"
+        },
+        {
+          "page": "https://yifamaterial.com/ru/contact/",
+          "path": "/ru/contact",
+          "clicks": 0,
+          "impressions": 1,
+          "ctr": 0.0,
+          "position": 3.0,
+          "sessions": 0,
+          "users": 0,
+          "views": 0,
+          "bounceRate": 0.0,
+          "averageSessionDuration": 0.0,
+          "indexVerdict": "PASS",
+          "coverageState": "已提交，且已编入索引"
+        },
+        {
+          "page": "https://yifamaterial.com/ru/shop/",
+          "path": "/ru/shop",
+          "clicks": 0,
+          "impressions": 5,
+          "ctr": 0.0,
+          "position": 6.0,
+          "sessions": 0,
+          "users": 0,
+          "views": 0,
+          "bounceRate": 0.0,
+          "averageSessionDuration": 0.0,
+          "indexVerdict": "PASS",
+          "coverageState": "已提交，且已编入索引"
+        },
+        {
+          "page": "https://yifamaterial.com/ru/tag/food-packaging-supplier/",
+          "path": "/ru/tag/food-packaging-supplier",
+          "clicks": 0,
+          "impressions": 2,
+          "ctr": 0.0,
+          "position": 7.0,
+          "sessions": 0,
+          "users": 0,
+          "views": 0,
+          "bounceRate": 0.0,
+          "averageSessionDuration": 0.0,
+          "indexVerdict": "PASS",
+          "coverageState": "已提交，且已编入索引"
+        },
+        {
+          "page": "https://yifamaterial.com/shop/",
+          "path": "/shop",
+          "clicks": 0,
+          "impressions": 10,
+          "ctr": 0.0,
+          "position": 4.0,
+          "sessions": 0,
+          "users": 0,
+          "views": 0,
+          "bounceRate": 0.0,
+          "averageSessionDuration": 0.0,
+          "indexVerdict": "PASS",
+          "coverageState": "已提交，且已编入索引"
+        },
+        {
+          "page": "https://yifamaterial.com/tag/cosmetic-packaging-pouches/",
+          "path": "/tag/cosmetic-packaging-pouches",
+          "clicks": 0,
+          "impressions": 1,
+          "ctr": 0.0,
+          "position": 26.0,
+          "sessions": 0,
+          "users": 0,
+          "views": 0,
+          "bounceRate": 0.0,
+          "averageSessionDuration": 0.0,
+          "indexVerdict": "PASS",
+          "coverageState": "已提交，且已编入索引"
+        },
+        {
+          "page": "https://yifamaterial.com/tag/custom-printed-stand-up/",
+          "path": "/tag/custom-printed-stand-up",
+          "clicks": 0,
+          "impressions": 1,
+          "ctr": 0.0,
+          "position": 10.0,
+          "sessions": 0,
+          "users": 0,
+          "views": 0,
+          "bounceRate": 0.0,
+          "averageSessionDuration": 0.0,
+          "indexVerdict": "PASS",
+          "coverageState": "已提交，且已编入索引"
+        },
+        {
+          "page": "https://yifamaterial.com/the-development-environment-and-trends-of-the-packaging-industry/",
+          "path": "/the-development-environment-and-trends-of-the-packaging-industry",
+          "clicks": 0,
+          "impressions": 1,
+          "ctr": 0.0,
+          "position": 8.0,
+          "sessions": 0,
+          "users": 0,
+          "views": 0,
+          "bounceRate": 0.0,
+          "averageSessionDuration": 0.0,
+          "indexVerdict": "NOT_INSPECTED",
+          "coverageState": ""
+        },
+        {
+          "page": "https://yifamaterial.com/top-7-food-packaging-suppliers-for-small-businesses/",
+          "path": "/top-7-food-packaging-suppliers-for-small-businesses",
+          "clicks": 0,
+          "impressions": 20,
+          "ctr": 0.0,
+          "position": 15.25,
+          "sessions": 1,
+          "users": 1,
+          "views": 1,
+          "bounceRate": 100.0,
+          "averageSessionDuration": 4.77,
+          "indexVerdict": "NOT_INSPECTED",
+          "coverageState": ""
+        }
+      ],
+      "recommendations": [
+        {
+          "type": "点击率",
+          "target": "/about-yifamateria",
+          "text": "曝光较高但点击率低，建议优化标题、描述和搜索意图匹配。"
+        },
+        {
+          "type": "索引",
+          "target": "/privacy-policy",
+          "text": "URL 检查未通过，建议核对抓取、noindex、规范链接和页面可用性。"
+        },
+        {
+          "type": "点击率",
+          "target": "/top-7-food-packaging-suppliers-for-small-businesses",
+          "text": "曝光较高但点击率低，建议优化标题、描述和搜索意图匹配。"
+        }
+      ]
+    },
+    {
+      "label": "2026-06",
+      "period": [
+        "2026-06-01",
+        "2026-06-30"
+      ],
+      "metrics": {
+        "clicks": 1,
+        "impressions": 104,
+        "ctr": 0.96,
+        "averagePosition": 28.84,
+        "totalUsers": 13,
+        "pageViews": 73,
+        "sessions": 25,
+        "averageSessionDuration": 248.83,
+        "averageEngagementTimePerSession": 35.96,
+        "bounceRate": 20.0,
+        "keyEvents": 0,
+        "indexedPages": 19,
+        "inspectedPages": 20
+      },
+      "keywords": [
+        {
+          "clicks": 1,
+          "impressions": 1,
+          "ctr": 100.0,
+          "position": 42.0,
+          "query": "food packaging wholesaler",
+          "positionChange": null
+        },
+        {
+          "clicks": 0,
+          "impressions": 1,
+          "ctr": 0.0,
+          "position": 81.0,
+          "query": "biodegradable plastic packaging",
+          "positionChange": null
+        },
+        {
+          "clicks": 0,
+          "impressions": 3,
+          "ctr": 0.0,
+          "position": 30.0,
+          "query": "bulk food packaging supplier",
+          "positionChange": null
+        },
+        {
+          "clicks": 0,
+          "impressions": 1,
+          "ctr": 0.0,
+          "position": 50.0,
+          "query": "công ty yifa",
+          "positionChange": null
+        },
+        {
+          "clicks": 0,
+          "impressions": 3,
+          "ctr": 0.0,
+          "position": 71.3333,
+          "query": "food service packaging supplier",
+          "positionChange": null
+        },
+        {
+          "clicks": 0,
+          "impressions": 1,
+          "ctr": 0.0,
+          "position": 70.0,
+          "query": "pt yifa",
+          "positionChange": null
+        },
+        {
+          "clicks": 0,
+          "impressions": 5,
+          "ctr": 0.0,
+          "position": 44.4,
+          "query": "yifa",
+          "positionChange": -4.9
+        },
+        {
+          "clicks": 0,
+          "impressions": 1,
+          "ctr": 0.0,
+          "position": 71.0,
+          "query": "مصنع فافا",
+          "positionChange": null
+        },
+        {
+          "clicks": 0,
+          "impressions": 1,
+          "ctr": 0.0,
+          "position": 1.0,
+          "query": "마스크팩 포장",
+          "positionChange": null
+        }
+      ],
+      "channels": [
+        {
+          "sessionDefaultChannelGroup": "Direct",
+          "sessions": 23,
+          "engagedSessions": 20,
+          "totalUsers": 11,
+          "screenPageViews": 71,
+          "averageSessionDuration": 270.105799,
+          "userEngagementDuration": 891,
+          "bounceRate": 0.130435,
+          "keyEvents": 0,
+          "averageEngagementTimePerSession": 38.74
+        },
+        {
+          "sessionDefaultChannelGroup": "Organic Search",
+          "sessions": 1,
+          "engagedSessions": 0,
+          "totalUsers": 1,
+          "screenPageViews": 1,
+          "averageSessionDuration": 8.243375,
+          "userEngagementDuration": 8,
+          "bounceRate": 1,
+          "keyEvents": 0,
+          "averageEngagementTimePerSession": 8.0
+        },
+        {
+          "sessionDefaultChannelGroup": "Referral",
+          "sessions": 1,
+          "engagedSessions": 0,
+          "totalUsers": 1,
+          "screenPageViews": 1,
+          "averageSessionDuration": 0,
+          "userEngagementDuration": 0,
+          "bounceRate": 1,
+          "keyEvents": 0,
+          "averageEngagementTimePerSession": 0.0
+        }
+      ],
+      "sources": [
+        {
+          "sessionSource": "(direct)",
+          "sessions": 23,
+          "engagedSessions": 20,
+          "totalUsers": 11,
+          "screenPageViews": 71,
+          "averageSessionDuration": 270.105799,
+          "userEngagementDuration": 891,
+          "bounceRate": 0.130435,
+          "keyEvents": 0,
+          "averageEngagementTimePerSession": 38.74
+        },
+        {
+          "sessionSource": "google",
+          "sessions": 1,
+          "engagedSessions": 0,
+          "totalUsers": 1,
+          "screenPageViews": 1,
+          "averageSessionDuration": 8.243375,
+          "userEngagementDuration": 8,
+          "bounceRate": 1,
+          "keyEvents": 0,
+          "averageEngagementTimePerSession": 8.0
+        },
+        {
+          "sessionSource": "tfoow.com",
+          "sessions": 1,
+          "engagedSessions": 0,
+          "totalUsers": 1,
+          "screenPageViews": 1,
+          "averageSessionDuration": 0,
+          "userEngagementDuration": 0,
+          "bounceRate": 1,
+          "keyEvents": 0,
+          "averageEngagementTimePerSession": 0.0
+        }
+      ],
+      "ga4Countries": [
+        {
+          "country": "United States",
+          "sessions": 18,
+          "totalUsers": 7,
+          "engagedSessions": 14,
+          "averageEngagementTimePerSession": 0.0
+        },
+        {
+          "country": "Pakistan",
+          "sessions": 5,
+          "totalUsers": 4,
+          "engagedSessions": 5,
+          "averageEngagementTimePerSession": 0.0
+        },
+        {
+          "country": "Hong Kong",
+          "sessions": 1,
+          "totalUsers": 1,
+          "engagedSessions": 1,
+          "averageEngagementTimePerSession": 0.0
+        },
+        {
+          "country": "Japan",
+          "sessions": 1,
+          "totalUsers": 1,
+          "engagedSessions": 0,
+          "averageEngagementTimePerSession": 0.0
+        }
+      ],
+      "countries": [
+        {
+          "clicks": 1,
+          "impressions": 4,
+          "ctr": 25.0,
+          "position": 19.25,
+          "country": "chn"
+        },
+        {
+          "clicks": 0,
+          "impressions": 1,
+          "ctr": 0.0,
+          "position": 8.0,
+          "country": "are"
+        },
+        {
+          "clicks": 0,
+          "impressions": 4,
+          "ctr": 0.0,
+          "position": 7.75,
+          "country": "aus"
+        },
+        {
+          "clicks": 0,
+          "impressions": 1,
+          "ctr": 0.0,
+          "position": 26.0,
+          "country": "blr"
+        },
+        {
+          "clicks": 0,
+          "impressions": 1,
+          "ctr": 0.0,
+          "position": 8.0,
+          "country": "bra"
+        },
+        {
+          "clicks": 0,
+          "impressions": 1,
+          "ctr": 0.0,
+          "position": 2.0,
+          "country": "can"
+        },
+        {
+          "clicks": 0,
+          "impressions": 1,
+          "ctr": 0.0,
+          "position": 5.0,
+          "country": "col"
+        },
+        {
+          "clicks": 0,
+          "impressions": 1,
+          "ctr": 0.0,
+          "position": 28.0,
+          "country": "deu"
+        },
+        {
+          "clicks": 0,
+          "impressions": 1,
+          "ctr": 0.0,
+          "position": 2.0,
+          "country": "hkg"
+        },
+        {
+          "clicks": 0,
+          "impressions": 2,
+          "ctr": 0.0,
+          "position": 33.5,
+          "country": "idn"
+        },
+        {
+          "clicks": 0,
+          "impressions": 1,
+          "ctr": 0.0,
+          "position": 10.0,
+          "country": "ind"
+        },
+        {
+          "clicks": 0,
+          "impressions": 2,
+          "ctr": 0.0,
+          "position": 9.5,
+          "country": "jpn"
+        },
+        {
+          "clicks": 0,
+          "impressions": 2,
+          "ctr": 0.0,
+          "position": 6.0,
+          "country": "kor"
+        },
+        {
+          "clicks": 0,
+          "impressions": 1,
+          "ctr": 0.0,
+          "position": 10.0,
+          "country": "mex"
+        },
+        {
+          "clicks": 0,
+          "impressions": 1,
+          "ctr": 0.0,
+          "position": 5.0,
+          "country": "mys"
+        },
+        {
+          "clicks": 0,
+          "impressions": 1,
+          "ctr": 0.0,
+          "position": 9.0,
+          "country": "nga"
+        },
+        {
+          "clicks": 0,
+          "impressions": 1,
+          "ctr": 0.0,
+          "position": 2.0,
+          "country": "pak"
+        },
+        {
+          "clicks": 0,
+          "impressions": 1,
+          "ctr": 0.0,
+          "position": 5.0,
+          "country": "phl"
+        },
+        {
+          "clicks": 0,
+          "impressions": 1,
+          "ctr": 0.0,
+          "position": 8.0,
+          "country": "pol"
+        },
+        {
+          "clicks": 0,
+          "impressions": 2,
+          "ctr": 0.0,
+          "position": 76.0,
+          "country": "sau"
+        },
+        {
+          "clicks": 0,
+          "impressions": 1,
+          "ctr": 0.0,
+          "position": 1.0,
+          "country": "swe"
+        },
+        {
+          "clicks": 0,
+          "impressions": 1,
+          "ctr": 0.0,
+          "position": 11.0,
+          "country": "twn"
+        },
+        {
+          "clicks": 0,
+          "impressions": 71,
+          "ctr": 0.0,
+          "position": 35.1408,
+          "country": "usa"
+        },
+        {
+          "clicks": 0,
+          "impressions": 1,
+          "ctr": 0.0,
+          "position": 6.0,
+          "country": "vnm"
+        }
+      ],
+      "gscDaily": [
+        {
+          "clicks": 0,
+          "impressions": 1,
+          "ctr": 0.0,
+          "position": 28.0,
+          "date": "2026-06-01"
+        },
+        {
+          "clicks": 0,
+          "impressions": 8,
+          "ctr": 0.0,
+          "position": 24.0,
+          "date": "2026-06-02"
+        },
+        {
+          "clicks": 0,
+          "impressions": 2,
+          "ctr": 0.0,
+          "position": 30.5,
+          "date": "2026-06-03"
+        },
+        {
+          "clicks": 0,
+          "impressions": 1,
+          "ctr": 0.0,
+          "position": 11.0,
+          "date": "2026-06-04"
+        },
+        {
+          "clicks": 0,
+          "impressions": 0,
+          "ctr": 0.0,
+          "position": 0.0,
+          "date": "2026-06-05"
+        },
+        {
+          "clicks": 0,
+          "impressions": 0,
+          "ctr": 0.0,
+          "position": 0.0,
+          "date": "2026-06-06"
+        },
+        {
+          "clicks": 0,
+          "impressions": 2,
+          "ctr": 0.0,
+          "position": 8.0,
+          "date": "2026-06-07"
+        },
+        {
+          "clicks": 0,
+          "impressions": 0,
+          "ctr": 0.0,
+          "position": 0.0,
+          "date": "2026-06-08"
+        },
+        {
+          "clicks": 0,
+          "impressions": 6,
+          "ctr": 0.0,
+          "position": 26.1667,
+          "date": "2026-06-09"
+        },
+        {
+          "clicks": 0,
+          "impressions": 6,
+          "ctr": 0.0,
+          "position": 45.1667,
+          "date": "2026-06-10"
+        },
+        {
+          "clicks": 0,
+          "impressions": 1,
+          "ctr": 0.0,
+          "position": 8.0,
+          "date": "2026-06-11"
+        },
+        {
+          "clicks": 0,
+          "impressions": 0,
+          "ctr": 0.0,
+          "position": 0.0,
+          "date": "2026-06-12"
+        },
+        {
+          "clicks": 0,
+          "impressions": 8,
+          "ctr": 0.0,
+          "position": 51.125,
+          "date": "2026-06-13"
+        },
+        {
+          "clicks": 1,
+          "impressions": 1,
+          "ctr": 100.0,
+          "position": 42.0,
+          "date": "2026-06-14"
+        },
+        {
+          "clicks": 0,
+          "impressions": 2,
+          "ctr": 0.0,
+          "position": 38.0,
+          "date": "2026-06-15"
+        },
+        {
+          "clicks": 0,
+          "impressions": 7,
+          "ctr": 0.0,
+          "position": 34.8571,
+          "date": "2026-06-16"
+        },
+        {
+          "clicks": 0,
+          "impressions": 2,
+          "ctr": 0.0,
+          "position": 8.5,
+          "date": "2026-06-17"
+        },
+        {
+          "clicks": 0,
+          "impressions": 2,
+          "ctr": 0.0,
+          "position": 9.0,
+          "date": "2026-06-18"
+        },
+        {
+          "clicks": 0,
+          "impressions": 1,
+          "ctr": 0.0,
+          "position": 2.0,
+          "date": "2026-06-19"
+        },
+        {
+          "clicks": 0,
+          "impressions": 2,
+          "ctr": 0.0,
+          "position": 15.0,
+          "date": "2026-06-20"
+        },
+        {
+          "clicks": 0,
+          "impressions": 3,
+          "ctr": 0.0,
+          "position": 9.0,
+          "date": "2026-06-21"
+        },
+        {
+          "clicks": 0,
+          "impressions": 5,
+          "ctr": 0.0,
+          "position": 32.6,
+          "date": "2026-06-22"
+        },
+        {
+          "clicks": 0,
+          "impressions": 5,
+          "ctr": 0.0,
+          "position": 28.8,
+          "date": "2026-06-23"
+        },
+        {
+          "clicks": 0,
+          "impressions": 6,
+          "ctr": 0.0,
+          "position": 26.5,
+          "date": "2026-06-24"
+        },
+        {
+          "clicks": 0,
+          "impressions": 13,
+          "ctr": 0.0,
+          "position": 37.9231,
+          "date": "2026-06-25"
+        },
+        {
+          "clicks": 0,
+          "impressions": 0,
+          "ctr": 0.0,
+          "position": 0.0,
+          "date": "2026-06-26"
+        },
+        {
+          "clicks": 0,
+          "impressions": 2,
+          "ctr": 0.0,
+          "position": 8.5,
+          "date": "2026-06-27"
+        },
+        {
+          "clicks": 0,
+          "impressions": 5,
+          "ctr": 0.0,
+          "position": 29.8,
+          "date": "2026-06-28"
+        },
+        {
+          "clicks": 0,
+          "impressions": 7,
+          "ctr": 0.0,
+          "position": 26.4286,
+          "date": "2026-06-29"
+        },
+        {
+          "clicks": 0,
+          "impressions": 6,
+          "ctr": 0.0,
+          "position": 13.3333,
+          "date": "2026-06-30"
+        }
+      ],
+      "ga4Daily": [
+        {
+          "date": "20260605",
+          "sessions": 2,
+          "engagedSessions": 2,
+          "totalUsers": 1,
+          "screenPageViews": 4,
+          "averageSessionDuration": 109.019831,
+          "userEngagementDuration": 27,
+          "bounceRate": 0,
+          "keyEvents": 0,
+          "averageEngagementTimePerSession": 13.5
+        },
+        {
+          "date": "20260608",
+          "sessions": 1,
+          "engagedSessions": 1,
+          "totalUsers": 1,
+          "screenPageViews": 1,
+          "averageSessionDuration": 58.424424,
+          "userEngagementDuration": 32,
+          "bounceRate": 0,
+          "keyEvents": 0,
+          "averageEngagementTimePerSession": 32.0
+        },
+        {
+          "date": "20260612",
+          "sessions": 1,
+          "engagedSessions": 1,
+          "totalUsers": 1,
+          "screenPageViews": 1,
+          "averageSessionDuration": 33.135642,
+          "userEngagementDuration": 1,
+          "bounceRate": 0,
+          "keyEvents": 0,
+          "averageEngagementTimePerSession": 1.0
+        },
+        {
+          "date": "20260614",
+          "sessions": 1,
+          "engagedSessions": 1,
+          "totalUsers": 1,
+          "screenPageViews": 1,
+          "averageSessionDuration": 72.589699,
+          "userEngagementDuration": 18,
+          "bounceRate": 0,
+          "keyEvents": 0,
+          "averageEngagementTimePerSession": 18.0
+        },
+        {
+          "date": "20260615",
+          "sessions": 5,
+          "engagedSessions": 3,
+          "totalUsers": 4,
+          "screenPageViews": 14,
+          "averageSessionDuration": 146.183467,
+          "userEngagementDuration": 160,
+          "bounceRate": 0.4,
+          "keyEvents": 0,
+          "averageEngagementTimePerSession": 32.0
+        },
+        {
+          "date": "20260616",
+          "sessions": 3,
+          "engagedSessions": 3,
+          "totalUsers": 3,
+          "screenPageViews": 4,
+          "averageSessionDuration": 27.512445,
+          "userEngagementDuration": 26,
+          "bounceRate": 0,
+          "keyEvents": 0,
+          "averageEngagementTimePerSession": 8.67
+        },
+        {
+          "date": "20260618",
+          "sessions": 5,
+          "engagedSessions": 3,
+          "totalUsers": 3,
+          "screenPageViews": 24,
+          "averageSessionDuration": 477.863617,
+          "userEngagementDuration": 306,
+          "bounceRate": 0.4,
+          "keyEvents": 0,
+          "averageEngagementTimePerSession": 61.2
+        },
+        {
+          "date": "20260622",
+          "sessions": 2,
+          "engagedSessions": 2,
+          "totalUsers": 2,
+          "screenPageViews": 14,
+          "averageSessionDuration": 952.4677,
+          "userEngagementDuration": 114,
+          "bounceRate": 0,
+          "keyEvents": 0,
+          "averageEngagementTimePerSession": 57.0
+        },
+        {
+          "date": "20260625",
+          "sessions": 3,
+          "engagedSessions": 3,
+          "totalUsers": 2,
+          "screenPageViews": 7,
+          "averageSessionDuration": 173.258663,
+          "userEngagementDuration": 197,
+          "bounceRate": 0,
+          "keyEvents": 0,
+          "averageEngagementTimePerSession": 65.67
+        },
+        {
+          "date": "20260626",
+          "sessions": 1,
+          "engagedSessions": 1,
+          "totalUsers": 1,
+          "screenPageViews": 2,
+          "averageSessionDuration": 211.003174,
+          "userEngagementDuration": 18,
+          "bounceRate": 0,
+          "keyEvents": 0,
+          "averageEngagementTimePerSession": 18.0
+        },
+        {
+          "date": "20260628",
+          "sessions": 1,
+          "engagedSessions": 0,
+          "totalUsers": 1,
+          "screenPageViews": 1,
+          "averageSessionDuration": 0,
+          "userEngagementDuration": 0,
+          "bounceRate": 1,
+          "keyEvents": 0,
+          "averageEngagementTimePerSession": 0.0
+        }
+      ],
+      "pages": [
+        {
+          "page": "https://yifamaterial.com/top-7-food-packaging-suppliers-for-small-businesses/",
+          "path": "/top-7-food-packaging-suppliers-for-small-businesses",
+          "clicks": 1,
+          "impressions": 42,
+          "ctr": 2.381,
+          "position": 42.1905,
+          "sessions": 1,
+          "users": 1,
+          "views": 1,
+          "bounceRate": 100.0,
+          "averageSessionDuration": 8.24,
+          "indexVerdict": "NEUTRAL",
+          "coverageState": "已抓取 - 尚未编入索引"
+        },
+        {
+          "page": "https://yifamaterial.com/",
+          "path": "/",
+          "clicks": 0,
+          "impressions": 19,
+          "ctr": 0.0,
+          "position": 18.7895,
+          "sessions": 2,
+          "users": 1,
+          "views": 0,
+          "bounceRate": 100.0,
+          "averageSessionDuration": 0.0,
+          "indexVerdict": "PASS",
+          "coverageState": "已提交，且已编入索引"
+        },
+        {
+          "page": "https://yifamaterial.com/about-yifamateria/",
+          "path": "/about-yifamateria",
+          "clicks": 0,
+          "impressions": 5,
+          "ctr": 0.0,
+          "position": 7.4,
+          "sessions": 0,
+          "users": 0,
+          "views": 0,
+          "bounceRate": 0.0,
+          "averageSessionDuration": 0.0,
+          "indexVerdict": "PASS",
+          "coverageState": "已提交，且已编入索引"
+        },
+        {
+          "page": "https://yifamaterial.com/ar/",
+          "path": "/ar",
+          "clicks": 0,
+          "impressions": 2,
+          "ctr": 0.0,
+          "position": 37.0,
+          "sessions": 0,
+          "users": 0,
+          "views": 0,
+          "bounceRate": 0.0,
+          "averageSessionDuration": 0.0,
+          "indexVerdict": "PASS",
+          "coverageState": "已提交，且已编入索引"
+        },
+        {
+          "page": "https://yifamaterial.com/ar/product/face-mask-packaging-bags-facial-mask-sachet-3-side-seal-mask-pouch-cosmetic-mask-packaging-bag/",
+          "path": "/ar/product/face-mask-packaging-bags-facial-mask-sachet-3-side-seal-mask-pouch-cosmetic-mask-packaging-bag",
+          "clicks": 0,
+          "impressions": 1,
+          "ctr": 0.0,
+          "position": 8.0,
+          "sessions": 0,
+          "users": 0,
+          "views": 0,
+          "bounceRate": 0.0,
+          "averageSessionDuration": 0.0,
+          "indexVerdict": "PASS",
+          "coverageState": "已提交，且已编入索引"
+        },
+        {
+          "page": "https://yifamaterial.com/ar/product/soft-packaging-bag/",
+          "path": "/ar/product/soft-packaging-bag",
+          "clicks": 0,
+          "impressions": 1,
+          "ctr": 0.0,
+          "position": 22.0,
+          "sessions": 1,
+          "users": 1,
+          "views": 1,
+          "bounceRate": 100.0,
+          "averageSessionDuration": 0.0,
+          "indexVerdict": "PASS",
+          "coverageState": "已提交，且已编入索引"
+        },
+        {
+          "page": "https://yifamaterial.com/biodegradable-vs-plastic-food-packaging-b2b-guide/",
+          "path": "/biodegradable-vs-plastic-food-packaging-b2b-guide",
+          "clicks": 0,
+          "impressions": 1,
+          "ctr": 0.0,
+          "position": 81.0,
+          "sessions": 1,
+          "users": 1,
+          "views": 1,
+          "bounceRate": 0.0,
+          "averageSessionDuration": 58.42,
+          "indexVerdict": "PASS",
+          "coverageState": "已提交，且已编入索引"
+        },
+        {
+          "page": "https://yifamaterial.com/category/blog/",
+          "path": "/category/blog",
+          "clicks": 0,
+          "impressions": 2,
+          "ctr": 0.0,
+          "position": 9.0,
+          "sessions": 0,
+          "users": 0,
+          "views": 0,
+          "bounceRate": 0.0,
+          "averageSessionDuration": 0.0,
+          "indexVerdict": "PASS",
+          "coverageState": "已提交，且已编入索引"
+        },
+        {
+          "page": "https://yifamaterial.com/category/blog/company-development-news/",
+          "path": "/category/blog/company-development-news",
+          "clicks": 0,
+          "impressions": 2,
+          "ctr": 0.0,
+          "position": 6.5,
+          "sessions": 0,
+          "users": 0,
+          "views": 0,
+          "bounceRate": 0.0,
+          "averageSessionDuration": 0.0,
+          "indexVerdict": "PASS",
+          "coverageState": "已提交，且已编入索引"
+        },
+        {
+          "page": "https://yifamaterial.com/category/blog/exhibition-news/",
+          "path": "/category/blog/exhibition-news",
+          "clicks": 0,
+          "impressions": 2,
+          "ctr": 0.0,
+          "position": 4.0,
+          "sessions": 0,
+          "users": 0,
+          "views": 0,
+          "bounceRate": 0.0,
+          "averageSessionDuration": 0.0,
+          "indexVerdict": "PASS",
+          "coverageState": "已提交，且已编入索引"
+        },
+        {
+          "page": "https://yifamaterial.com/category/blog/industry-news/",
+          "path": "/category/blog/industry-news",
+          "clicks": 0,
+          "impressions": 2,
+          "ctr": 0.0,
+          "position": 4.0,
+          "sessions": 0,
+          "users": 0,
+          "views": 0,
+          "bounceRate": 0.0,
+          "averageSessionDuration": 0.0,
+          "indexVerdict": "PASS",
+          "coverageState": "已提交，且已编入索引"
+        },
+        {
+          "page": "https://yifamaterial.com/contact/",
+          "path": "/contact",
+          "clicks": 0,
+          "impressions": 7,
+          "ctr": 0.0,
+          "position": 6.7143,
+          "sessions": 0,
+          "users": 0,
+          "views": 0,
+          "bounceRate": 0.0,
+          "averageSessionDuration": 0.0,
+          "indexVerdict": "PASS",
+          "coverageState": "已提交，且已编入索引"
+        },
+        {
+          "page": "https://yifamaterial.com/greening-from-passive-compliance-to-active-innovation/5/",
+          "path": "/greening-from-passive-compliance-to-active-innovation/5",
+          "clicks": 0,
+          "impressions": 1,
+          "ctr": 0.0,
+          "position": 5.0,
+          "sessions": 0,
+          "users": 0,
+          "views": 0,
+          "bounceRate": 0.0,
+          "averageSessionDuration": 0.0,
+          "indexVerdict": "PASS",
+          "coverageState": "已提交，且已编入索引"
+        },
+        {
+          "page": "https://yifamaterial.com/greening-from-passive-compliance-to-proactive-innovation-environmental-protection-materials-open-up-a-trillion-yuan-market/",
+          "path": "/greening-from-passive-compliance-to-proactive-innovation-environmental-protection-materials-open-up-a-trillion-yuan-market",
+          "clicks": 0,
+          "impressions": 2,
+          "ctr": 0.0,
+          "position": 10.0,
+          "sessions": 0,
+          "users": 0,
+          "views": 0,
+          "bounceRate": 0.0,
+          "averageSessionDuration": 0.0,
+          "indexVerdict": "PASS",
+          "coverageState": "已提交，且已编入索引"
+        },
+        {
+          "page": "https://yifamaterial.com/packaging-technology-industry-opportunities-and-challenges/5/",
+          "path": "/packaging-technology-industry-opportunities-and-challenges/5",
+          "clicks": 0,
+          "impressions": 1,
+          "ctr": 0.0,
+          "position": 5.0,
+          "sessions": 0,
+          "users": 0,
+          "views": 0,
+          "bounceRate": 0.0,
+          "averageSessionDuration": 0.0,
+          "indexVerdict": "PASS",
+          "coverageState": "已提交，且已编入索引"
+        },
+        {
+          "page": "https://yifamaterial.com/product-category/customized-flexible-packaging/",
+          "path": "/product-category/customized-flexible-packaging",
+          "clicks": 0,
+          "impressions": 1,
+          "ctr": 0.0,
+          "position": 10.0,
+          "sessions": 1,
+          "users": 1,
+          "views": 3,
+          "bounceRate": 0.0,
+          "averageSessionDuration": 178.59,
+          "indexVerdict": "PASS",
+          "coverageState": "已提交，且已编入索引"
+        },
+        {
+          "page": "https://yifamaterial.com/product-category/customized-flexible-packaging/facial-mask-bag/",
+          "path": "/product-category/customized-flexible-packaging/facial-mask-bag",
+          "clicks": 0,
+          "impressions": 1,
+          "ctr": 0.0,
+          "position": 7.0,
+          "sessions": 0,
+          "users": 0,
+          "views": 0,
+          "bounceRate": 0.0,
+          "averageSessionDuration": 0.0,
+          "indexVerdict": "PASS",
+          "coverageState": "已提交，且已编入索引"
+        },
+        {
+          "page": "https://yifamaterial.com/product-category/customized-flexible-packaging/packaging-roll-film/",
+          "path": "/product-category/customized-flexible-packaging/packaging-roll-film",
+          "clicks": 0,
+          "impressions": 4,
+          "ctr": 0.0,
+          "position": 7.75,
+          "sessions": 2,
+          "users": 1,
+          "views": 11,
+          "bounceRate": 0.0,
+          "averageSessionDuration": 756.14,
+          "indexVerdict": "PASS",
+          "coverageState": "已提交，且已编入索引"
+        },
+        {
+          "page": "https://yifamaterial.com/product-category/customized-flexible-packaging/suction-nozzle-bag/",
+          "path": "/product-category/customized-flexible-packaging/suction-nozzle-bag",
+          "clicks": 0,
+          "impressions": 1,
+          "ctr": 0.0,
+          "position": 11.0,
+          "sessions": 0,
+          "users": 0,
+          "views": 0,
+          "bounceRate": 0.0,
+          "averageSessionDuration": 0.0,
+          "indexVerdict": "PASS",
+          "coverageState": "已提交，且已编入索引"
+        },
+        {
+          "page": "https://yifamaterial.com/product/face-mask-packaging-bags-facial-mask-sachet-3-side-seal-mask-pouch-cosmetic-mask-packaging-bag/",
+          "path": "/product/face-mask-packaging-bags-facial-mask-sachet-3-side-seal-mask-pouch-cosmetic-mask-packaging-bag",
+          "clicks": 0,
+          "impressions": 3,
+          "ctr": 0.0,
+          "position": 26.3333,
+          "sessions": 2,
+          "users": 2,
+          "views": 11,
+          "bounceRate": 0.0,
+          "averageSessionDuration": 344.33,
+          "indexVerdict": "PASS",
+          "coverageState": "已提交，且已编入索引"
+        },
+        {
+          "page": "https://yifamaterial.com/product/soft-packaging-bag-1/",
+          "path": "/product/soft-packaging-bag-1",
+          "clicks": 0,
+          "impressions": 1,
+          "ctr": 0.0,
+          "position": 8.0,
+          "sessions": 0,
+          "users": 0,
+          "views": 0,
+          "bounceRate": 0.0,
+          "averageSessionDuration": 0.0,
+          "indexVerdict": "NOT_INSPECTED",
+          "coverageState": ""
+        },
+        {
+          "page": "https://yifamaterial.com/ru/",
+          "path": "/ru",
+          "clicks": 0,
+          "impressions": 2,
+          "ctr": 0.0,
+          "position": 6.0,
+          "sessions": 0,
+          "users": 0,
+          "views": 0,
+          "bounceRate": 0.0,
+          "averageSessionDuration": 0.0,
+          "indexVerdict": "NOT_INSPECTED",
+          "coverageState": ""
+        },
+        {
+          "page": "https://yifamaterial.com/ru/about-yifamateria/",
+          "path": "/ru/about-yifamateria",
+          "clicks": 0,
+          "impressions": 6,
+          "ctr": 0.0,
+          "position": 16.0,
+          "sessions": 0,
+          "users": 0,
+          "views": 0,
+          "bounceRate": 0.0,
+          "averageSessionDuration": 0.0,
+          "indexVerdict": "NOT_INSPECTED",
+          "coverageState": ""
+        },
+        {
+          "page": "https://yifamaterial.com/ru/contact/",
+          "path": "/ru/contact",
+          "clicks": 0,
+          "impressions": 1,
+          "ctr": 0.0,
+          "position": 10.0,
+          "sessions": 0,
+          "users": 0,
+          "views": 0,
+          "bounceRate": 0.0,
+          "averageSessionDuration": 0.0,
+          "indexVerdict": "NOT_INSPECTED",
+          "coverageState": ""
+        },
+        {
+          "page": "https://yifamaterial.com/ru/product-category/customized-flexible-packaging/",
+          "path": "/ru/product-category/customized-flexible-packaging",
+          "clicks": 0,
+          "impressions": 1,
+          "ctr": 0.0,
+          "position": 8.0,
+          "sessions": 0,
+          "users": 0,
+          "views": 0,
+          "bounceRate": 0.0,
+          "averageSessionDuration": 0.0,
+          "indexVerdict": "NOT_INSPECTED",
+          "coverageState": ""
+        },
+        {
+          "page": "https://yifamaterial.com/ru/product-category/customized-flexible-packaging/facial-mask-bag/",
+          "path": "/ru/product-category/customized-flexible-packaging/facial-mask-bag",
+          "clicks": 0,
+          "impressions": 1,
+          "ctr": 0.0,
+          "position": 85.0,
+          "sessions": 0,
+          "users": 0,
+          "views": 0,
+          "bounceRate": 0.0,
+          "averageSessionDuration": 0.0,
+          "indexVerdict": "NOT_INSPECTED",
+          "coverageState": ""
+        },
+        {
+          "page": "https://yifamaterial.com/ru/product-category/customized-flexible-packaging/suction-nozzle-bag/",
+          "path": "/ru/product-category/customized-flexible-packaging/suction-nozzle-bag",
+          "clicks": 0,
+          "impressions": 1,
+          "ctr": 0.0,
+          "position": 12.0,
+          "sessions": 0,
+          "users": 0,
+          "views": 0,
+          "bounceRate": 0.0,
+          "averageSessionDuration": 0.0,
+          "indexVerdict": "NOT_INSPECTED",
+          "coverageState": ""
+        },
+        {
+          "page": "https://yifamaterial.com/ru/product/face-mask-packaging-bags-facial-mask-sachet-3-side-seal-mask-pouch-cosmetic-mask-packaging-bag/",
+          "path": "/ru/product/face-mask-packaging-bags-facial-mask-sachet-3-side-seal-mask-pouch-cosmetic-mask-packaging-bag",
+          "clicks": 0,
+          "impressions": 4,
+          "ctr": 0.0,
+          "position": 27.5,
+          "sessions": 0,
+          "users": 0,
+          "views": 0,
+          "bounceRate": 0.0,
+          "averageSessionDuration": 0.0,
+          "indexVerdict": "NOT_INSPECTED",
+          "coverageState": ""
+        },
+        {
+          "page": "https://yifamaterial.com/ru/service/",
+          "path": "/ru/service",
+          "clicks": 0,
+          "impressions": 1,
+          "ctr": 0.0,
+          "position": 8.0,
+          "sessions": 0,
+          "users": 0,
+          "views": 0,
+          "bounceRate": 0.0,
+          "averageSessionDuration": 0.0,
+          "indexVerdict": "NOT_INSPECTED",
+          "coverageState": ""
+        },
+        {
+          "page": "https://yifamaterial.com/service/",
+          "path": "/service",
+          "clicks": 0,
+          "impressions": 4,
+          "ctr": 0.0,
+          "position": 7.75,
+          "sessions": 1,
+          "users": 1,
+          "views": 3,
+          "bounceRate": 0.0,
+          "averageSessionDuration": 322.37,
+          "indexVerdict": "NOT_INSPECTED",
+          "coverageState": ""
+        },
+        {
+          "page": "https://yifamaterial.com/shop/",
+          "path": "/shop",
+          "clicks": 0,
+          "impressions": 4,
+          "ctr": 0.0,
+          "position": 5.75,
+          "sessions": 0,
+          "users": 0,
+          "views": 0,
+          "bounceRate": 0.0,
+          "averageSessionDuration": 0.0,
+          "indexVerdict": "NOT_INSPECTED",
+          "coverageState": ""
+        },
+        {
+          "page": "https://yifamaterial.com/tag/biodegradable-food-packaging/",
+          "path": "/tag/biodegradable-food-packaging",
+          "clicks": 0,
+          "impressions": 1,
+          "ctr": 0.0,
+          "position": 7.0,
+          "sessions": 0,
+          "users": 0,
+          "views": 0,
+          "bounceRate": 0.0,
+          "averageSessionDuration": 0.0,
+          "indexVerdict": "NOT_INSPECTED",
+          "coverageState": ""
+        },
+        {
+          "page": "https://yifamaterial.com/three-side-seal-pouch-vs-stand-up-flat-bottom-pouches/2/",
+          "path": "/three-side-seal-pouch-vs-stand-up-flat-bottom-pouches/2",
+          "clicks": 0,
+          "impressions": 1,
+          "ctr": 0.0,
+          "position": 157.0,
+          "sessions": 0,
+          "users": 0,
+          "views": 0,
+          "bounceRate": 0.0,
+          "averageSessionDuration": 0.0,
+          "indexVerdict": "NOT_INSPECTED",
+          "coverageState": ""
+        },
+        {
+          "page": "https://yifamaterial.com/top-7-food-packaging-suppliers-for-small-businesses/3/",
+          "path": "/top-7-food-packaging-suppliers-for-small-businesses/3",
+          "clicks": 0,
+          "impressions": 5,
+          "ctr": 0.0,
+          "position": 49.2,
+          "sessions": 0,
+          "users": 0,
+          "views": 0,
+          "bounceRate": 0.0,
+          "averageSessionDuration": 0.0,
+          "indexVerdict": "NOT_INSPECTED",
+          "coverageState": ""
+        }
+      ],
+      "recommendations": [
+        {
+          "type": "索引",
+          "target": "/top-7-food-packaging-suppliers-for-small-businesses",
+          "text": "URL 检查未通过，建议核对抓取、noindex、规范链接和页面可用性。"
+        }
+      ]
+    }
+  ],
+  "quarterComparison": {
+    "current": {
+      "months": [
+        "2026-04",
+        "2026-05",
+        "2026-06"
+      ],
+      "metrics": {
+        "clicks": 3.0,
+        "impressions": 179.0,
+        "ctr": 1.676,
+        "averagePosition": 25.9302,
+        "sessions": 59.0,
+        "bounceRate": 37.2892,
+        "averageSessionDuration": 179.5164
+      }
+    },
+    "previous": null
+  },
+  "report": {
+    "type": "quarterly",
+    "typeLabel": "季度报告",
+    "label": "2026-04_to_2026-06",
+    "domain": "yifamaterial.com",
+    "rangeLabel": "2026-04 至 2026-06",
+    "selectedMonths": [
+      "2026-04",
+      "2026-05",
+      "2026-06"
+    ],
+    "comparison": {
+      "label": "上个季度（2026-01 至 2026-03）",
+      "available": false,
+      "baseline": false,
+      "reason": "暂无上一等长周期归档数据，本报告仅总结本期数据。",
+      "clickDelta": 0,
+      "ctrDelta": 0,
+      "rankDelta": 0
+    }
+  }
+}
