@@ -21598,8 +21598,6 @@
     "comparison": {
       "label": "上月（2026-05）",
       "available": true,
-      "baseline": false,
-      "reason": "",
       "clickDelta": 162.5,
       "ctrDelta": -41.423752270564826,
       "rankDelta": -5.609999999999999
