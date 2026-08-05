@@ -15607,6 +15607,42 @@
       ]
     }
   ],
+  "dataforseoQuarterly": {
+    "reportingPeriod": "2026-04_to_2026-06",
+    "collectedAt": "2026-08-04T14:10:10+08:00",
+    "market": {
+      "location": "United States",
+      "language": "English",
+      "device": "desktop"
+    },
+    "methodology": "Q2 search demand sums the returned April to June monthly search volumes. CPC, paid competition, and SERP are collected-date snapshots.",
+    "costs": {
+      "searchVolume": 0.09,
+      "serp": 0.002,
+      "total": 0.092
+    },
+    "keywords": [
+      {"query": "aluminum extrusions for medical devices", "q2SearchDemand": null, "cpc": null, "competition": null},
+      {"query": "8020 aluminum extrusion", "q2SearchDemand": 17400, "cpc": 2.17, "competition": "HIGH"},
+      {"query": "turnkey aluminum manufacturing", "q2SearchDemand": null, "cpc": null, "competition": null},
+      {"query": "precision aluminum extrusion", "q2SearchDemand": 40, "cpc": 4.22, "competition": "MEDIUM"},
+      {"query": "cutting aluminum extrusion", "q2SearchDemand": 400, "cpc": 3.3, "competition": "MEDIUM"}
+    ],
+    "serp": {
+      "keyword": "aluminum extrusions for medical devices",
+      "organicResults": [
+        {"rank": 2, "domain": "aec.org", "title": "Healthcare", "url": "https://aec.org/healthcare"},
+        {"rank": 3, "domain": "mmgextrusions.com", "title": "Aluminum Extrusions for Medical Equipment", "url": "https://mmgextrusions.com/industries/medical-equipment/"},
+        {"rank": 4, "domain": "taberextrusions.com", "title": "Aluminum Extrusions Provide Healthcare Solutions", "url": "https://taberextrusions.com/aluminum-extrusions-provide-healthcare-solutions/"},
+        {"rank": 5, "domain": "www.minalex.com", "title": "Miniature Aluminum Extrusions: Vital in Healthcare ...", "url": "https://www.minalex.com/2024/03/04/miniature-aluminum-extrusions-critical-components-in-healthcare-and-medical-environments/"},
+        {"rank": 6, "domain": "profileprecisionextrusions.com", "title": "Aluminum Extrusions: A Game Changer for Medical Devices", "url": "https://profileprecisionextrusions.com/aluminum-extrusions-a-game-changer-for-medical-devices/"},
+        {"rank": 7, "domain": "www.medicaldesignbriefs.com", "title": "Revitalizing Product Development with Aluminum Extrusions", "url": "https://www.medicaldesignbriefs.com/component/content/article/20908-revitalizing-product-development-with-aluminum-extrusions"},
+        {"rank": 8, "domain": "www.psiextrusions.com", "title": "Aluminum Fabricated Parts for Medical Devices", "url": "https://www.psiextrusions.com/industries/medical/"},
+        {"rank": 9, "domain": "www.alexandriaindustries.com", "title": "10 Tips For Designing Medical Components With Aluminum", "url": "https://www.alexandriaindustries.com/industry-news/10-tips-designing-medical-components-aluminum/"},
+        {"rank": 10, "domain": "www.compass-anvil.com", "title": "Aluminum Extrusions for Healthcare Applications", "url": "https://www.compass-anvil.com/blog/index.php/2021/05/21/how-are-aluminum-extrusions-used-in-healthcare/"}
+      ]
+    }
+  },
   "quarterComparison": {
     "current": {
       "months": [

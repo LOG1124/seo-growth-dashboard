@@ -95,6 +95,7 @@
     #seo-growth-dashboard-v2 .phase-kpi { margin-top:7px; }
     #seo-growth-dashboard-v2 .seo-toolbar { display:flex; align-items:end; justify-content:space-between; gap:12px; flex-wrap:wrap; margin-bottom:14px; }
     #seo-growth-dashboard-v2 .seo-toolbar .viz-controls { flex:1 1 420px; }
+    #seo-growth-dashboard-v2 .section-meta-actions { display:flex; align-items:center; justify-content:flex-end; gap:10px; flex-wrap:wrap; }
     #seo-growth-dashboard-v2 .report-scope-toggle { align-self:end; min-height:38px; padding:0 15px; border:1px solid rgba(82,48,135,.26); border-radius:999px; color:#533087; background:#f4f0fa; box-shadow:0 1px 2px rgba(58,31,100,.06); font-weight:650; letter-spacing:.01em; transition:background .18s ease,border-color .18s ease,color .18s ease,box-shadow .18s ease; }
     #seo-growth-dashboard-v2 .report-scope-toggle::before { content:'◌'; margin-right:7px; font-size:14px; line-height:1; }
     #seo-growth-dashboard-v2 .report-scope-toggle:hover { border-color:#533087; background:#ede5f8; box-shadow:0 3px 9px rgba(58,31,100,.13); }
@@ -483,6 +484,7 @@
       #seo-growth-dashboard-v2 .hero-source { display:none; }
       #seo-growth-dashboard-v2 .dashboard-filter-bar { padding:18px; }
       #seo-growth-dashboard-v2 .seo-toolbar .viz-controls { grid-template-columns:1fr; }
+      #seo-growth-dashboard-v2 .section-meta-actions { justify-content:space-between; margin-top:10px; }
       #seo-growth-dashboard-v2 .filter-source { align-items:flex-start; margin-top:14px; }
       #seo-growth-dashboard-v2 .executive-brief { grid-template-columns:44px 1fr; padding:22px; }
       #seo-growth-dashboard-v2 .brief-number { width:42px; height:42px; }
@@ -506,7 +508,6 @@
           <label class="form-label" for="google-seo-month">数据月份
             <select class="form-select" id="google-seo-month"></select>
           </label>
-          <button class="report-scope-toggle" id="google-seo-report-total-toggle" type="button" data-report-scope="period" aria-pressed="false">查看报告期合计</button>
           <label class="form-label" for="google-seo-filter">搜索关键词或页面
             <input class="form-control" id="google-seo-filter" type="search" placeholder="输入关键词或 URL 路径">
           </label>
@@ -557,7 +558,7 @@
   <div id="report-period-flow" aria-label="报告期流量来源分布"></div>
 
   <section class="panel" data-panel="google-seo" hidden>
-    <div class="apple-section-heading"><div><h2>按月查看 · Google SEO Intelligence</h2><p>仅本区四项指标、关键词与页面明细随数据月份切换</p></div></div>
+    <div class="apple-section-heading"><div><h2>按月查看 · Google SEO Intelligence</h2><p>仅本区四项指标、关键词与页面明细随数据月份切换</p><div class="google-seo-source text-small">Google 官方一方表现数据 · GSC / GA4</div></div></div>
     <nav class="seo-subtabs" aria-label="Google SEO 分析维度">
       <button class="btn btn-primary" type="button" data-seo-view="summary" aria-pressed="true">核心指标</button>
       <button class="btn" type="button" data-seo-view="keywords" aria-pressed="false">关键词</button>
@@ -574,7 +575,7 @@
       </div>
       <div class="section-head"><div class="section-title">月度变化</div><div class="section-note text-small" id="google-seo-period"></div></div>
       <div id="google-seo-months"></div>
-      <div class="section-head" style="margin-top:22px"><div class="section-title">自然搜索用户质量</div><div class="section-note text-small">自然搜索渠道与全站平均对比</div></div>
+      <div class="section-head" style="margin-top:22px"><div class="section-title">自然搜索用户质量</div><div class="section-meta-actions"><div class="section-note text-small">自然搜索渠道与全站平均对比</div><button class="report-scope-toggle" id="google-seo-report-total-toggle" type="button" data-report-scope="period" aria-pressed="false">查看报告期合计</button></div></div>
       <div class="seo-quality-grid" id="google-seo-quality"></div>
     </section>
 
@@ -582,6 +583,30 @@
     <section data-seo-panel="keywords" hidden>
       <div class="section-head"><div class="section-title">关键词排名与波动</div><div class="section-note text-small" id="google-seo-keyword-count"></div></div>
       <div class="seo-table" id="google-seo-keywords"></div>
+      <section class="market-opportunity-card is-collected" aria-label="DataForSEO 季度市场机会验证">
+        <div class="section-head"><div><div class="market-opportunity-eyebrow text-small">DataForSEO · 第三方关键词市场快照</div><div class="section-title">市场机会验证</div><div class="market-opportunity-period text-small">Q2（2026-04 至 2026-06）· 报告期搜索需求合计；CPC、竞争度与 SERP 为 2026-08-04 快照</div><div class="market-opportunity-source text-small">仅覆盖 Q2 GSC 已筛选的 5 个机会词。该信息是第三方市场参考，不等同于 Google Ads 后台的逐条实时数据，也不替代 GSC / GA4 官方一方表现数据。</div></div><div class="market-opportunity-summary text-small"><span class="is-collected">已采集</span><span>5 个机会词</span><span>1 个 SERP 快照</span></div></div>
+        <div class="market-opportunity-list"><div class="market-opportunity-row header text-small"><div>查询词</div><div>搜索需求</div><div>CPC 快照</div><div>付费竞争度</div><div>SERP 详情</div></div>
+          <div class="market-opportunity-row"><div>aluminum extrusions for medical devices</div><div data-label="搜索需求">—</div><div data-label="CPC 快照">—</div><div data-label="付费竞争度">—</div><div data-label="SERP 详情"><button class="seo-row-action market-opportunity-serp" type="button" aria-expanded="false" aria-controls="market-opportunity-serp-detail">查看 9 条 SERP</button></div></div>
+          <div class="market-opportunity-row"><div>8020 aluminum extrusion</div><div data-label="搜索需求">17,400</div><div data-label="CPC 快照">$2.17</div><div data-label="付费竞争度"><span class="market-opportunity-competition is-high">HIGH</span></div><div data-label="SERP 详情">—</div></div>
+          <div class="market-opportunity-row"><div>turnkey aluminum manufacturing</div><div data-label="搜索需求">—</div><div data-label="CPC 快照">—</div><div data-label="付费竞争度">—</div><div data-label="SERP 详情">—</div></div>
+          <div class="market-opportunity-row"><div>precision aluminum extrusion</div><div data-label="搜索需求">40</div><div data-label="CPC 快照">$4.22</div><div data-label="付费竞争度"><span class="market-opportunity-competition is-medium">MEDIUM</span></div><div data-label="SERP 详情">—</div></div>
+          <div class="market-opportunity-row"><div>cutting aluminum extrusion</div><div data-label="搜索需求">400</div><div data-label="CPC 快照">$3.30</div><div data-label="付费竞争度"><span class="market-opportunity-competition is-medium">MEDIUM</span></div><div data-label="SERP 详情">—</div></div>
+        </div>
+        <div class="market-opportunity-serp-detail" id="market-opportunity-serp-detail" hidden>
+          <div class="seo-detail-title">aluminum extrusions for medical devices · Google US organic SERP</div>
+          <div class="seo-serp-results">
+            <a href="https://aec.org/healthcare" target="_blank" rel="noreferrer"><strong>第 2 位 · aec.org</strong><span>Healthcare</span></a>
+            <a href="https://mmgextrusions.com/industries/medical-equipment/" target="_blank" rel="noreferrer"><strong>第 3 位 · mmgextrusions.com</strong><span>Aluminum Extrusions for Medical Equipment</span></a>
+            <a href="https://taberextrusions.com/aluminum-extrusions-provide-healthcare-solutions/" target="_blank" rel="noreferrer"><strong>第 4 位 · taberextrusions.com</strong><span>Aluminum Extrusions Provide Healthcare Solutions</span></a>
+            <a href="https://www.minalex.com/2024/03/04/miniature-aluminum-extrusions-critical-components-in-healthcare-and-medical-environments/" target="_blank" rel="noreferrer"><strong>第 5 位 · minalex.com</strong><span>Miniature Aluminum Extrusions: Vital in Healthcare …</span></a>
+            <a href="https://profileprecisionextrusions.com/aluminum-extrusions-a-game-changer-for-medical-devices/" target="_blank" rel="noreferrer"><strong>第 6 位 · profileprecisionextrusions.com</strong><span>Aluminum Extrusions: A Game Changer for Medical Devices</span></a>
+            <a href="https://www.medicaldesignbriefs.com/component/content/article/20908-revitalizing-product-development-with-aluminum-extrusions" target="_blank" rel="noreferrer"><strong>第 7 位 · medicaldesignbriefs.com</strong><span>Revitalizing Product Development with Aluminum Extrusions</span></a>
+            <a href="https://www.psiextrusions.com/industries/medical/" target="_blank" rel="noreferrer"><strong>第 8 位 · psiextrusions.com</strong><span>Aluminum Fabricated Parts for Medical Devices</span></a>
+            <a href="https://www.alexandriaindustries.com/industry-news/10-tips-designing-medical-components-aluminum/" target="_blank" rel="noreferrer"><strong>第 9 位 · alexandriaindustries.com</strong><span>10 Tips For Designing Medical Components With Aluminum</span></a>
+            <a href="https://www.compass-anvil.com/blog/index.php/2021/05/21/how-are-aluminum-extrusions-used-in-healthcare/" target="_blank" rel="noreferrer"><strong>第 10 位 · compass-anvil.com</strong><span>Aluminum Extrusions for Healthcare Applications</span></a>
+          </div>
+        </div>
+      </section>
       <div class="card seo-detail" id="google-seo-keyword-detail" hidden></div>
     </section>
 
@@ -1047,6 +1072,17 @@
         renderKeywords();
         renderPages();
       });
+      const serpToggle = root.querySelector('.market-opportunity-serp');
+      const serpDetail = el('market-opportunity-serp-detail');
+      if (serpToggle && serpDetail) {
+        serpToggle.addEventListener('click', () => {
+          const expanded = serpToggle.getAttribute('aria-expanded') === 'true';
+          serpToggle.setAttribute('aria-expanded', String(!expanded));
+          serpToggle.textContent = expanded ? '查看 9 条 SERP' : '收起 SERP';
+          serpToggle.classList.toggle('is-active', !expanded);
+          serpDetail.hidden = expanded;
+        });
+      }
       el('google-seo-filter').addEventListener('input', () => { renderKeywords(); renderPages(); });
       const detailTabs = [...root.querySelectorAll('[data-seo-view]')];
       const detailPanels = [...root.querySelectorAll('[data-seo-panel]')];
@@ -2031,6 +2067,43 @@
       background:var(--secondary);
     }
     #seo-growth-dashboard-v2 .seo-channel-total .seo-channel-meta { color:var(--muted-foreground); }
+    /* Shared DataForSEO market-validation component for monthly and quarterly reports. */
+    #seo-growth-dashboard-v2 .market-opportunity-card { margin-top:24px; padding:20px; border:1px solid #d9e2e7; border-radius:12px; background:#f8fafb; }
+    #seo-growth-dashboard-v2 .market-opportunity-card .section-head { align-items:flex-start; margin-bottom:14px; }
+    #seo-growth-dashboard-v2 .google-seo-source { display:inline-flex; align-items:center; min-height:24px; margin-top:8px; padding:3px 8px; border:1px solid #d7def2; border-radius:999px; color:#3f5987; background:#f5f8ff; font-size:11px; font-weight:700; letter-spacing:.02em; }
+    #seo-growth-dashboard-v2 .market-opportunity-eyebrow { margin-bottom:4px; color:#54717d; font-weight:700; letter-spacing:.08em; text-transform:uppercase; }
+    #seo-growth-dashboard-v2 .market-opportunity-period { margin-top:5px; color:#54717d; font-weight:650; line-height:1.45; }
+    #seo-growth-dashboard-v2 .market-opportunity-source { max-width:620px; margin-top:5px; color:var(--muted-foreground); line-height:1.5; }
+    #seo-growth-dashboard-v2 .market-opportunity-summary { display:flex; flex-wrap:wrap; justify-content:flex-end; gap:6px; color:#54717d; text-align:right; }
+    #seo-growth-dashboard-v2 .market-opportunity-summary span,
+    #seo-growth-dashboard-v2 .market-opportunity-competition { display:inline-flex; align-items:center; min-height:24px; padding:3px 8px; border-radius:999px; font-size:11px; font-weight:700; line-height:1; letter-spacing:.02em; }
+    #seo-growth-dashboard-v2 .market-opportunity-summary span { border:1px solid #d9e2e7; background:#fff; }
+    #seo-growth-dashboard-v2 .market-opportunity-summary .is-collected { border-color:#b8d6cb; color:#26624d; background:#eef8f3; }
+    #seo-growth-dashboard-v2 .market-opportunity-list { border-top:1px solid #d9e2e7; }
+    #seo-growth-dashboard-v2 .market-opportunity-row { display:grid; grid-template-columns:minmax(220px,1.7fr) 94px 94px 122px 118px; gap:14px; align-items:center; padding:14px 0; border-bottom:1px solid #dfe6ea; }
+    #seo-growth-dashboard-v2 .market-opportunity-row.header { padding:10px 0; color:#647780; font-size:var(--text-sm); }
+    #seo-growth-dashboard-v2 .market-opportunity-row > :not(:first-child) { text-align:center; color:var(--foreground); font-variant-numeric:tabular-nums; }
+    #seo-growth-dashboard-v2 .market-opportunity-competition { color:#4f5a60; background:#e8edf0; }
+    #seo-growth-dashboard-v2 .market-opportunity-competition.is-high { color:#7a4a18; background:#f7ead8; }
+    #seo-growth-dashboard-v2 .market-opportunity-competition.is-medium { color:#534768; background:#eee9f4; }
+    #seo-growth-dashboard-v2 .market-opportunity-serp { width:100%; min-height:44px; white-space:nowrap; }
+    #seo-growth-dashboard-v2 .market-opportunity-serp.is-active { border-color:#4d2f73; color:#fff; background:#4d2f73; }
+    #seo-growth-dashboard-v2 .market-opportunity-serp-detail { margin-top:16px; padding-top:16px; border-top:1px solid #dfe6ea; }
+    #seo-growth-dashboard-v2 .market-opportunity-serp-detail .seo-serp-results { display:grid; grid-template-columns:repeat(3,minmax(0,1fr)); gap:10px; margin-top:14px; }
+    #seo-growth-dashboard-v2 .market-opportunity-serp-detail .seo-serp-results a { display:grid; align-content:start; gap:4px; min-height:84px; padding:12px; border:1px solid #dfe6ea; border-radius:8px; color:var(--foreground); text-decoration:none; }
+    #seo-growth-dashboard-v2 .market-opportunity-serp-detail .seo-serp-results a:hover { border-color:#b9a4df; background:#faf8fd; }
+    #seo-growth-dashboard-v2 .market-opportunity-serp-detail .seo-serp-results a:focus-visible { outline:3px solid #b9a4df; outline-offset:2px; }
+    #seo-growth-dashboard-v2 .market-opportunity-serp-detail .seo-serp-results span { color:var(--muted-foreground); line-height:1.35; }
+    @media (max-width:720px) {
+      #seo-growth-dashboard-v2 .market-opportunity-card { padding:16px; }
+      #seo-growth-dashboard-v2 .market-opportunity-row { grid-template-columns:1fr 1fr; gap:10px 12px; }
+      #seo-growth-dashboard-v2 .market-opportunity-row.header { display:none; }
+      #seo-growth-dashboard-v2 .market-opportunity-row > :first-child { grid-column:1/-1; color:var(--foreground); }
+      #seo-growth-dashboard-v2 .market-opportunity-row > [data-label] { display:flex; justify-content:space-between; gap:12px; text-align:right; }
+      #seo-growth-dashboard-v2 .market-opportunity-row > [data-label]::before { content:attr(data-label); color:var(--muted-foreground); text-align:left; }
+      #seo-growth-dashboard-v2 .market-opportunity-summary { justify-content:flex-start; margin-top:10px; text-align:left; }
+      #seo-growth-dashboard-v2 .market-opportunity-serp-detail .seo-serp-results { grid-template-columns:1fr; }
+    }
     @media (max-width:1100px) {
       #seo-growth-dashboard-v2 [data-panel="google-seo"] > .metrics { grid-template-columns:repeat(2,minmax(0,1fr)) !important; }
     }
@@ -2122,3 +2195,13 @@
   }
 })();
 </script>
+
+<style>
+  /* Shared type roles for the approved Liangyin 2026-Q2 market-validation template. */
+  #seo-growth-dashboard-v2 .market-opportunity-row.header { color:var(--foreground); font-weight:500; }
+  #seo-growth-dashboard-v2 .market-opportunity-row:not(.header) > :first-child { font-weight:600; }
+  #seo-growth-dashboard-v2 .market-opportunity-row:not(.header) > :first-child strong { font-weight:inherit; }
+  #seo-growth-dashboard-v2 .market-opportunity-row:not(.header) > :nth-child(2),
+  #seo-growth-dashboard-v2 .market-opportunity-row:not(.header) > :nth-child(3) { font-weight:400; }
+  #seo-growth-dashboard-v2 .market-opportunity-no-serp { font-weight:400; }
+</style>

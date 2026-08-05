@@ -4147,6 +4147,388 @@
           "averageEngagementTimePerSession": 88.85
         }
       ],
+      "marketKeywords": [
+        {
+          "clicks": 0,
+          "impressions": 147,
+          "ctr": 0.0,
+          "position": 45.5646,
+          "query": "body care manufacturer",
+          "selection_reason": "与主营产品词匹配；已有美国市场曝光；点击率偏低；排名存在提升空间",
+          "keyword": "body care manufacturer",
+          "search_volume": 2900,
+          "cpc": 10.49,
+          "competition": "HIGH",
+          "competition_index": 71,
+          "monthly_searches": [
+            {
+              "year": 2026,
+              "month": 6,
+              "search_volume": 20
+            },
+            {
+              "year": 2026,
+              "month": 5,
+              "search_volume": 30
+            },
+            {
+              "year": 2026,
+              "month": 4,
+              "search_volume": 10
+            },
+            {
+              "year": 2026,
+              "month": 3,
+              "search_volume": 20
+            },
+            {
+              "year": 2026,
+              "month": 2,
+              "search_volume": 50
+            },
+            {
+              "year": 2026,
+              "month": 1,
+              "search_volume": 40
+            },
+            {
+              "year": 2025,
+              "month": 12,
+              "search_volume": 30
+            },
+            {
+              "year": 2025,
+              "month": 11,
+              "search_volume": 10
+            },
+            {
+              "year": 2025,
+              "month": 10,
+              "search_volume": 33100
+            },
+            {
+              "year": 2025,
+              "month": 9,
+              "search_volume": 1300
+            },
+            {
+              "year": 2025,
+              "month": 8,
+              "search_volume": 1600
+            },
+            {
+              "year": 2025,
+              "month": 7,
+              "search_volume": 30
+            }
+          ]
+        },
+        {
+          "clicks": 0,
+          "impressions": 103,
+          "ctr": 0.0,
+          "position": 49.6796,
+          "query": "body care manufacturers",
+          "selection_reason": "与主营产品词匹配；已有美国市场曝光；点击率偏低；排名存在提升空间",
+          "keyword": "body care manufacturers",
+          "search_volume": 2900,
+          "cpc": 10.49,
+          "competition": "HIGH",
+          "competition_index": 71,
+          "monthly_searches": [
+            {
+              "year": 2026,
+              "month": 6,
+              "search_volume": 20
+            },
+            {
+              "year": 2026,
+              "month": 5,
+              "search_volume": 30
+            },
+            {
+              "year": 2026,
+              "month": 4,
+              "search_volume": 10
+            },
+            {
+              "year": 2026,
+              "month": 3,
+              "search_volume": 20
+            },
+            {
+              "year": 2026,
+              "month": 2,
+              "search_volume": 50
+            },
+            {
+              "year": 2026,
+              "month": 1,
+              "search_volume": 40
+            },
+            {
+              "year": 2025,
+              "month": 12,
+              "search_volume": 30
+            },
+            {
+              "year": 2025,
+              "month": 11,
+              "search_volume": 10
+            },
+            {
+              "year": 2025,
+              "month": 10,
+              "search_volume": 33100
+            },
+            {
+              "year": 2025,
+              "month": 9,
+              "search_volume": 1300
+            },
+            {
+              "year": 2025,
+              "month": 8,
+              "search_volume": 1600
+            },
+            {
+              "year": 2025,
+              "month": 7,
+              "search_volume": 30
+            }
+          ]
+        },
+        {
+          "clicks": 0,
+          "impressions": 101,
+          "ctr": 0.0,
+          "position": 17.099,
+          "query": "\"anti-hair-loss shampoo manufacturer\"",
+          "selection_reason": "与主营产品词匹配；已有美国市场曝光；点击率偏低；排名存在提升空间",
+          "keyword": "\"anti-hair-loss shampoo manufacturer\"",
+          "search_volume": null,
+          "cpc": null,
+          "competition": null,
+          "competition_index": null,
+          "monthly_searches": null
+        },
+        {
+          "clicks": 0,
+          "impressions": 80,
+          "ctr": 0.0,
+          "position": 22.625,
+          "query": "natural skin care manufacturer",
+          "selection_reason": "与主营产品词匹配；已有美国市场曝光；点击率偏低；排名存在提升空间",
+          "keyword": "natural skin care manufacturer",
+          "search_volume": 10,
+          "cpc": 8.21,
+          "competition": "LOW",
+          "competition_index": 10,
+          "monthly_searches": [
+            {
+              "year": 2026,
+              "month": 6,
+              "search_volume": 20
+            },
+            {
+              "year": 2026,
+              "month": 5,
+              "search_volume": 10
+            },
+            {
+              "year": 2026,
+              "month": 4,
+              "search_volume": 10
+            },
+            {
+              "year": 2026,
+              "month": 3,
+              "search_volume": 10
+            },
+            {
+              "year": 2026,
+              "month": 2,
+              "search_volume": 10
+            },
+            {
+              "year": 2026,
+              "month": 1,
+              "search_volume": 10
+            },
+            {
+              "year": 2025,
+              "month": 12,
+              "search_volume": 10
+            },
+            {
+              "year": 2025,
+              "month": 11,
+              "search_volume": 10
+            },
+            {
+              "year": 2025,
+              "month": 10,
+              "search_volume": 10
+            },
+            {
+              "year": 2025,
+              "month": 9,
+              "search_volume": 10
+            },
+            {
+              "year": 2025,
+              "month": 8,
+              "search_volume": 10
+            },
+            {
+              "year": 2025,
+              "month": 7,
+              "search_volume": 10
+            }
+          ]
+        },
+        {
+          "clicks": 0,
+          "impressions": 73,
+          "ctr": 0.0,
+          "position": 25.9726,
+          "query": "natural cosmetic manufacturers",
+          "selection_reason": "与主营产品词匹配；已有美国市场曝光；点击率偏低；排名存在提升空间",
+          "keyword": "natural cosmetic manufacturers",
+          "search_volume": 30,
+          "cpc": 14.99,
+          "competition": "MEDIUM",
+          "competition_index": 35,
+          "monthly_searches": [
+            {
+              "year": 2026,
+              "month": 6,
+              "search_volume": 30
+            },
+            {
+              "year": 2026,
+              "month": 5,
+              "search_volume": 10
+            },
+            {
+              "year": 2026,
+              "month": 4,
+              "search_volume": 30
+            },
+            {
+              "year": 2026,
+              "month": 3,
+              "search_volume": 10
+            },
+            {
+              "year": 2026,
+              "month": 2,
+              "search_volume": 10
+            },
+            {
+              "year": 2026,
+              "month": 1,
+              "search_volume": 10
+            },
+            {
+              "year": 2025,
+              "month": 12,
+              "search_volume": 10
+            },
+            {
+              "year": 2025,
+              "month": 11,
+              "search_volume": 10
+            },
+            {
+              "year": 2025,
+              "month": 10,
+              "search_volume": 10
+            },
+            {
+              "year": 2025,
+              "month": 9,
+              "search_volume": 110
+            },
+            {
+              "year": 2025,
+              "month": 8,
+              "search_volume": 10
+            },
+            {
+              "year": 2025,
+              "month": 7,
+              "search_volume": 110
+            }
+          ]
+        }
+      ],
+      "serpDetail": {
+        "keyword": "body care manufacturer",
+        "status_code": 20000,
+        "status_message": "Ok.",
+        "cost": 0.002,
+        "task_status_code": 20000,
+        "task_status_message": "Ok.",
+        "organic_results": [
+          {
+            "rank": 2,
+            "domain": "wholesalenaturalbodycare.com",
+            "title": "Wholesale Natural Body Care | Wholesale Natural Skincare ...",
+            "url": "https://wholesalenaturalbodycare.com/?srsltid=AfmBOopluAGTehLmBcbjyC_lixrJOJfY8vtFXkOc4rTKBmqXWR2yh6Tt",
+            "description": "Affordable, plant-based body care perfect for retailers and private label brands. MADE IN THE USA GMP-ISO CERTIFIED FACILITY Paraben & Cruelty Free MADE IN THE ..."
+          },
+          {
+            "rank": 3,
+            "domain": "inductiontherapies.com",
+            "title": "Top 13 Best Private-Label Skincare Manufacturers USA ...",
+            "url": "https://inductiontherapies.com/blogs/news/best-private-label-skin-care-manufacturers-usa?srsltid=AfmBOorMubWzyLy3H4t9hKL1YIve-JHwVfDHPS_cb-ltQ5VH_dDsIR-q",
+            "description": "Curated list of 13 of the Best Private Label Skincare companies in the US for your brand in 2026."
+          },
+          {
+            "rank": 4,
+            "domain": "naturalskincare.com",
+            "title": "Private Label Skin Care Manufacturer, Cosmetic Solutions ...",
+            "url": "https://naturalskincare.com/",
+            "description": "Cosmetic Solutions offers full turnkey private label skincare services to emerging and established brands as well as medical professionals, spas and salons and ... Read more"
+          },
+          {
+            "rank": 5,
+            "domain": "medpaksolutions.com",
+            "title": "Top 13 Private-Label Skin Care Manufacturers in the USA",
+            "url": "https://medpaksolutions.com/best-skin-care-manufacturers-usa/",
+            "description": "Top 13 Private-Label Skin Care Manufacturers in the USA · Medpak Solutions · Pravada Private Label · Libby Labs · GoodVara · Dynamic Blending · Rainshadow Labs. Read more"
+          },
+          {
+            "rank": 6,
+            "domain": "www.vitellelab.com",
+            "title": "Vitelle Labs: Private Label Skincare & Custom Formulation",
+            "url": "https://www.vitellelab.com/",
+            "description": "Founded in 1997, Vitelle is the industry leader in the development and manufacture of cutting edge skin and body care products for the professional skincare ..."
+          },
+          {
+            "rank": 7,
+            "domain": "privlabellabs.com",
+            "title": "USA Skincare Product Manufacturer",
+            "url": "https://privlabellabs.com/collections/skincare-manufacturer?srsltid=AfmBOoqD4-NX5xRnhs85zKd_aWjZwh5JqCzrvvUMhU-n00_Du4eN5vjM",
+            "description": "Partner with a leading USA-based skincare manufacturer. We craft custom facial creams, serums, and body lotions for private label and white label brands."
+          },
+          {
+            "rank": 8,
+            "domain": "noesiscosmetics.com",
+            "title": "Top 10 Private Label Cosmetic Manufacturers For 2025",
+            "url": "https://noesiscosmetics.com/top-10-private-label-cosmetic-manufacturers-for-2025/",
+            "description": "Dec 5, 2024 — HSA Cosmetics SpA is an Italian private label manufacturer specializing in hair care, skin care, and body care products."
+          },
+          {
+            "rank": 9,
+            "domain": "www.thglabs.com",
+            "title": "THG Labs: Home",
+            "url": "https://www.thglabs.com/",
+            "description": "We develop and manufacture bespoke private label skincare, haircare, bodycare, suncare and fragrance products, helping brands unlock the beauty of their ..."
+          }
+        ]
+      },
       "pages": [
         {
           "page": "https://guogancosmetics.com/",
@@ -8258,6 +8640,101 @@
       }
     }
   },
+  "strategyOpportunities": {
+    "archiveMonth": "2026-08",
+    "collectedAt": "2026-08-03T09:01:32Z",
+    "location": "United States",
+    "language": "English",
+    "disclaimer": "第三方策略发现，不替代 GSC / GA4 / DataForSEO 核心指标。候选竞品，尚未确认。",
+    "priorityOpportunities": [
+      {
+        "keyword": "body care manufacturer",
+        "current_rank": 53,
+        "matched_url": "https://guogancosmetics.com/body-care-products-manufacturers-top-12-brands-worth-knowing/",
+        "recommendation": "重写或扩展已有页面，并补充内链",
+        "recommended_page_type": "B2B 落地页",
+        "intent": "commercial"
+      },
+      {
+        "keyword": "best private label skin care manufacturers",
+        "current_rank": 32,
+        "matched_url": "https://guogancosmetics.com/natural-skin-care-manufacturers-7-best-picks-for-your-brand/",
+        "recommendation": "重写或扩展已有页面，并补充内链",
+        "recommended_page_type": "对比评测页",
+        "intent": "commercial"
+      }
+    ],
+    "domainKeywords": [
+      {
+        "keyword": "natural products manufacturers",
+        "rank": 10,
+        "url": "https://guogancosmetics.com/natural-skin-care-manufacturers-7-best-picks-for-your-brand/",
+        "traffic_estimate": 0.791
+      },
+      {
+        "keyword": "natural products manufacturer",
+        "rank": 14,
+        "url": "https://guogancosmetics.com/natural-skin-care-manufacturers-7-best-picks-for-your-brand/",
+        "traffic_estimate": 0.392
+      },
+      {
+        "keyword": "natural skincare manufacturers",
+        "rank": 22,
+        "url": "https://guogancosmetics.com/natural-skin-care-manufacturers-7-best-picks-for-your-brand/",
+        "traffic_estimate": 0.066
+      },
+      {
+        "keyword": "custom hair products",
+        "rank": 27,
+        "url": "https://guogancosmetics.com/custom-hair-products-7-brands-actually-worth-trying/",
+        "traffic_estimate": 1.239
+      },
+      {
+        "keyword": "natural skincare manufacturer",
+        "rank": 29,
+        "url": "https://guogancosmetics.com/natural-skin-care-manufacturers-7-best-picks-for-your-brand/",
+        "traffic_estimate": 0.063
+      }
+    ],
+    "competitorDirections": [
+      {
+        "competitor": "ladyburd.com",
+        "keyword": "beauty product manufacturers",
+        "intent": "commercial",
+        "page_type": "产品/服务落地页"
+      },
+      {
+        "competitor": "ladyburd.com",
+        "keyword": "beauty product manufacturing",
+        "intent": "commercial",
+        "page_type": "分类/产品专题页"
+      },
+      {
+        "competitor": "ladyburd.com",
+        "keyword": "beauty products manufacturer",
+        "intent": "commercial",
+        "page_type": "产品/服务落地页"
+      },
+      {
+        "competitor": "ladyburd.com",
+        "keyword": "beauty products manufacturers",
+        "intent": "commercial",
+        "page_type": "产品/服务落地页"
+      },
+      {
+        "competitor": "ladyburd.com",
+        "keyword": "beauty products manufacturing",
+        "intent": "commercial",
+        "page_type": "分类/产品专题页"
+      },
+      {
+        "competitor": "wholesalenaturalbodycare.com",
+        "keyword": "hair oil in bulk",
+        "intent": "transactional",
+        "page_type": "分类/产品专题页"
+      }
+    ]
+  },
   "comparisonMonths": [
     {
       "label": "2026-05",
@@ -10674,6 +11151,8 @@
           "averageEngagementTimePerSession": 15.0
         }
       ],
+      "marketKeywords": [],
+      "serpDetail": null,
       "pages": [
         {
           "page": "https://guogancosmetics.com/",
@@ -17505,6 +17984,388 @@
           "averageEngagementTimePerSession": 88.85
         }
       ],
+      "marketKeywords": [
+        {
+          "clicks": 0,
+          "impressions": 147,
+          "ctr": 0.0,
+          "position": 45.5646,
+          "query": "body care manufacturer",
+          "selection_reason": "与主营产品词匹配；已有美国市场曝光；点击率偏低；排名存在提升空间",
+          "keyword": "body care manufacturer",
+          "search_volume": 2900,
+          "cpc": 10.49,
+          "competition": "HIGH",
+          "competition_index": 71,
+          "monthly_searches": [
+            {
+              "year": 2026,
+              "month": 6,
+              "search_volume": 20
+            },
+            {
+              "year": 2026,
+              "month": 5,
+              "search_volume": 30
+            },
+            {
+              "year": 2026,
+              "month": 4,
+              "search_volume": 10
+            },
+            {
+              "year": 2026,
+              "month": 3,
+              "search_volume": 20
+            },
+            {
+              "year": 2026,
+              "month": 2,
+              "search_volume": 50
+            },
+            {
+              "year": 2026,
+              "month": 1,
+              "search_volume": 40
+            },
+            {
+              "year": 2025,
+              "month": 12,
+              "search_volume": 30
+            },
+            {
+              "year": 2025,
+              "month": 11,
+              "search_volume": 10
+            },
+            {
+              "year": 2025,
+              "month": 10,
+              "search_volume": 33100
+            },
+            {
+              "year": 2025,
+              "month": 9,
+              "search_volume": 1300
+            },
+            {
+              "year": 2025,
+              "month": 8,
+              "search_volume": 1600
+            },
+            {
+              "year": 2025,
+              "month": 7,
+              "search_volume": 30
+            }
+          ]
+        },
+        {
+          "clicks": 0,
+          "impressions": 103,
+          "ctr": 0.0,
+          "position": 49.6796,
+          "query": "body care manufacturers",
+          "selection_reason": "与主营产品词匹配；已有美国市场曝光；点击率偏低；排名存在提升空间",
+          "keyword": "body care manufacturers",
+          "search_volume": 2900,
+          "cpc": 10.49,
+          "competition": "HIGH",
+          "competition_index": 71,
+          "monthly_searches": [
+            {
+              "year": 2026,
+              "month": 6,
+              "search_volume": 20
+            },
+            {
+              "year": 2026,
+              "month": 5,
+              "search_volume": 30
+            },
+            {
+              "year": 2026,
+              "month": 4,
+              "search_volume": 10
+            },
+            {
+              "year": 2026,
+              "month": 3,
+              "search_volume": 20
+            },
+            {
+              "year": 2026,
+              "month": 2,
+              "search_volume": 50
+            },
+            {
+              "year": 2026,
+              "month": 1,
+              "search_volume": 40
+            },
+            {
+              "year": 2025,
+              "month": 12,
+              "search_volume": 30
+            },
+            {
+              "year": 2025,
+              "month": 11,
+              "search_volume": 10
+            },
+            {
+              "year": 2025,
+              "month": 10,
+              "search_volume": 33100
+            },
+            {
+              "year": 2025,
+              "month": 9,
+              "search_volume": 1300
+            },
+            {
+              "year": 2025,
+              "month": 8,
+              "search_volume": 1600
+            },
+            {
+              "year": 2025,
+              "month": 7,
+              "search_volume": 30
+            }
+          ]
+        },
+        {
+          "clicks": 0,
+          "impressions": 101,
+          "ctr": 0.0,
+          "position": 17.099,
+          "query": "\"anti-hair-loss shampoo manufacturer\"",
+          "selection_reason": "与主营产品词匹配；已有美国市场曝光；点击率偏低；排名存在提升空间",
+          "keyword": "\"anti-hair-loss shampoo manufacturer\"",
+          "search_volume": null,
+          "cpc": null,
+          "competition": null,
+          "competition_index": null,
+          "monthly_searches": null
+        },
+        {
+          "clicks": 0,
+          "impressions": 80,
+          "ctr": 0.0,
+          "position": 22.625,
+          "query": "natural skin care manufacturer",
+          "selection_reason": "与主营产品词匹配；已有美国市场曝光；点击率偏低；排名存在提升空间",
+          "keyword": "natural skin care manufacturer",
+          "search_volume": 10,
+          "cpc": 8.21,
+          "competition": "LOW",
+          "competition_index": 10,
+          "monthly_searches": [
+            {
+              "year": 2026,
+              "month": 6,
+              "search_volume": 20
+            },
+            {
+              "year": 2026,
+              "month": 5,
+              "search_volume": 10
+            },
+            {
+              "year": 2026,
+              "month": 4,
+              "search_volume": 10
+            },
+            {
+              "year": 2026,
+              "month": 3,
+              "search_volume": 10
+            },
+            {
+              "year": 2026,
+              "month": 2,
+              "search_volume": 10
+            },
+            {
+              "year": 2026,
+              "month": 1,
+              "search_volume": 10
+            },
+            {
+              "year": 2025,
+              "month": 12,
+              "search_volume": 10
+            },
+            {
+              "year": 2025,
+              "month": 11,
+              "search_volume": 10
+            },
+            {
+              "year": 2025,
+              "month": 10,
+              "search_volume": 10
+            },
+            {
+              "year": 2025,
+              "month": 9,
+              "search_volume": 10
+            },
+            {
+              "year": 2025,
+              "month": 8,
+              "search_volume": 10
+            },
+            {
+              "year": 2025,
+              "month": 7,
+              "search_volume": 10
+            }
+          ]
+        },
+        {
+          "clicks": 0,
+          "impressions": 73,
+          "ctr": 0.0,
+          "position": 25.9726,
+          "query": "natural cosmetic manufacturers",
+          "selection_reason": "与主营产品词匹配；已有美国市场曝光；点击率偏低；排名存在提升空间",
+          "keyword": "natural cosmetic manufacturers",
+          "search_volume": 30,
+          "cpc": 14.99,
+          "competition": "MEDIUM",
+          "competition_index": 35,
+          "monthly_searches": [
+            {
+              "year": 2026,
+              "month": 6,
+              "search_volume": 30
+            },
+            {
+              "year": 2026,
+              "month": 5,
+              "search_volume": 10
+            },
+            {
+              "year": 2026,
+              "month": 4,
+              "search_volume": 30
+            },
+            {
+              "year": 2026,
+              "month": 3,
+              "search_volume": 10
+            },
+            {
+              "year": 2026,
+              "month": 2,
+              "search_volume": 10
+            },
+            {
+              "year": 2026,
+              "month": 1,
+              "search_volume": 10
+            },
+            {
+              "year": 2025,
+              "month": 12,
+              "search_volume": 10
+            },
+            {
+              "year": 2025,
+              "month": 11,
+              "search_volume": 10
+            },
+            {
+              "year": 2025,
+              "month": 10,
+              "search_volume": 10
+            },
+            {
+              "year": 2025,
+              "month": 9,
+              "search_volume": 110
+            },
+            {
+              "year": 2025,
+              "month": 8,
+              "search_volume": 10
+            },
+            {
+              "year": 2025,
+              "month": 7,
+              "search_volume": 110
+            }
+          ]
+        }
+      ],
+      "serpDetail": {
+        "keyword": "body care manufacturer",
+        "status_code": 20000,
+        "status_message": "Ok.",
+        "cost": 0.002,
+        "task_status_code": 20000,
+        "task_status_message": "Ok.",
+        "organic_results": [
+          {
+            "rank": 2,
+            "domain": "wholesalenaturalbodycare.com",
+            "title": "Wholesale Natural Body Care | Wholesale Natural Skincare ...",
+            "url": "https://wholesalenaturalbodycare.com/?srsltid=AfmBOopluAGTehLmBcbjyC_lixrJOJfY8vtFXkOc4rTKBmqXWR2yh6Tt",
+            "description": "Affordable, plant-based body care perfect for retailers and private label brands. MADE IN THE USA GMP-ISO CERTIFIED FACILITY Paraben & Cruelty Free MADE IN THE ..."
+          },
+          {
+            "rank": 3,
+            "domain": "inductiontherapies.com",
+            "title": "Top 13 Best Private-Label Skincare Manufacturers USA ...",
+            "url": "https://inductiontherapies.com/blogs/news/best-private-label-skin-care-manufacturers-usa?srsltid=AfmBOorMubWzyLy3H4t9hKL1YIve-JHwVfDHPS_cb-ltQ5VH_dDsIR-q",
+            "description": "Curated list of 13 of the Best Private Label Skincare companies in the US for your brand in 2026."
+          },
+          {
+            "rank": 4,
+            "domain": "naturalskincare.com",
+            "title": "Private Label Skin Care Manufacturer, Cosmetic Solutions ...",
+            "url": "https://naturalskincare.com/",
+            "description": "Cosmetic Solutions offers full turnkey private label skincare services to emerging and established brands as well as medical professionals, spas and salons and ... Read more"
+          },
+          {
+            "rank": 5,
+            "domain": "medpaksolutions.com",
+            "title": "Top 13 Private-Label Skin Care Manufacturers in the USA",
+            "url": "https://medpaksolutions.com/best-skin-care-manufacturers-usa/",
+            "description": "Top 13 Private-Label Skin Care Manufacturers in the USA · Medpak Solutions · Pravada Private Label · Libby Labs · GoodVara · Dynamic Blending · Rainshadow Labs. Read more"
+          },
+          {
+            "rank": 6,
+            "domain": "www.vitellelab.com",
+            "title": "Vitelle Labs: Private Label Skincare & Custom Formulation",
+            "url": "https://www.vitellelab.com/",
+            "description": "Founded in 1997, Vitelle is the industry leader in the development and manufacture of cutting edge skin and body care products for the professional skincare ..."
+          },
+          {
+            "rank": 7,
+            "domain": "privlabellabs.com",
+            "title": "USA Skincare Product Manufacturer",
+            "url": "https://privlabellabs.com/collections/skincare-manufacturer?srsltid=AfmBOoqD4-NX5xRnhs85zKd_aWjZwh5JqCzrvvUMhU-n00_Du4eN5vjM",
+            "description": "Partner with a leading USA-based skincare manufacturer. We craft custom facial creams, serums, and body lotions for private label and white label brands."
+          },
+          {
+            "rank": 8,
+            "domain": "noesiscosmetics.com",
+            "title": "Top 10 Private Label Cosmetic Manufacturers For 2025",
+            "url": "https://noesiscosmetics.com/top-10-private-label-cosmetic-manufacturers-for-2025/",
+            "description": "Dec 5, 2024 — HSA Cosmetics SpA is an Italian private label manufacturer specializing in hair care, skin care, and body care products."
+          },
+          {
+            "rank": 9,
+            "domain": "www.thglabs.com",
+            "title": "THG Labs: Home",
+            "url": "https://www.thglabs.com/",
+            "description": "We develop and manufacture bespoke private label skincare, haircare, bodycare, suncare and fragrance products, helping brands unlock the beauty of their ..."
+          }
+        ]
+      },
       "pages": [
         {
           "page": "https://guogancosmetics.com/",
