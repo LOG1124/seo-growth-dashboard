@@ -15604,7 +15604,98 @@
           "target": "/contact-us",
           "text": "曝光较高但点击率低，建议优化标题、描述和搜索意图匹配。"
         }
-      ]
+      ],
+      "marketKeywords": [
+        {
+          "query": "aluminum extrusions for medical devices",
+          "search_volume": null,
+          "cpc": null,
+          "competition": null
+        },
+        {
+          "query": "8020 aluminum extrusion",
+          "search_volume": 17400,
+          "cpc": 2.17,
+          "competition": "HIGH"
+        },
+        {
+          "query": "turnkey aluminum manufacturing",
+          "search_volume": null,
+          "cpc": null,
+          "competition": null
+        },
+        {
+          "query": "precision aluminum extrusion",
+          "search_volume": 40,
+          "cpc": 4.22,
+          "competition": "MEDIUM"
+        },
+        {
+          "query": "cutting aluminum extrusion",
+          "search_volume": 400,
+          "cpc": 3.3,
+          "competition": "MEDIUM"
+        }
+      ],
+      "serpDetail": {
+        "keyword": "aluminum extrusions for medical devices",
+        "organic_results": [
+          {
+            "rank": 2,
+            "domain": "aec.org",
+            "title": "Healthcare",
+            "url": "https://aec.org/healthcare"
+          },
+          {
+            "rank": 3,
+            "domain": "mmgextrusions.com",
+            "title": "Aluminum Extrusions for Medical Equipment",
+            "url": "https://mmgextrusions.com/industries/medical-equipment/"
+          },
+          {
+            "rank": 4,
+            "domain": "taberextrusions.com",
+            "title": "Aluminum Extrusions Provide Healthcare Solutions",
+            "url": "https://taberextrusions.com/aluminum-extrusions-provide-healthcare-solutions/"
+          },
+          {
+            "rank": 5,
+            "domain": "www.minalex.com",
+            "title": "Miniature Aluminum Extrusions: Vital in Healthcare ...",
+            "url": "https://www.minalex.com/2024/03/04/miniature-aluminum-extrusions-critical-components-in-healthcare-and-medical-environments/"
+          },
+          {
+            "rank": 6,
+            "domain": "profileprecisionextrusions.com",
+            "title": "Aluminum Extrusions: A Game Changer for Medical Devices",
+            "url": "https://profileprecisionextrusions.com/aluminum-extrusions-a-game-changer-for-medical-devices/"
+          },
+          {
+            "rank": 7,
+            "domain": "www.medicaldesignbriefs.com",
+            "title": "Revitalizing Product Development with Aluminum Extrusions",
+            "url": "https://www.medicaldesignbriefs.com/component/content/article/20908-revitalizing-product-development-with-aluminum-extrusions"
+          },
+          {
+            "rank": 8,
+            "domain": "www.psiextrusions.com",
+            "title": "Aluminum Fabricated Parts for Medical Devices",
+            "url": "https://www.psiextrusions.com/industries/medical/"
+          },
+          {
+            "rank": 9,
+            "domain": "www.alexandriaindustries.com",
+            "title": "10 Tips For Designing Medical Components With Aluminum",
+            "url": "https://www.alexandriaindustries.com/industry-news/10-tips-designing-medical-components-aluminum/"
+          },
+          {
+            "rank": 10,
+            "domain": "www.compass-anvil.com",
+            "title": "Aluminum Extrusions for Healthcare Applications",
+            "url": "https://www.compass-anvil.com/blog/index.php/2021/05/21/how-are-aluminum-extrusions-used-in-healthcare/"
+          }
+        ]
+      }
     }
   ],
   "dataforseoQuarterly": {
@@ -15622,24 +15713,94 @@
       "total": 0.092
     },
     "keywords": [
-      {"query": "aluminum extrusions for medical devices", "q2SearchDemand": null, "cpc": null, "competition": null},
-      {"query": "8020 aluminum extrusion", "q2SearchDemand": 17400, "cpc": 2.17, "competition": "HIGH"},
-      {"query": "turnkey aluminum manufacturing", "q2SearchDemand": null, "cpc": null, "competition": null},
-      {"query": "precision aluminum extrusion", "q2SearchDemand": 40, "cpc": 4.22, "competition": "MEDIUM"},
-      {"query": "cutting aluminum extrusion", "q2SearchDemand": 400, "cpc": 3.3, "competition": "MEDIUM"}
+      {
+        "query": "aluminum extrusions for medical devices",
+        "q2SearchDemand": null,
+        "cpc": null,
+        "competition": null
+      },
+      {
+        "query": "8020 aluminum extrusion",
+        "q2SearchDemand": 17400,
+        "cpc": 2.17,
+        "competition": "HIGH"
+      },
+      {
+        "query": "turnkey aluminum manufacturing",
+        "q2SearchDemand": null,
+        "cpc": null,
+        "competition": null
+      },
+      {
+        "query": "precision aluminum extrusion",
+        "q2SearchDemand": 40,
+        "cpc": 4.22,
+        "competition": "MEDIUM"
+      },
+      {
+        "query": "cutting aluminum extrusion",
+        "q2SearchDemand": 400,
+        "cpc": 3.3,
+        "competition": "MEDIUM"
+      }
     ],
     "serp": {
       "keyword": "aluminum extrusions for medical devices",
       "organicResults": [
-        {"rank": 2, "domain": "aec.org", "title": "Healthcare", "url": "https://aec.org/healthcare"},
-        {"rank": 3, "domain": "mmgextrusions.com", "title": "Aluminum Extrusions for Medical Equipment", "url": "https://mmgextrusions.com/industries/medical-equipment/"},
-        {"rank": 4, "domain": "taberextrusions.com", "title": "Aluminum Extrusions Provide Healthcare Solutions", "url": "https://taberextrusions.com/aluminum-extrusions-provide-healthcare-solutions/"},
-        {"rank": 5, "domain": "www.minalex.com", "title": "Miniature Aluminum Extrusions: Vital in Healthcare ...", "url": "https://www.minalex.com/2024/03/04/miniature-aluminum-extrusions-critical-components-in-healthcare-and-medical-environments/"},
-        {"rank": 6, "domain": "profileprecisionextrusions.com", "title": "Aluminum Extrusions: A Game Changer for Medical Devices", "url": "https://profileprecisionextrusions.com/aluminum-extrusions-a-game-changer-for-medical-devices/"},
-        {"rank": 7, "domain": "www.medicaldesignbriefs.com", "title": "Revitalizing Product Development with Aluminum Extrusions", "url": "https://www.medicaldesignbriefs.com/component/content/article/20908-revitalizing-product-development-with-aluminum-extrusions"},
-        {"rank": 8, "domain": "www.psiextrusions.com", "title": "Aluminum Fabricated Parts for Medical Devices", "url": "https://www.psiextrusions.com/industries/medical/"},
-        {"rank": 9, "domain": "www.alexandriaindustries.com", "title": "10 Tips For Designing Medical Components With Aluminum", "url": "https://www.alexandriaindustries.com/industry-news/10-tips-designing-medical-components-aluminum/"},
-        {"rank": 10, "domain": "www.compass-anvil.com", "title": "Aluminum Extrusions for Healthcare Applications", "url": "https://www.compass-anvil.com/blog/index.php/2021/05/21/how-are-aluminum-extrusions-used-in-healthcare/"}
+        {
+          "rank": 2,
+          "domain": "aec.org",
+          "title": "Healthcare",
+          "url": "https://aec.org/healthcare"
+        },
+        {
+          "rank": 3,
+          "domain": "mmgextrusions.com",
+          "title": "Aluminum Extrusions for Medical Equipment",
+          "url": "https://mmgextrusions.com/industries/medical-equipment/"
+        },
+        {
+          "rank": 4,
+          "domain": "taberextrusions.com",
+          "title": "Aluminum Extrusions Provide Healthcare Solutions",
+          "url": "https://taberextrusions.com/aluminum-extrusions-provide-healthcare-solutions/"
+        },
+        {
+          "rank": 5,
+          "domain": "www.minalex.com",
+          "title": "Miniature Aluminum Extrusions: Vital in Healthcare ...",
+          "url": "https://www.minalex.com/2024/03/04/miniature-aluminum-extrusions-critical-components-in-healthcare-and-medical-environments/"
+        },
+        {
+          "rank": 6,
+          "domain": "profileprecisionextrusions.com",
+          "title": "Aluminum Extrusions: A Game Changer for Medical Devices",
+          "url": "https://profileprecisionextrusions.com/aluminum-extrusions-a-game-changer-for-medical-devices/"
+        },
+        {
+          "rank": 7,
+          "domain": "www.medicaldesignbriefs.com",
+          "title": "Revitalizing Product Development with Aluminum Extrusions",
+          "url": "https://www.medicaldesignbriefs.com/component/content/article/20908-revitalizing-product-development-with-aluminum-extrusions"
+        },
+        {
+          "rank": 8,
+          "domain": "www.psiextrusions.com",
+          "title": "Aluminum Fabricated Parts for Medical Devices",
+          "url": "https://www.psiextrusions.com/industries/medical/"
+        },
+        {
+          "rank": 9,
+          "domain": "www.alexandriaindustries.com",
+          "title": "10 Tips For Designing Medical Components With Aluminum",
+          "url": "https://www.alexandriaindustries.com/industry-news/10-tips-designing-medical-components-aluminum/"
+        },
+        {
+          "rank": 10,
+          "domain": "www.compass-anvil.com",
+          "title": "Aluminum Extrusions for Healthcare Applications",
+          "url": "https://www.compass-anvil.com/blog/index.php/2021/05/21/how-are-aluminum-extrusions-used-in-healthcare/"
+        }
       ]
     }
   },
@@ -15679,6 +15840,92 @@
       "clickDelta": 0,
       "ctrDelta": 0,
       "rankDelta": 0
-    }
+    },
+    "actionPlans": [
+      {
+        "period": "1–30 天",
+        "title": "提升 /8020-aluminum-extrusion-t-slot-profiles-guide 的搜索点击率",
+        "copy": "完整报告期该页获得 279 次曝光、0 次点击，CTR 0.00%，平均排名第 31.0 位。优先优化标题、描述、首屏卖点与询盘入口。",
+        "kpi": "观察：该页曝光、CTR、自然点击与询盘关键事件"
+      },
+      {
+        "period": "31–60 天",
+        "title": "推进“aluminum extrusions for medical devices”的自然排名",
+        "copy": "该词在完整报告期累计 66 次曝光、0 次点击，平均排名第 24.0 位。围绕对应采购场景补充页面信息，并从相关产品与案例页建立内链。",
+        "kpi": "观察：该词排名、曝光、自然点击与相关页面会话"
+      },
+      {
+        "period": "61–90 天",
+        "title": "改善 / 的访问承接",
+        "copy": "完整报告期该页有 20 次会话，跳出率 95.00%。优化首屏价值说明、相关内容入口和询盘 CTA，提升访问后的下一步行动。",
+        "kpi": "观察：跳出率、平均互动时长、CTA 点击与关键事件"
+      }
+    ]
+  },
+  "strategyOpportunities": {
+    "archiveMonth": "2026-08",
+    "collectedAt": "2026-08-05T08:44:08Z",
+    "location": "United States",
+    "language": "English",
+    "disclaimer": "第三方策略发现，不替代 GSC / GA4 / DataForSEO 核心指标。候选竞品，尚未确认。",
+    "priorityOpportunities": [],
+    "domainKeywords": [
+      {
+        "keyword": "aluminium strength to weight ratio",
+        "rank": 72,
+        "url": "https://www.liangyin-aluminum.com/aluminum-extrusion-weight-calculator-strength-guide/",
+        "trafficEstimate": 0.084
+      },
+      {
+        "keyword": "aluminum strength to-weight ratio",
+        "rank": 73,
+        "url": "https://www.liangyin-aluminum.com/aluminum-extrusion-weight-calculator-strength-guide/",
+        "trafficEstimate": 0.084
+      },
+      {
+        "keyword": "aluminum strength-to weight ratio",
+        "rank": 76,
+        "url": "https://www.liangyin-aluminum.com/aluminum-extrusion-weight-calculator-strength-guide/",
+        "trafficEstimate": 0.084
+      }
+    ],
+    "competitorDirections": [
+      {
+        "competitor": "aec.org",
+        "keyword": "aluminum extruders",
+        "intent": "transactional",
+        "pageType": "主题聚合页"
+      },
+      {
+        "competitor": "aec.org",
+        "keyword": "aluminium extrusion equipment",
+        "intent": "commercial",
+        "pageType": "场景专题页"
+      },
+      {
+        "competitor": "aec.org",
+        "keyword": "aluminum extrusion design",
+        "intent": "commercial",
+        "pageType": "分类/产品专题页"
+      },
+      {
+        "competitor": "mmgextrusions.com",
+        "keyword": "vitex extrusion",
+        "intent": "transactional",
+        "pageType": "主题聚合页"
+      },
+      {
+        "competitor": "taberextrusions.com",
+        "keyword": "aluminum 6000 series",
+        "intent": "transactional",
+        "pageType": "分类/产品专题页"
+      },
+      {
+        "competitor": "taberextrusions.com",
+        "keyword": "6000 series aluminium alloy",
+        "intent": "transactional",
+        "pageType": "分类/产品专题页"
+      }
+    ]
   }
 }

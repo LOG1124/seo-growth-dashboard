@@ -8649,18 +8649,18 @@
     "priorityOpportunities": [
       {
         "keyword": "body care manufacturer",
-        "current_rank": 53,
-        "matched_url": "https://guogancosmetics.com/body-care-products-manufacturers-top-12-brands-worth-knowing/",
+        "currentRank": 53,
+        "matchedUrl": "https://guogancosmetics.com/body-care-products-manufacturers-top-12-brands-worth-knowing/",
         "recommendation": "重写或扩展已有页面，并补充内链",
-        "recommended_page_type": "B2B 落地页",
+        "pageType": "B2B 落地页",
         "intent": "commercial"
       },
       {
         "keyword": "best private label skin care manufacturers",
-        "current_rank": 32,
-        "matched_url": "https://guogancosmetics.com/natural-skin-care-manufacturers-7-best-picks-for-your-brand/",
+        "currentRank": 32,
+        "matchedUrl": "https://guogancosmetics.com/natural-skin-care-manufacturers-7-best-picks-for-your-brand/",
         "recommendation": "重写或扩展已有页面，并补充内链",
-        "recommended_page_type": "对比评测页",
+        "pageType": "对比评测页",
         "intent": "commercial"
       }
     ],
@@ -8669,31 +8669,31 @@
         "keyword": "natural products manufacturers",
         "rank": 10,
         "url": "https://guogancosmetics.com/natural-skin-care-manufacturers-7-best-picks-for-your-brand/",
-        "traffic_estimate": 0.791
+        "trafficEstimate": 0.791
       },
       {
         "keyword": "natural products manufacturer",
         "rank": 14,
         "url": "https://guogancosmetics.com/natural-skin-care-manufacturers-7-best-picks-for-your-brand/",
-        "traffic_estimate": 0.392
+        "trafficEstimate": 0.392
       },
       {
         "keyword": "natural skincare manufacturers",
         "rank": 22,
         "url": "https://guogancosmetics.com/natural-skin-care-manufacturers-7-best-picks-for-your-brand/",
-        "traffic_estimate": 0.066
+        "trafficEstimate": 0.066
       },
       {
         "keyword": "custom hair products",
         "rank": 27,
         "url": "https://guogancosmetics.com/custom-hair-products-7-brands-actually-worth-trying/",
-        "traffic_estimate": 1.239
+        "trafficEstimate": 1.239
       },
       {
         "keyword": "natural skincare manufacturer",
         "rank": 29,
         "url": "https://guogancosmetics.com/natural-skin-care-manufacturers-7-best-picks-for-your-brand/",
-        "traffic_estimate": 0.063
+        "trafficEstimate": 0.063
       }
     ],
     "competitorDirections": [
@@ -8701,37 +8701,37 @@
         "competitor": "ladyburd.com",
         "keyword": "beauty product manufacturers",
         "intent": "commercial",
-        "page_type": "产品/服务落地页"
+        "pageType": "产品/服务落地页"
       },
       {
         "competitor": "ladyburd.com",
         "keyword": "beauty product manufacturing",
         "intent": "commercial",
-        "page_type": "分类/产品专题页"
+        "pageType": "分类/产品专题页"
       },
       {
         "competitor": "ladyburd.com",
         "keyword": "beauty products manufacturer",
         "intent": "commercial",
-        "page_type": "产品/服务落地页"
+        "pageType": "产品/服务落地页"
       },
       {
         "competitor": "ladyburd.com",
         "keyword": "beauty products manufacturers",
         "intent": "commercial",
-        "page_type": "产品/服务落地页"
+        "pageType": "产品/服务落地页"
       },
       {
         "competitor": "ladyburd.com",
         "keyword": "beauty products manufacturing",
         "intent": "commercial",
-        "page_type": "分类/产品专题页"
+        "pageType": "分类/产品专题页"
       },
       {
         "competitor": "wholesalenaturalbodycare.com",
         "keyword": "hair oil in bulk",
         "intent": "transactional",
-        "page_type": "分类/产品专题页"
+        "pageType": "分类/产品专题页"
       }
     ]
   },
@@ -22462,6 +22462,26 @@
       "clickDelta": 162.5,
       "ctrDelta": -41.423752270564826,
       "rankDelta": -5.609999999999999
-    }
+    },
+    "actionPlans": [
+      {
+        "period": "1–30 天",
+        "title": "提升 /natural-skin-care-manufacturers-7-best-picks-for-your-brand 的搜索点击率",
+        "copy": "本月该页获得 1,091 次曝光、1 次点击，CTR 0.09%，平均排名第 21.7 位。优先优化标题、描述、首屏卖点与询盘入口。",
+        "kpi": "观察：该页曝光、CTR、自然点击与询盘关键事件"
+      },
+      {
+        "period": "31–60 天",
+        "title": "推进“\"anti-hair-loss shampoo manufacturer\"”的自然排名",
+        "copy": "该词在本月累计 101 次曝光、0 次点击，平均排名第 17.1 位。围绕对应采购场景补充页面信息，并从相关产品与案例页建立内链。",
+        "kpi": "观察：该词排名、曝光、自然点击与相关页面会话"
+      },
+      {
+        "period": "61–90 天",
+        "title": "改善 /product-category/products 的访问承接",
+        "copy": "本月该页有 14 次会话，跳出率 57.14%。优化首屏价值说明、相关内容入口和询盘 CTA，提升访问后的下一步行动。",
+        "kpi": "观察：跳出率、平均互动时长、CTA 点击与关键事件"
+      }
+    ]
   }
 }
